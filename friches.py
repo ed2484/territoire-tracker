@@ -118,8 +118,15 @@ def score_pertinence(site_type, surface, statut, pollution):
     t = normalize(site_type)
     if any(k in t for k in TYPES_PERTINENTS):
         score += 3
-    if statut and "reconvert" in normalize(statut):
-        score -= 3
+
+    s = normalize(statut)
+    if "reconvert" in s:
+        score -= 4  # terminé : aucun intérêt pour une stratégie de positionnement en amont
+    elif "projet" in s:
+        score -= 2  # un porteur de projet est déjà engagé : probablement trop tard, mais pas à exclure
+    elif "potentiel" in s:
+        score += 2  # rien n'est encore engagé : c'est là que le lobbying en amont a le plus de valeur
+
     surf_value = None
     try:
         surf_value = float(str(surface).replace(",", "."))
