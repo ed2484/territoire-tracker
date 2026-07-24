@@ -1,0 +1,33 @@
+name: Friches Cartofriches
+
+on:
+  schedule:
+    - cron: "0 5 1 * *"   # le 1er de chaque mois à 05:00 UTC (les données Cartofriches sont mises à jour ~1x/trimestre)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  friches:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install requests
+
+      - name: Lancer la collecte
+        run: python friches.py
+
+      - name: Committer le résultat s'il a changé
+        run: |
+          git config user.name "friches-bot"
+          git config user.email "friches-bot@users.noreply.github.com"
+          git add friches.json candidates.json
+          git diff --quiet --cached || git commit -m "Friches + candidates du $(date -u +%Y-%m-%d)"
+          git push
