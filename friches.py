@@ -154,8 +154,19 @@ def main():
     print("Téléchargement du jeu de données national Cartofriches (~25 Mo)...")
     resp = requests.get(FRICHES_CSV_URL, headers=HEADERS, timeout=180)
     resp.raise_for_status()
-    reader = csv.DictReader(io.StringIO(resp.content.decode("utf-8", errors="replace")))
+    raw_text = resp.content.decode("utf-8", errors="replace")
+
+    try:
+        dialect = csv.Sniffer().sniff(raw_text[:5000], delimiters=";,\t")
+        print(f"[INFO] Séparateur détecté : {dialect.delimiter!r}")
+    except csv.Error:
+        dialect = csv.excel
+        dialect.delimiter = ";"
+        print("[INFO] Détection automatique échouée, séparateur ';' utilisé par défaut.")
+
+    reader = csv.DictReader(io.StringIO(raw_text), dialect=dialect)
     fieldnames = reader.fieldnames or []
+    print(f"[INFO] {len(fieldnames)} colonnes détectées, aperçu : {fieldnames[:10]}")
 
     col_insee = find_column(fieldnames, ["comm_insee", "insee"])
     col_commnom = find_column(fieldnames, ["comm_nom"])
@@ -181,9 +192,14 @@ def main():
     tracked_result = {}
     candidate_communes = {}  # insee -> {nom, dept, friches: [...]}
     total_matched = 0
+    total_rows = 0
+    sample_insee_values = []
 
     for row in reader:
+        total_rows += 1
         code = (row.get(col_insee) or "").strip()
+        if total_rows <= 3:
+            sample_insee_values.append(code)
         if not code:
             continue
 
@@ -217,6 +233,8 @@ def main():
                 "friches": [],
             })
             bucket["friches"].append(entry)
+
+    print(f"[INFO] {total_rows} lignes lues au total. Exemples de codes INSEE lus : {sample_insee_values}")
 
     for commune, friches in tracked_result.items():
         friches.sort(key=lambda f: f["score_pertinence"], reverse=True)
