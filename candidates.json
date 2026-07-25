@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T19:35:10.568718+00:00",
+  "generated_at": "2026-07-25T08:49:25.217099+00:00",
   "candidates": [
     {
       "commune": "Marseille",
@@ -16,7 +16,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         },
         {
           "nom": "ancienne poissonnerie Servaux",
@@ -28,7 +28,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         },
         {
           "nom": "Gare de Saint-Barthélémy",
@@ -40,7 +40,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         }
       ],
       "meilleure_friche": {
@@ -53,85 +53,16 @@
         "lat": "",
         "lng": "",
         "source_url": "NA",
-        "score_pertinence": 7
+        "score_pertinence": 9
       },
-      "nb_friches_pertinentes": 31,
-      "score_commune": 146
-    },
-    {
-      "commune": "Antibes",
-      "insee": "06004",
-      "departement": "06",
-      "friches": [
-        {
-          "nom": "Serres horticoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "Allée de l'Estagnol",
-          "surface_m2": "66196",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Serres agricoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "7000",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 6
-        },
-        {
-          "nom": "Serres agricoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "7442",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 6
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Serres horticoles",
-        "type": "friche agro-industrielle",
-        "statut": "friche potentielle",
-        "adresse": "Allée de l'Estagnol",
-        "surface_m2": "66196",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
-      },
-      "nb_friches_pertinentes": 21,
-      "score_commune": 123
+      "nb_friches_pertinentes": 54,
+      "score_commune": 299
     },
     {
       "commune": "Le Lamentin",
       "insee": "97213",
       "departement": "972",
       "friches": [
-        {
-          "nom": "ZI Pl.d'Armes 2",
-          "type": "friche industrielle",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "18962",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
         {
           "nom": "Plaine CARRERE 1",
           "type": "friche logistique",
@@ -142,7 +73,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         },
         {
           "nom": "Lézarde 4",
@@ -154,80 +85,35 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
+        },
+        {
+          "nom": "Lézarde en ZMGVH",
+          "type": "friche industrielle",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "147227",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
         }
       ],
       "meilleure_friche": {
-        "nom": "ZI Pl.d'Armes 2",
-        "type": "friche industrielle",
+        "nom": "Plaine CARRERE 1",
+        "type": "friche logistique",
         "statut": "friche potentielle",
         "adresse": "NA",
-        "surface_m2": "18962",
+        "surface_m2": "50857",
         "pollution": "inconnu",
         "lat": "",
         "lng": "",
         "source_url": "NA",
-        "score_pertinence": 7
+        "score_pertinence": 9
       },
-      "nb_friches_pertinentes": 14,
-      "score_commune": 79
-    },
-    {
-      "commune": "Nice",
-      "insee": "06088",
-      "departement": "06",
-      "friches": [
-        {
-          "nom": "Serre agricole",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "17517",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Serres agricoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "17221",
-          "pollution": "pollution peu probable",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Serres agricoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "34607",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Serre agricole",
-        "type": "friche agro-industrielle",
-        "statut": "friche potentielle",
-        "adresse": "",
-        "surface_m2": "17517",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
-      },
-      "nb_friches_pertinentes": 12,
-      "score_commune": 73
+      "nb_friches_pertinentes": 15,
+      "score_commune": 106
     },
     {
       "commune": "ROUBAIX",
@@ -235,227 +121,56 @@
       "departement": "59",
       "friches": [
         {
-          "nom": "Dépôt mixte d'alcools",
+          "nom": "Traitement de déchets industriels",
           "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "28414",
-          "pollution": "inconnu",
+          "surface_m2": "232441",
+          "pollution": "pollution supposée",
           "lat": "",
           "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5904966",
-          "score_pertinence": 4
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5951210",
+          "score_pertinence": 6
         },
         {
-          "nom": "Transformation de matières plastiques, ex-atelier de décolletage",
+          "nom": "Usine de filature",
           "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "19214",
+          "surface_m2": "58065",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5900904",
-          "score_pertinence": 4
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5950579",
+          "score_pertinence": 6
         },
         {
-          "nom": "La Maison du pneu",
+          "nom": "Transports",
           "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "19730",
-          "pollution": "inconnu",
+          "surface_m2": "413658",
+          "pollution": "pollution supposée",
           "lat": "",
           "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5904738",
-          "score_pertinence": 4
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5904604",
+          "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
-        "nom": "Dépôt mixte d'alcools",
+        "nom": "Traitement de déchets industriels",
         "type": "inconnu",
         "statut": "friche potentielle",
         "adresse": "NA",
-        "surface_m2": "28414",
-        "pollution": "inconnu",
+        "surface_m2": "232441",
+        "pollution": "pollution supposée",
         "lat": "",
         "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5904966",
-        "score_pertinence": 4
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5951210",
+        "score_pertinence": 6
       },
-      "nb_friches_pertinentes": 13,
-      "score_commune": 52
-    },
-    {
-      "commune": "Wittenheim",
-      "insee": "68376",
-      "departement": "68",
-      "friches": [
-        {
-          "nom": "Gesal",
-          "type": "friche industrielle",
-          "statut": "friche potentielle",
-          "adresse": "15 Rue Joseph Vogt 68270 Wittenheim",
-          "surface_m2": "193746",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "MDPA",
-          "type": "friche industrielle",
-          "statut": "friche potentielle",
-          "adresse": "8 Rue de la Poudrière 68120 Richwiller",
-          "surface_m2": "488993",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Terril MDPA",
-          "type": "friche industrielle",
-          "statut": "friche potentielle",
-          "adresse": "29 Rue du Général de Gaulle 68270 Ruelisheim",
-          "surface_m2": "121362",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Gesal",
-        "type": "friche industrielle",
-        "statut": "friche potentielle",
-        "adresse": "15 Rue Joseph Vogt 68270 Wittenheim",
-        "surface_m2": "193746",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
-      },
-      "nb_friches_pertinentes": 8,
-      "score_commune": 49
-    },
-    {
-      "commune": "Cannes",
-      "insee": "06029",
-      "departement": "06",
-      "friches": [
-        {
-          "nom": "Serres agricoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "42547",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Serres agricoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "514197",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Serres agricoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "514197",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Serres agricoles",
-        "type": "friche agro-industrielle",
-        "statut": "friche potentielle",
-        "adresse": "",
-        "surface_m2": "42547",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
-      },
-      "nb_friches_pertinentes": 7,
-      "score_commune": 48
-    },
-    {
-      "commune": "CANTELEU",
-      "insee": "76157",
-      "departement": "76",
-      "friches": [
-        {
-          "nom": "Ancien dépôt de pétrole",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "37196",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600931",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Ancien dépôt de pétrole",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "51411",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600942",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Ancien four et carrière à chaux",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "20896",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600017",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Ancien dépôt de pétrole",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "37196",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600931",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 11,
-      "score_commune": 44
+      "nb_friches_pertinentes": 20,
+      "score_commune": 86
     },
     {
       "commune": "Septèmes-les-Vallons",
@@ -472,7 +187,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 4
+          "score_pertinence": 6
         },
         {
           "nom": "Société Routière Colas",
@@ -484,7 +199,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 4
+          "score_pertinence": 6
         },
         {
           "nom": "Société Routière Colas",
@@ -496,7 +211,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 4
+          "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
@@ -509,40 +224,16 @@
         "lat": "",
         "lng": "",
         "source_url": "NA",
-        "score_pertinence": 4
+        "score_pertinence": 6
       },
-      "nb_friches_pertinentes": 11,
-      "score_commune": 44
+      "nb_friches_pertinentes": 16,
+      "score_commune": 86
     },
     {
       "commune": "TOURCOING",
       "insee": "59599",
       "departement": "59",
       "friches": [
-        {
-          "nom": "Travaux de bâtiment",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "17951",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5952167",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Filature Leurent",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "15941",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5901305",
-          "score_pertinence": 4
-        },
         {
           "nom": "Teinturerie Masurel",
           "type": "inconnu",
@@ -553,23 +244,389 @@
           "lat": "",
           "lng": "",
           "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5901284",
-          "score_pertinence": 4
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Fonderie Decock",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "360767",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5903935",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Coopérative de consomation",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "58881",
+          "pollution": "pollution supposée",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5950224",
+          "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
-        "nom": "Travaux de bâtiment",
+        "nom": "Teinturerie Masurel",
         "type": "inconnu",
         "statut": "friche potentielle",
         "adresse": "NA",
-        "surface_m2": "17951",
+        "surface_m2": "38818",
         "pollution": "inconnu",
         "lat": "",
         "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5952167",
-        "score_pertinence": 4
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5901284",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 17,
+      "score_commune": 84
+    },
+    {
+      "commune": "CANTELEU",
+      "insee": "76157",
+      "departement": "76",
+      "friches": [
+        {
+          "nom": "Ancien dépôt de pétrole",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "37196",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600931",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Ancien dépôt de pétrole",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "51411",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600942",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Papeteries Aubry",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "39610",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600910",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Ancien dépôt de pétrole",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "37196",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600931",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 13,
+      "score_commune": 71
+    },
+    {
+      "commune": "Wittenheim",
+      "insee": "68376",
+      "departement": "68",
+      "friches": [
+        {
+          "nom": "Gesal",
+          "type": "friche industrielle",
+          "statut": "friche potentielle",
+          "adresse": "15 Rue Joseph Vogt 68270 Wittenheim",
+          "surface_m2": "193746",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "MDPA",
+          "type": "friche industrielle",
+          "statut": "friche potentielle",
+          "adresse": "8 Rue de la Poudrière 68120 Richwiller",
+          "surface_m2": "488993",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "Terril MDPA",
+          "type": "friche industrielle",
+          "statut": "friche potentielle",
+          "adresse": "29 Rue du Général de Gaulle 68270 Ruelisheim",
+          "surface_m2": "121362",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Gesal",
+        "type": "friche industrielle",
+        "statut": "friche potentielle",
+        "adresse": "15 Rue Joseph Vogt 68270 Wittenheim",
+        "surface_m2": "193746",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 9
+      },
+      "nb_friches_pertinentes": 9,
+      "score_commune": 69
+    },
+    {
+      "commune": "LILLE",
+      "insee": "59350",
+      "departement": "59",
+      "friches": [
+        {
+          "nom": "Entreprise de transport",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "124840",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5908138",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Ateliers métallurgiques",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "51398",
+          "pollution": "pollution supposée",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5907196",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "SEITA",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "102194",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5951795",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Entreprise de transport",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "124840",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5908138",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 15,
+      "score_commune": 68
+    },
+    {
+      "commune": "FLESSELLES",
+      "insee": "80316",
+      "departement": "80",
+      "friches": [
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "BOIS JEROME",
+          "surface_m2": "134407",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        },
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "BOIS JEROME",
+          "surface_m2": "134407",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        },
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "BOIS JEROME",
+          "surface_m2": "134407",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "",
+        "type": "friche ferroviaire",
+        "statut": "friche sans projet",
+        "adresse": "BOIS JEROME",
+        "surface_m2": "134407",
+        "pollution": "",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 5
+      },
+      "nb_friches_pertinentes": 13,
+      "score_commune": 65
+    },
+    {
+      "commune": "NA",
+      "insee": "25056",
+      "departement": "25",
+      "friches": [
+        {
+          "nom": "Région BFC-25056_45577",
+          "type": "friche logistique",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "190630",
+          "pollution": "pollution inexistante",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "Région BFC-25056_45715",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "34508",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Région BFC-25056_47185",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "49675",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Région BFC-25056_45577",
+        "type": "friche logistique",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "190630",
+        "pollution": "pollution inexistante",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 9
       },
       "nb_friches_pertinentes": 11,
-      "score_commune": 44
+      "score_commune": 64
+    },
+    {
+      "commune": "BEAUNE",
+      "insee": "21054",
+      "departement": "21",
+      "friches": [
+        {
+          "nom": "Région BFC-21054_11918",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "75315",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Région BFC-21054_11921",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "166382",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Région BFC-21054_47146",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "57282",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Région BFC-21054_11918",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "75315",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 12,
+      "score_commune": 64
     },
     {
       "commune": "Les Trois-Îlets",
@@ -586,7 +643,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         },
         {
           "nom": "Casse Morne d'Arlet",
@@ -598,19 +655,19 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 4
+          "score_pertinence": 6
         },
         {
-          "nom": "La Xavier 2",
+          "nom": "Citronniers 1",
           "type": "friche d'habitat",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "18823",
+          "surface_m2": "807341",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 4
+          "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
@@ -623,181 +680,10 @@
         "lat": "",
         "lng": "",
         "source_url": "NA",
-        "score_pertinence": 7
+        "score_pertinence": 9
       },
-      "nb_friches_pertinentes": 10,
-      "score_commune": 43
-    },
-    {
-      "commune": "La Trinité",
-      "insee": "97230",
-      "departement": "972",
-      "friches": [
-        {
-          "nom": "Carnot",
-          "type": "friche d'habitat",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "18630",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Morne Poirier 1",
-          "type": "friche d'habitat",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "22795",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Morne Poirier 3",
-          "type": "friche d'habitat",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "18809",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Carnot",
-        "type": "friche d'habitat",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "18630",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 10,
-      "score_commune": 40
-    },
-    {
-      "commune": "AUXERRE",
-      "insee": "89024",
-      "departement": "89",
-      "friches": [
-        {
-          "nom": "Région BFC-89024_11011",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "33960",
-          "pollution": "pollution supposée",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-89024_47105",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "33960",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-89024_12724",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "96324",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Région BFC-89024_11011",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "33960",
-        "pollution": "pollution supposée",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 10,
-      "score_commune": 40
-    },
-    {
-      "commune": "MONTCEAU-LES-MINES",
-      "insee": "71306",
-      "departement": "71",
-      "friches": [
-        {
-          "nom": "Région BFC-71306_18216",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "693452",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-71306_46480",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "17932",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-71306_45507",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "17932",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Région BFC-71306_18216",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "693452",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 10,
-      "score_commune": 40
+      "nb_friches_pertinentes": 12,
+      "score_commune": 63
     },
     {
       "commune": "Le Robert",
@@ -826,7 +712,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 4
+          "score_pertinence": 6
         },
         {
           "nom": "Pointe Lynch 1",
@@ -838,7 +724,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 4
+          "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
@@ -853,14 +739,311 @@
         "source_url": "NA",
         "score_pertinence": 7
       },
-      "nb_friches_pertinentes": 9,
-      "score_commune": 39
+      "nb_friches_pertinentes": 10,
+      "score_commune": 60
+    },
+    {
+      "commune": "AUXERRE",
+      "insee": "89024",
+      "departement": "89",
+      "friches": [
+        {
+          "nom": "Région BFC-89024_11011",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "33960",
+          "pollution": "pollution supposée",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Région BFC-89024_47105",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "33960",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Région BFC-89024_12724",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "96324",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Région BFC-89024_11011",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "33960",
+        "pollution": "pollution supposée",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 11,
+      "score_commune": 60
+    },
+    {
+      "commune": "MONTCEAU-LES-MINES",
+      "insee": "71306",
+      "departement": "71",
+      "friches": [
+        {
+          "nom": "Région BFC-71306_18216",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "693452",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Région BFC-71306_45796",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "4826627",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Région BFC-71306_46759",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "4826627",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Région BFC-71306_18216",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "693452",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 11,
+      "score_commune": 58
+    },
+    {
+      "commune": "LIMOGES",
+      "insee": "87085",
+      "departement": "87",
+      "friches": [
+        {
+          "nom": "TOLERIE AUTOMOBILE",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "1207784",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/LIM8700103",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "fabrique de porcelaine",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "30901",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/LIM8703375",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Point P",
+          "type": "friche commerciale",
+          "statut": "friche sans projet",
+          "adresse": "Route de Toulouse",
+          "surface_m2": "32666",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "TOLERIE AUTOMOBILE",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "1207784",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/LIM8700103",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 13,
+      "score_commune": 57
+    },
+    {
+      "commune": "La Trinité",
+      "insee": "97230",
+      "departement": "972",
+      "friches": [
+        {
+          "nom": "Entrée Tartane",
+          "type": "mixte",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "38726",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Bd Mitterrand",
+          "type": "mixte",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "34277",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Haut de cour fruit à pain",
+          "type": "friche d'habitat",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "139681",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Entrée Tartane",
+        "type": "mixte",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "38726",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 11,
+      "score_commune": 56
+    },
+    {
+      "commune": "SAINT-YRIEIX-SUR-CHARENTE",
+      "insee": "16358",
+      "departement": "16",
+      "friches": [
+        {
+          "nom": "210 RUE DE ROYAN",
+          "type": "friche d'habitat",
+          "statut": "friche potentielle",
+          "adresse": "210 rue de Royan",
+          "surface_m2": "47166",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "https://www.google.fr/maps/@45.6671244,0.1214541,3a,75y,48.58h,85.61t/data=!3m6!1e1!3m4!1sstcAD2luUkiZfivLXdm6RA!2e0!7i16384!8i8192?hl=fr&coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "1 IMPASSE PUYGARDIN",
+          "type": "friche d'habitat",
+          "statut": "friche potentielle",
+          "adresse": "1 impasse Puygardin",
+          "surface_m2": "61968",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "https://www.google.fr/maps/@45.673586,0.1252201,3a,75y,230.87h,80.71t/data=!3m6!1e1!3m4!1sdm2VstDQTGPy9m7D76ajsA!2e0!7i16384!8i8192?hl=fr&coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "221 RUE DES MESNIERS|ZA DE LA COMBE",
+          "type": "friche commerciale",
+          "statut": "friche sans projet",
+          "adresse": "221 rue des Mesniers|ZA de la Combe",
+          "surface_m2": "52724",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "210 RUE DE ROYAN",
+        "type": "friche d'habitat",
+        "statut": "friche potentielle",
+        "adresse": "210 rue de Royan",
+        "surface_m2": "47166",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "https://www.google.fr/maps/@45.6671244,0.1214541,3a,75y,48.58h,85.61t/data=!3m6!1e1!3m4!1sstcAD2luUkiZfivLXdm6RA!2e0!7i16384!8i8192?hl=fr&coh=205409&entry=ttu&g_ep=EgoyMDI0MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 11,
+      "score_commune": 54
     },
     {
       "commune": "GRAULHET",
       "insee": "81105",
       "departement": "81",
       "friches": [
+        {
+          "nom": "MIPEX ETS&JOQUEVIEL-VIEU/ PEYRUSSE M.&Co/JOQUEVIEL-VIEU/ DELAINAGE DADOU/ BARDOU-DELPY/ VIGUIER-LACOURT/BARDOU Frères/JOQUEVIEL frères&VIEU/JOCQUEVIEL E./CASSAN M.&B.(1870),MEGISSERIE,PIGMENTATION,DLI",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "339260",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8110129",
+          "score_pertinence": 6
+        },
         {
           "nom": "TANNERIE DE LA MAINE/ TANNERIE D'AQUITAINE/ MEGISSERIE DE LA MAINE (GEROMIN)/ GROS Frères/ GROS G./ GROS F./ F. GROS & A. GARDES/ GROS A./ MAURIES Pascal/ MAURIES Père & fils, MEGISSERIE, PIGMENTATION",
           "type": "inconnu",
@@ -884,508 +1067,28 @@
           "lng": "",
           "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8100291",
           "score_pertinence": 4
-        },
-        {
-          "nom": "MIPEX ETS&JOQUEVIEL-VIEU/ PEYRUSSE M.&Co/JOQUEVIEL-VIEU/ DELAINAGE DADOU/ BARDOU-DELPY/ VIGUIER-LACOURT/BARDOU Frères/JOQUEVIEL frères&VIEU/JOCQUEVIEL E./CASSAN M.&B.(1870),MEGISSERIE,PIGMENTATION,DLI",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "339260",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8110129",
-          "score_pertinence": 4
         }
       ],
       "meilleure_friche": {
-        "nom": "TANNERIE DE LA MAINE/ TANNERIE D'AQUITAINE/ MEGISSERIE DE LA MAINE (GEROMIN)/ GROS Frères/ GROS G./ GROS F./ F. GROS & A. GARDES/ GROS A./ MAURIES Pascal/ MAURIES Père & fils, MEGISSERIE, PIGMENTATION",
+        "nom": "MIPEX ETS&JOQUEVIEL-VIEU/ PEYRUSSE M.&Co/JOQUEVIEL-VIEU/ DELAINAGE DADOU/ BARDOU-DELPY/ VIGUIER-LACOURT/BARDOU Frères/JOQUEVIEL frères&VIEU/JOCQUEVIEL E./CASSAN M.&B.(1870),MEGISSERIE,PIGMENTATION,DLI",
         "type": "inconnu",
         "statut": "friche potentielle",
         "adresse": "NA",
-        "surface_m2": "22325",
+        "surface_m2": "339260",
         "pollution": "inconnu",
         "lat": "",
         "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8110217",
-        "score_pertinence": 4
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8110129",
+        "score_pertinence": 6
       },
-      "nb_friches_pertinentes": 9,
-      "score_commune": 36
-    },
-    {
-      "commune": "BEAUNE",
-      "insee": "21054",
-      "departement": "21",
-      "friches": [
-        {
-          "nom": "Région BFC-21054_11918",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "75315",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-21054_11921",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "166382",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-21054_47146",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "57282",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Région BFC-21054_11918",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "75315",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 9,
-      "score_commune": 36
-    },
-    {
-      "commune": "RENNES",
-      "insee": "35238",
-      "departement": "35",
-      "friches": [
-        {
-          "nom": "Teinturerie Nouvelle",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "16318",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3501263",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "LIGER et MENSIER, fabrique d'engrais animalisé",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "64809",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3500029",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Cie de Transport d'Ille-et-Vilaine, DLI",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "434003",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3500565",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Teinturerie Nouvelle",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "16318",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3501263",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 9,
-      "score_commune": 36
-    },
-    {
-      "commune": "Briançon",
-      "insee": "05023",
-      "departement": "05",
-      "friches": [
-        {
-          "nom": "Mine du Rochasson (anthracite)",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "105273",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Station d'épuration",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "17114",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Mine du Rochasson (anthracite)",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "105273",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Mine du Rochasson (anthracite)",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "105273",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 9,
-      "score_commune": 36
-    },
-    {
-      "commune": "Roquebrune-sur-Argens",
-      "insee": "83107",
-      "departement": "83",
-      "friches": [
-        {
-          "nom": "Bâtiment agricole",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "48180",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Serres horticoles",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "34812",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Serre agricole chapelle",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "40026",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Bâtiment agricole",
-        "type": "friche agro-industrielle",
-        "statut": "friche potentielle",
-        "adresse": "",
-        "surface_m2": "48180",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
-      },
-      "nb_friches_pertinentes": 5,
-      "score_commune": 32
-    },
-    {
-      "commune": "LA MACHINE",
-      "insee": "58151",
-      "departement": "58",
-      "friches": [
-        {
-          "nom": "Région BFC-58151_45417",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "103187",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-58151_45454",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "22081",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-58151_46063",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "203776",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Région BFC-58151_45417",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "103187",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 8,
-      "score_commune": 32
-    },
-    {
-      "commune": "NA",
-      "insee": "58059",
-      "departement": "58",
-      "friches": [
-        {
-          "nom": "Région BFC-58059_18504",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "24079",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-58059_18509",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "53208",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-58059_18510",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "18682",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Région BFC-58059_18504",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "24079",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 8,
-      "score_commune": 32
-    },
-    {
-      "commune": "ANICHE",
-      "insee": "59008",
-      "departement": "59",
-      "friches": [
-        {
-          "nom": "Usine Saint-Gobain",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "94868",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5903335",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Gare Sainte-Hyacinthe",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "31281",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5902954",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "SICOVER INDUSTRIES",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "20420",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=59.0602",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Usine Saint-Gobain",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "94868",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5903335",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 8,
-      "score_commune": 32
-    },
-    {
-      "commune": "SECLIN",
-      "insee": "59560",
-      "departement": "59",
-      "friches": [
-        {
-          "nom": "SICA-SEDES",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "219967",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5907112",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Sucrerie Dujardin",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "19009",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5901102",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Filature",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "19228",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5901109",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "SICA-SEDES",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "219967",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5907112",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 8,
-      "score_commune": 32
+      "nb_friches_pertinentes": 13,
+      "score_commune": 54
     },
     {
       "commune": "CALAIS",
       "insee": "62193",
       "departement": "62",
       "friches": [
-        {
-          "nom": "DELCROIX Frères",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "21906",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC6201427",
-          "score_pertinence": 4
-        },
         {
           "nom": "Cussard Vidanges",
           "type": "inconnu",
@@ -1396,7 +1099,7 @@
           "lat": "",
           "lng": "",
           "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC6201326",
-          "score_pertinence": 4
+          "score_pertinence": 6
         },
         {
           "nom": "Teinturerie Fasquelle & Cie",
@@ -1408,593 +1111,92 @@
           "lat": "",
           "lng": "",
           "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC6201081",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "DELCROIX Frères",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "21906",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC6201427",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 8,
-      "score_commune": 32
-    },
-    {
-      "commune": "Wissembourg",
-      "insee": "67544",
-      "departement": "67",
-      "friches": [
-        {
-          "nom": "SITEK",
-          "type": "friche industrielle",
-          "statut": "friche potentielle",
-          "adresse": "Rue de Lauterbourg Altenstadt",
-          "surface_m2": "192880",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 6
         },
         {
-          "nom": "Sté Sustan",
-          "type": "friche industrielle",
+          "nom": "CFPN Alty",
+          "type": "inconnu",
           "statut": "friche potentielle",
-          "adresse": "ZI est",
-          "surface_m2": "82304",
-          "pollution": "inconnu",
+          "adresse": "NA",
+          "surface_m2": "35330",
+          "pollution": "pollution supposée",
           "lat": "",
           "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Mr Bricolage",
-          "type": "friche commerciale",
-          "statut": "friche potentielle",
-          "adresse": "34 route de la Pépinière",
-          "surface_m2": "10496",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC6201382",
           "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
-        "nom": "SITEK",
-        "type": "friche industrielle",
-        "statut": "friche potentielle",
-        "adresse": "Rue de Lauterbourg Altenstadt",
-        "surface_m2": "192880",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
-      },
-      "nb_friches_pertinentes": 6,
-      "score_commune": 32
-    },
-    {
-      "commune": "Cernay",
-      "insee": "68063",
-      "departement": "68",
-      "friches": [
-        {
-          "nom": "CSM",
-          "type": "friche industrielle",
-          "statut": "friche potentielle",
-          "adresse": "1 rue de la Cartisane, 68700 Cernay",
-          "surface_m2": "914384",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "SNCF Cernay",
-          "type": "friche ferroviaire",
-          "statut": "friche potentielle",
-          "adresse": "32 Rue René Guibert 68700 Cernay",
-          "surface_m2": "67684",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Sandoz filature de coton",
-          "type": "friche industrielle",
-          "statut": "friche potentielle",
-          "adresse": "1 Rue de la Cartisane 68700 Cernay",
-          "surface_m2": "917493",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "CSM",
-        "type": "friche industrielle",
-        "statut": "friche potentielle",
-        "adresse": "1 rue de la Cartisane, 68700 Cernay",
-        "surface_m2": "914384",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
-      },
-      "nb_friches_pertinentes": 5,
-      "score_commune": 32
-    },
-    {
-      "commune": "CAMBRAI",
-      "insee": "59122",
-      "departement": "59",
-      "friches": [
-        {
-          "nom": "Pompe à essence",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "19547",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5912601",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Station service ELF",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "15524",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5912748",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Emballages spéciaux métalliques et bois, constructions métalliques",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "37671",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5912299",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Pompe à essence",
+        "nom": "Cussard Vidanges",
         "type": "inconnu",
         "statut": "friche potentielle",
         "adresse": "NA",
-        "surface_m2": "19547",
+        "surface_m2": "72542",
         "pollution": "inconnu",
         "lat": "",
         "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5912601",
-        "score_pertinence": 4
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC6201326",
+        "score_pertinence": 6
       },
-      "nb_friches_pertinentes": 7,
-      "score_commune": 28
+      "nb_friches_pertinentes": 10,
+      "score_commune": 54
     },
     {
-      "commune": "Ducos",
-      "insee": "97207",
-      "departement": "972",
-      "friches": [
-        {
-          "nom": "Champigny Nord 3",
-          "type": "friche industrielle",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "92785",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Eiffage Génie Civil?",
-          "type": "friche logistique",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "88033",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Champigny Nord 1",
-          "type": "friche logistique",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "13565",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 6
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Champigny Nord 3",
-        "type": "friche industrielle",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "92785",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
-      },
-      "nb_friches_pertinentes": 5,
-      "score_commune": 28
-    },
-    {
-      "commune": "SAINT-MALO",
-      "insee": "35288",
+      "commune": "RENNES",
+      "insee": "35238",
       "departement": "35",
       "friches": [
         {
-          "nom": "COMMUNE DE SAINT-MALO, décharges d'ordures ménagères",
+          "nom": "LIGER et MENSIER, fabrique d'engrais animalisé",
           "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "42828",
-          "pollution": "pollution supposée",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3503134",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Dépôt de Pétroles Côtiers (DPC)",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "47933",
+          "surface_m2": "64809",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
-          "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=35.0006",
-          "score_pertinence": 4
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3500029",
+          "score_pertinence": 6
         },
         {
-          "nom": "DESMARAIS Frères Sté, station-service",
+          "nom": "Cie de Transport d'Ille-et-Vilaine, DLI",
           "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "27229",
+          "surface_m2": "434003",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3501240",
-          "score_pertinence": 4
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3500565",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "RAVEAUD et LAURENT / VERRIER, poudrette",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "118579",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3500078",
+          "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
-        "nom": "COMMUNE DE SAINT-MALO, décharges d'ordures ménagères",
+        "nom": "LIGER et MENSIER, fabrique d'engrais animalisé",
         "type": "inconnu",
         "statut": "friche potentielle",
         "adresse": "NA",
-        "surface_m2": "42828",
-        "pollution": "pollution supposée",
-        "lat": "",
-        "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3503134",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 7,
-      "score_commune": 28
-    },
-    {
-      "commune": "NA",
-      "insee": "39013",
-      "departement": "39",
-      "friches": [
-        {
-          "nom": "Région BFC-39013_47108",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "423672",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-39013_45479",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "423553",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-39013_45713",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "586218",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Région BFC-39013_47108",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "423672",
+        "surface_m2": "64809",
         "pollution": "inconnu",
         "lat": "",
         "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3500029",
+        "score_pertinence": 6
       },
-      "nb_friches_pertinentes": 7,
-      "score_commune": 28
-    },
-    {
-      "commune": "NA",
-      "insee": "25271",
-      "departement": "25",
-      "friches": [
-        {
-          "nom": "Région BFC-25271_47149",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "44948",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-25271_46297",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "44948",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Région BFC-25271_46960",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "40487",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "Région BFC-25271_47149",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "44948",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 7,
-      "score_commune": 28
-    },
-    {
-      "commune": "ANZIN",
-      "insee": "59014",
-      "departement": "59",
-      "friches": [
-        {
-          "nom": "SARL Ancien Ets Alfred VIRLY",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "16009",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5905659",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "USINOR",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "42702",
-          "pollution": "pollution supposée",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5901403",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "Atelier de Construction et Galvanisation à Beuvrages",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "215778",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5900075",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "SARL Ancien Ets Alfred VIRLY",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "16009",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5905659",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 7,
-      "score_commune": 28
-    },
-    {
-      "commune": "LE MANS",
-      "insee": "72181",
-      "departement": "72",
-      "friches": [
-        {
-          "nom": "LANGLOIS CHIMIE",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "16578",
-          "pollution": "pollution supposée",
-          "lat": "",
-          "lng": "",
-          "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=72.0008",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "DESILE, Fabrication de carrosseries isothermes",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "29628",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/PAL7200722",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "COLAS Centre Ouest - Le Mans Foucaudière",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "53115",
-          "pollution": "pollution supposée",
-          "lat": "",
-          "lng": "",
-          "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=72.0046",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "LANGLOIS CHIMIE",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "16578",
-        "pollution": "pollution supposée",
-        "lat": "",
-        "lng": "",
-        "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=72.0008",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 7,
-      "score_commune": 28
-    },
-    {
-      "commune": "LIMOGES",
-      "insee": "87085",
-      "departement": "87",
-      "friches": [
-        {
-          "nom": "TOLERIE AUTOMOBILE",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "1207784",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/LIM8700103",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "FC FRANCE ACQUISITION (venant aux droits de FERRO COULEURS FRANCE)",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "28945",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=87.0034",
-          "score_pertinence": 4
-        },
-        {
-          "nom": "fabrique de porcelaine",
-          "type": "inconnu",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "15145",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/LIM8703405",
-          "score_pertinence": 4
-        }
-      ],
-      "meilleure_friche": {
-        "nom": "TOLERIE AUTOMOBILE",
-        "type": "inconnu",
-        "statut": "friche potentielle",
-        "adresse": "NA",
-        "surface_m2": "1207784",
-        "pollution": "inconnu",
-        "lat": "",
-        "lng": "",
-        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/LIM8700103",
-        "score_pertinence": 4
-      },
-      "nb_friches_pertinentes": 7,
-      "score_commune": 28
+      "nb_friches_pertinentes": 11,
+      "score_commune": 53
     },
     {
       "commune": "Fréjus",
@@ -2011,19 +1213,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Hangar agricole",
-          "type": "friche agro-industrielle",
-          "statut": "friche potentielle",
-          "adresse": "",
-          "surface_m2": "27888",
-          "pollution": "inconnu",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         },
         {
           "nom": "Serres agricoles",
@@ -2031,6 +1221,18 @@
           "statut": "friche potentielle",
           "adresse": "391 Chemin des étangs",
           "surface_m2": "53220",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "Hangar agricole",
+          "type": "friche agro-industrielle",
+          "statut": "friche potentielle",
+          "adresse": "",
+          "surface_m2": "27888",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
@@ -2048,103 +1250,901 @@
         "lat": "",
         "lng": "",
         "source_url": "NA",
-        "score_pertinence": 7
+        "score_pertinence": 9
       },
-      "nb_friches_pertinentes": 4,
-      "score_commune": 28
+      "nb_friches_pertinentes": 8,
+      "score_commune": 52
     },
     {
-      "commune": "Wittelsheim",
-      "insee": "68375",
-      "departement": "68",
+      "commune": "LA MACHINE",
+      "insee": "58151",
+      "departement": "58",
       "friches": [
         {
-          "nom": "Terrain vague",
-          "type": "friche industrielle",
+          "nom": "Région BFC-58151_45417",
+          "type": "inconnu",
           "statut": "friche potentielle",
-          "adresse": "176 Rue de Mulhouse 68310 Wittelsheim",
-          "surface_m2": "78203",
+          "adresse": "NA",
+          "surface_m2": "103187",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 6
         },
         {
-          "nom": "Terril MDPA",
-          "type": "friche industrielle",
+          "nom": "Région BFC-58151_46063",
+          "type": "inconnu",
           "statut": "friche potentielle",
-          "adresse": "5 Chemin de la Dynamitière 68310 Wittelsheim",
-          "surface_m2": "33653",
+          "adresse": "NA",
+          "surface_m2": "203776",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 6
         },
         {
-          "nom": "Terril MDPA",
-          "type": "friche industrielle",
+          "nom": "Région BFC-58151_46122",
+          "type": "inconnu",
           "statut": "friche potentielle",
-          "adresse": "5 Avenue de France 68310 Wittelsheim",
-          "surface_m2": "92788",
+          "adresse": "NA",
+          "surface_m2": "150469",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
-        "nom": "Terrain vague",
-        "type": "friche industrielle",
+        "nom": "Région BFC-58151_45417",
+        "type": "inconnu",
         "statut": "friche potentielle",
-        "adresse": "176 Rue de Mulhouse 68310 Wittelsheim",
-        "surface_m2": "78203",
+        "adresse": "NA",
+        "surface_m2": "103187",
         "pollution": "inconnu",
         "lat": "",
         "lng": "",
         "source_url": "NA",
-        "score_pertinence": 7
+        "score_pertinence": 6
       },
-      "nb_friches_pertinentes": 4,
-      "score_commune": 27
+      "nb_friches_pertinentes": 10,
+      "score_commune": 52
     },
     {
-      "commune": "NA",
-      "insee": "25056",
-      "departement": "25",
+      "commune": "ANICHE",
+      "insee": "59008",
+      "departement": "59",
       "friches": [
         {
-          "nom": "Région BFC-25056_45577",
-          "type": "friche logistique",
-          "statut": "friche potentielle",
-          "adresse": "NA",
-          "surface_m2": "190630",
-          "pollution": "pollution inexistante",
-          "lat": "",
-          "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
-        },
-        {
-          "nom": "Région BFC-25056_45715",
+          "nom": "Usine Saint-Gobain",
           "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "34508",
+          "surface_m2": "94868",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5903335",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Gare Sainte-Hyacinthe",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "31281",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5902954",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "CET D'ANICHE",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "144731",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=59.0577",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Usine Saint-Gobain",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "94868",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5903335",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 10,
+      "score_commune": 52
+    },
+    {
+      "commune": "CAMBRAI",
+      "insee": "59122",
+      "departement": "59",
+      "friches": [
+        {
+          "nom": "Emballages spéciaux métalliques et bois, constructions métalliques",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "37671",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5912299",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Atelier de constructions avec fonderie de fer et de cuivre",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "87352",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5912091",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Atelier de travail des métaux",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "38032",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5912787",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Emballages spéciaux métalliques et bois, constructions métalliques",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "37671",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5912299",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 11,
+      "score_commune": 50
+    },
+    {
+      "commune": "NEVERS",
+      "insee": "58194",
+      "departement": "58",
+      "friches": [
+        {
+          "nom": "Région BFC-58194_45558",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "73033",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 4
+          "score_pertinence": 6
         },
         {
-          "nom": "Région BFC-25056_47185",
+          "nom": "Région BFC-58194_24855",
           "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "49675",
+          "surface_m2": "83464",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Région BFC-58194_45809",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "45779",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Région BFC-58194_45558",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "73033",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 10,
+      "score_commune": 50
+    },
+    {
+      "commune": "Cernay",
+      "insee": "68063",
+      "departement": "68",
+      "friches": [
+        {
+          "nom": "CSM",
+          "type": "friche industrielle",
+          "statut": "friche potentielle",
+          "adresse": "1 rue de la Cartisane, 68700 Cernay",
+          "surface_m2": "914384",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "SNCF Cernay",
+          "type": "friche ferroviaire",
+          "statut": "friche potentielle",
+          "adresse": "32 Rue René Guibert 68700 Cernay",
+          "surface_m2": "67684",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "Sandoz filature de coton",
+          "type": "friche industrielle",
+          "statut": "friche potentielle",
+          "adresse": "1 Rue de la Cartisane 68700 Cernay",
+          "surface_m2": "917493",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "CSM",
+        "type": "friche industrielle",
+        "statut": "friche potentielle",
+        "adresse": "1 rue de la Cartisane, 68700 Cernay",
+        "surface_m2": "914384",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 9
+      },
+      "nb_friches_pertinentes": 7,
+      "score_commune": 50
+    },
+    {
+      "commune": "CANAPLES",
+      "insee": "80166",
+      "departement": "80",
+      "friches": [
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "0080 RUE DE LA GARE",
+          "surface_m2": "66039",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        },
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "0080 RUE DE LA GARE",
+          "surface_m2": "66039",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        },
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "0080 RUE DE LA GARE",
+          "surface_m2": "66039",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "",
+        "type": "friche ferroviaire",
+        "statut": "friche sans projet",
+        "adresse": "0080 RUE DE LA GARE",
+        "surface_m2": "66039",
+        "pollution": "",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 5
+      },
+      "nb_friches_pertinentes": 10,
+      "score_commune": 50
+    },
+    {
+      "commune": "SECLIN",
+      "insee": "59560",
+      "departement": "59",
+      "friches": [
+        {
+          "nom": "SICA-SEDES",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "219967",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5907112",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Filature de lin",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "189150",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5906892",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Atelier de fabrication de caravanes et station Esso",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "157664",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5906868",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "SICA-SEDES",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "219967",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5907112",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 9,
+      "score_commune": 47
+    },
+    {
+      "commune": "Haguenau",
+      "insee": "67180",
+      "departement": "67",
+      "friches": [
+        {
+          "nom": "Poch",
+          "type": "friche industrielle",
+          "statut": "friche potentielle",
+          "adresse": "1-3 rue Branly",
+          "surface_m2": "107773",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "friche ocs",
+          "type": "friche industrielle",
+          "statut": "friche potentielle",
+          "adresse": "90 route de Bischwiller",
+          "surface_m2": "60550",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "S.C.I. Lergenmuller",
+          "type": "friche d'habitat",
+          "statut": "friche potentielle",
+          "adresse": "89 route de Marienthal",
+          "surface_m2": "349516",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Poch",
+        "type": "friche industrielle",
+        "statut": "friche potentielle",
+        "adresse": "1-3 rue Branly",
+        "surface_m2": "107773",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 9
+      },
+      "nb_friches_pertinentes": 7,
+      "score_commune": 46
+    },
+    {
+      "commune": "Le Grand-Quevilly",
+      "insee": "76322",
+      "departement": "76",
+      "friches": [
+        {
+          "nom": "Enceinte des Hauts Fourneaux de Rouen (76-1404)",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "46640",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600103",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "ancienne carrière remblayée",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "50358",
+          "pollution": "pollution supposée",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7601343",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "HAUTS FOURNEAUX DE ROUEN",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "43495",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7601404",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Enceinte des Hauts Fourneaux de Rouen (76-1404)",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "46640",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/HNO7600103",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 9,
+      "score_commune": 46
+    },
+    {
+      "commune": "PERONNE",
+      "insee": "80620",
+      "departement": "80",
+      "friches": [
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "DIGUE DU CANAL",
+          "surface_m2": "72247",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        },
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "DIGUE DU CANAL",
+          "surface_m2": "72247",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        },
+        {
+          "nom": "",
+          "type": "friche ferroviaire",
+          "statut": "friche sans projet",
+          "adresse": "DIGUE DU CANAL",
+          "surface_m2": "72247",
+          "pollution": "",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 5
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "",
+        "type": "friche ferroviaire",
+        "statut": "friche sans projet",
+        "adresse": "DIGUE DU CANAL",
+        "surface_m2": "72247",
+        "pollution": "",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 5
+      },
+      "nb_friches_pertinentes": 10,
+      "score_commune": 45
+    },
+    {
+      "commune": "HALLUIN",
+      "insee": "59279",
+      "departement": "59",
+      "friches": [
+        {
+          "nom": "Tuilerie",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "33276",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5907363",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "PACOFA",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "178862",
+          "pollution": "pollution supposée",
+          "lat": "",
+          "lng": "",
+          "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=59.0537",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Décharge de déchets industriels et commerciaux",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "251226",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5950709",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Tuilerie",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "33276",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5907363",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 9,
+      "score_commune": 44
+    },
+    {
+      "commune": "SAINT-MALO",
+      "insee": "35288",
+      "departement": "35",
+      "friches": [
+        {
+          "nom": "COMMUNE DE SAINT-MALO, décharges d'ordures ménagères",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "42828",
+          "pollution": "pollution supposée",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3503134",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Dépôt de Pétroles Côtiers (DPC)",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "47933",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "https://basol.developpement-durable.gouv.fr/fiche.php?page=1&index_sp=35.0006",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "MORGERE Louis, tôlerie et forge de marine",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "329876",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3500517",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "COMMUNE DE SAINT-MALO, décharges d'ordures ménagères",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "42828",
+        "pollution": "pollution supposée",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/BRE3503134",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 8,
+      "score_commune": 44
+    },
+    {
+      "commune": "MONTAUBAN",
+      "insee": "82121",
+      "departement": "82",
+      "friches": [
+        {
+          "nom": "ENROBES 82*1 (STE), (avant) MALET*2 (ETS) / CENTRALE D'ENROBAGE DE MATERIAUX ROUTIERS",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "41824",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8200041",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "SARL DU CARL",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "86227",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8200126",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "5 A SEC",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "84841",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8200298",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "ENROBES 82*1 (STE), (avant) MALET*2 (ETS) / CENTRALE D'ENROBAGE DE MATERIAUX ROUTIERS",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "41824",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/MPY8200041",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 8,
+      "score_commune": 44
+    },
+    {
+      "commune": "BRUAY-SUR-L'ESCAUT",
+      "insee": "59112",
+      "departement": "59",
+      "friches": [
+        {
+          "nom": "Fosse Thiers",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "344236",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5905770",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "TERRIL",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "36348392",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5905675",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Décharge d'OM",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "103724",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5905336",
+          "score_pertinence": 6
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Fosse Thiers",
+        "type": "inconnu",
+        "statut": "friche potentielle",
+        "adresse": "NA",
+        "surface_m2": "344236",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5905770",
+        "score_pertinence": 6
+      },
+      "nb_friches_pertinentes": 8,
+      "score_commune": 44
+    },
+    {
+      "commune": "Roquebrune-sur-Argens",
+      "insee": "83107",
+      "departement": "83",
+      "friches": [
+        {
+          "nom": "Bâtiment agricole",
+          "type": "friche agro-industrielle",
+          "statut": "friche potentielle",
+          "adresse": "",
+          "surface_m2": "48180",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "Serres horticoles",
+          "type": "friche agro-industrielle",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "34812",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        },
+        {
+          "nom": "Serre agricole chapelle",
+          "type": "friche agro-industrielle",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "40026",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 9
+        }
+      ],
+      "meilleure_friche": {
+        "nom": "Bâtiment agricole",
+        "type": "friche agro-industrielle",
+        "statut": "friche potentielle",
+        "adresse": "",
+        "surface_m2": "48180",
+        "pollution": "inconnu",
+        "lat": "",
+        "lng": "",
+        "source_url": "NA",
+        "score_pertinence": 9
+      },
+      "nb_friches_pertinentes": 6,
+      "score_commune": 44
+    },
+    {
+      "commune": "Briançon",
+      "insee": "05023",
+      "departement": "05",
+      "friches": [
+        {
+          "nom": "Mine du Rochasson (anthracite)",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "105273",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Mine du Rochasson (anthracite)",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "105273",
+          "pollution": "inconnu",
+          "lat": "",
+          "lng": "",
+          "source_url": "NA",
+          "score_pertinence": 6
+        },
+        {
+          "nom": "Incinérateur d'ordures ménagères (IUOM) de Malfosse",
+          "type": "inconnu",
+          "statut": "friche potentielle",
+          "adresse": "NA",
+          "surface_m2": "11444",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
@@ -2153,19 +2153,19 @@
         }
       ],
       "meilleure_friche": {
-        "nom": "Région BFC-25056_45577",
-        "type": "friche logistique",
+        "nom": "Mine du Rochasson (anthracite)",
+        "type": "inconnu",
         "statut": "friche potentielle",
         "adresse": "NA",
-        "surface_m2": "190630",
-        "pollution": "pollution inexistante",
+        "surface_m2": "105273",
+        "pollution": "inconnu",
         "lat": "",
         "lng": "",
         "source_url": "NA",
-        "score_pertinence": 7
+        "score_pertinence": 6
       },
-      "nb_friches_pertinentes": 6,
-      "score_commune": 27
+      "nb_friches_pertinentes": 10,
+      "score_commune": 44
     },
     {
       "commune": "GENLIS",
@@ -2182,7 +2182,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         },
         {
           "nom": "Région BFC-21292_45631",
@@ -2194,7 +2194,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         },
         {
           "nom": "Région BFC-21292_46353",
@@ -2206,7 +2206,7 @@
           "lat": "",
           "lng": "",
           "source_url": "NA",
-          "score_pertinence": 7
+          "score_pertinence": 9
         }
       ],
       "meilleure_friche": {
@@ -2219,67 +2219,67 @@
         "lat": "",
         "lng": "",
         "source_url": "NA",
-        "score_pertinence": 7
+        "score_pertinence": 9
       },
-      "nb_friches_pertinentes": 4,
-      "score_commune": 27
+      "nb_friches_pertinentes": 6,
+      "score_commune": 44
     },
     {
-      "commune": "DIGOIN",
-      "insee": "71176",
-      "departement": "71",
+      "commune": "ANZIN",
+      "insee": "59014",
+      "departement": "59",
       "friches": [
         {
-          "nom": "Région BFC-71176_46092",
-          "type": "friche industrielle",
+          "nom": "USINOR",
+          "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "238004",
-          "pollution": "inconnu",
+          "surface_m2": "42702",
+          "pollution": "pollution supposée",
           "lat": "",
           "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5901403",
+          "score_pertinence": 6
         },
         {
-          "nom": "Région BFC-71176_46875",
-          "type": "friche industrielle",
+          "nom": "Atelier de Construction et Galvanisation à Beuvrages",
+          "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "18362",
+          "surface_m2": "215778",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5900075",
+          "score_pertinence": 6
         },
         {
-          "nom": "Région BFC-71176_46934",
-          "type": "friche industrielle",
+          "nom": "Quartier des Plantys",
+          "type": "inconnu",
           "statut": "friche potentielle",
           "adresse": "NA",
-          "surface_m2": "172493",
+          "surface_m2": "38306",
           "pollution": "inconnu",
           "lat": "",
           "lng": "",
-          "source_url": "NA",
-          "score_pertinence": 7
+          "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5905267",
+          "score_pertinence": 6
         }
       ],
       "meilleure_friche": {
-        "nom": "Région BFC-71176_46092",
-        "type": "friche industrielle",
+        "nom": "USINOR",
+        "type": "inconnu",
         "statut": "friche potentielle",
         "adresse": "NA",
-        "surface_m2": "238004",
-        "pollution": "inconnu",
+        "surface_m2": "42702",
+        "pollution": "pollution supposée",
         "lat": "",
         "lng": "",
-        "source_url": "NA",
-        "score_pertinence": 7
+        "source_url": "http://fiches-risques.brgm.fr/georisques/basias-detaillee/NPC5901403",
+        "score_pertinence": 6
       },
-      "nb_friches_pertinentes": 4,
-      "score_commune": 27
+      "nb_friches_pertinentes": 8,
+      "score_commune": 44
     }
   ]
 }
