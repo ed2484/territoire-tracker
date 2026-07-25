@@ -148,6 +148,20 @@ def score_pertinence(site_type, surface, statut, pollution):
     return score, surf_value
 
 
+def flag_shared_surfaces(friches):
+    """Marque les friches dont la surface est identique à celle d'au moins une autre
+    friche du même groupe (signe que la surface reflète l'unité foncière entière,
+    pas la taille réelle du site individuel)."""
+    counts = {}
+    for f in friches:
+        s = f.get("surface_m2")
+        if s and s != "NA":
+            counts[s] = counts.get(s, 0) + 1
+    for f in friches:
+        s = f.get("surface_m2")
+        f["surface_partagee"] = bool(s and s != "NA" and counts.get(s, 0) > 1)
+
+
 def department_code(insee):
     if not insee:
         return ""
@@ -252,11 +266,13 @@ def main():
 
     for commune, friches in tracked_result.items():
         friches.sort(key=lambda f: f["score_pertinence"], reverse=True)
+        flag_shared_surfaces(friches)
         tracked_result[commune] = friches
 
     candidates_list = []
     for bucket in candidate_communes.values():
         bucket["friches"].sort(key=lambda f: f["score_pertinence"], reverse=True)
+        flag_shared_surfaces(bucket["friches"])
         bucket["meilleure_friche"] = bucket["friches"][0]
         bucket["nb_friches_pertinentes"] = len(bucket["friches"])
         bucket["score_commune"] = sum(f["score_pertinence"] for f in bucket["friches"])
