@@ -44,26 +44,29 @@ from datetime import datetime, timezone
 import requests
 
 COMMUNES = [
-    "Avignon", "Gannat", "Yzeure", "Toulouse", "Montataire",
-    "Port-Saint-Louis-du-Rhône", "Meung-sur-Loire", "Tremblay-en-France",
-    "Mauguio", "Muret", "Vémars", "Arsac", "Saint-Vulbas",
-    "Livron-sur-Drôme", "Chessy", "Thiers", "Le Havre", "Saint-Priest",
-    "Pertuis", "Grenoble", "Uchaud", "Lezoux", "Dunkerque", "Fos-sur-Mer",
+    "Arles", "Laval", "Cannes", "Le Mans", "Les Pennes-Mirabeau", "Nice",
+    "Avignon", "Gannat", "Toulouse", "Montataire",
+    "Port-Saint-Louis-du-Rhône", "Muret", "Saint-Vulbas", "Le Havre",
+    "Saint-Priest", "Grenoble", "Lezoux", "Dunkerque", "Fos-sur-Mer",
     "Valenciennes", "Metz", "Mulhouse", "Strasbourg", "Bordeaux", "Nantes",
-    "Douai", "Onnaing", "Billy-Berclau", "Thionville", "Trémery",
-    "Ottmarsheim", "Reims", "Genas", "Meyzieu", "Vénissieux",
-    "Andrézieux-Bouthéon", "Sorgues", "Cavaillon", "Orange", "Blagnac",
-    "Colomiers", "Nîmes", "Sandouville", "Orléans", "Angers", "Beauvais",
-    "Lens", "Douvrin", "Hénin-Beaumont", "Saint-Omer", "Arras",
-    "Compiègne", "Laon", "Soissons", "Saint-Quentin", "Saint-Avold",
-    "Forbach", "Woippy", "Sarreguemines", "Huningue", "Lauterbourg",
-    "Troyes", "Saint-Dizier", "Épinal", "Chaponnay", "Communay", "Annecy",
-    "Montbonnot-Saint-Martin", "Chambéry", "Clermont-Ferrand", "Montluçon",
-    "Montbéliard", "Bourg-en-Bresse", "Romans-sur-Isère", "Le Pontet",
-    "Carpentras", "Miramas", "Istres", "Vitrolles", "Marignane",
-    "Aix-en-Provence", "Castres", "Albi", "Tarbes", "Béziers", "Narbonne",
-    "Carcassonne", "Cherbourg-en-Cotentin", "Caen", "Honfleur", "Penly",
-    "Ormes", "Châteauroux", "Dreux", "Blois",
+    "Thionville", "Reims", "Orléans", "Angers", "Saint-Dizier",
+    "Pontoise", "Le Raincy", "Lampertheim", "Grasse", "Courbevoie",
+    "Argenteuil", "Saint-Étienne", "Alès",
+    "Meung-sur-Loire", "Tremblay-en-France", "Mauguio", "Livron-sur-Drôme",
+    "Onnaing", "Billy-Berclau", "Ottmarsheim", "Meyzieu",
+    "Andrézieux-Bouthéon", "Blagnac", "Nîmes", "Beauvais",
+    "La Grande-Motte", "Amiens",
+    "Yzeure", "Vémars", "Arsac", "Chessy", "Uchaud", "Genas", "Vénissieux",
+    "Sorgues", "Orange", "Sandouville", "Lens", "Douvrin", "Saint-Omer",
+    "Arras", "Compiègne", "Laon", "Soissons", "Saint-Quentin",
+    "Saint-Avold", "Forbach", "Woippy", "Sarreguemines", "Huningue",
+    "Troyes", "Épinal", "Annecy", "Chambéry", "Clermont-Ferrand",
+    "Montluçon", "Bourg-en-Bresse", "Romans-sur-Isère", "Miramas",
+    "Istres", "Vitrolles", "Marignane", "Aix-en-Provence", "Castres",
+    "Albi", "Tarbes", "Béziers", "Narbonne", "Carcassonne",
+    "Cherbourg-en-Cotentin", "Caen", "Honfleur", "Ormes", "Blois",
+    "Trémery", "Hénin-Beaumont", "Lauterbourg", "Chaponnay", "Communay",
+    "Montbonnot-Saint-Martin", "Montbéliard",
 ]
 
 # URL stable de téléchargement du CSV national Cartofriches (data.gouv.fr)
@@ -73,11 +76,11 @@ CANDIDATES_OUTPUT_FILE = "candidates.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; FrichesBot/1.0)"}
 
 TYPES_PERTINENTS = {"industrielle", "logistique", "agro-industrielle", "commerciale", "ferroviaire"}
-MAX_FRICHES_PAR_COMMUNE = 6
+MAX_FRICHES_PAR_COMMUNE = None  # aucune limite : on affiche toutes les friches, triées par pertinence
 
 # Seuils pour qu'une commune NON suivie remonte comme "candidate"
 CANDIDATE_MIN_SCORE = 4
-CANDIDATE_MIN_SURFACE_M2 = 5000
+CANDIDATE_MIN_SURFACE_M2 = 10000  # aligné sur le format industriel/logistique (1 ha+)
 MAX_CANDIDATES = 40
 
 
@@ -130,10 +133,14 @@ def score_pertinence(site_type, surface, statut, pollution):
     surf_value = None
     try:
         surf_value = float(str(surface).replace(",", "."))
-        if surf_value >= 15000:
+        if surf_value >= 30000:       # 3 ha+ : format grande plateforme logistique
+            score += 4
+        elif surf_value >= 10000:     # 1-3 ha : format industriel/logistique classique
             score += 2
-        elif surf_value >= 5000:
+        elif surf_value >= 3000:      # format commercial/entrepôt de taille modeste
             score += 1
+        elif surf_value > 0:          # trop petit pour de l'immobilier d'entreprise
+            score -= 2
     except (TypeError, ValueError):
         pass
     if pollution and "avere" in normalize(pollution):
@@ -245,7 +252,7 @@ def main():
 
     for commune, friches in tracked_result.items():
         friches.sort(key=lambda f: f["score_pertinence"], reverse=True)
-        tracked_result[commune] = friches[:MAX_FRICHES_PAR_COMMUNE]
+        tracked_result[commune] = friches
 
     candidates_list = []
     for bucket in candidate_communes.values():
