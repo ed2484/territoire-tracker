@@ -1,15 +1,15 @@
-name: Friches Cartofriches
+name: Veille territoriale
 
 on:
   schedule:
-    - cron: "0 5 1 * *"   # le 1er de chaque mois à 05:00 UTC (les données Cartofriches sont mises à jour ~1x/trimestre)
-  workflow_dispatch: {}
+    - cron: "0 6 * * *"   # tous les jours à 06:00 UTC (~08:00 heure française)
+  workflow_dispatch: {}   # permet aussi de lancer manuellement depuis l'onglet "Actions"
 
 permissions:
   contents: write
 
 jobs:
-  friches:
+  veille:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,15 +19,15 @@ jobs:
           python-version: "3.11"
 
       - name: Installer les dépendances
-        run: pip install requests
+        run: pip install requests feedparser
 
       - name: Lancer la collecte
-        run: python friches.py
+        run: python veille.py
 
       - name: Committer le résultat s'il a changé
         run: |
-          git config user.name "friches-bot"
-          git config user.email "friches-bot@users.noreply.github.com"
-          git add friches.json candidates.json
-          git diff --quiet --cached || git commit -m "Friches + candidates du $(date -u +%Y-%m-%d)"
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add veille.json
+          git diff --quiet --cached || git commit -m "Veille du $(date -u +%Y-%m-%d)"
           git push
