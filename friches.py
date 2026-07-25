@@ -194,7 +194,7 @@ def main():
 
     reader = csv.DictReader(io.StringIO(raw_text), dialect=dialect)
     fieldnames = reader.fieldnames or []
-    print(f"[INFO] {len(fieldnames)} colonnes détectées, aperçu : {fieldnames[:10]}")
+    print(f"[INFO] {len(fieldnames)} colonnes détectées : {fieldnames}")
 
     col_insee = find_column(fieldnames, ["comm_insee", "insee"])
     col_commnom = find_column(fieldnames, ["comm_nom"])
@@ -202,7 +202,8 @@ def main():
     col_type = find_column(fieldnames, ["site_type"])
     col_statut = find_column(fieldnames, ["site_statut"])
     col_adresse = find_column(fieldnames, ["site_adresse"])
-    col_surface = find_column(fieldnames, ["unite_fonciere_surface", "site_surface", "surface"])
+    col_surface = find_column(fieldnames, ["site_surface", "surface_friche", "friche_surface", "surf_site", "unite_fonciere_surface", "surface"])
+    print(f"[INFO] Colonne surface retenue : {col_surface!r}")
     col_pollution = find_column(fieldnames, ["sol_pollution_existe", "pollution"])
     col_lat = find_column(fieldnames, ["lat"])
     col_lng = find_column(fieldnames, ["long", "lng", "lon"])
