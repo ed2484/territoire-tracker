@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:10:04.200225+00:00",
+  "generated_at": "2026-09-16T10:55:01.735088+00:00",
   "communes": {
     "Arles": {
       "items": [
@@ -52,10 +52,16 @@
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:25.273369+00:00"
+      "last_checked": "2026-09-16T10:52:24.925829+00:00"
     },
     "Laval": {
       "items": [
+        {
+          "title": "Laval : résultats du 2nd tour des élections Municipales 2026",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74eaf10a4b8ca96f949c16d40854&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fpays-de-la-loire%2fmayenne%2flaval-53000%2f&c=1853259514188972782&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 23 Jul 2020 14:26:00 GMT"
+        },
         {
           "title": "Laval : résultats du 2nd tour des élections Municipales 2026",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926ee5f614f6fa1de66a811048539&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fpays-de-la-loire%2fmayenne%2flaval-53000%2f&c=1853259514188972782&mkt=fr-fr",
@@ -97,18 +103,36 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa683f1c8a84c3194c17e326ad93a7c&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fpays-de-la-loire%2fmayenne%2flaval-53000%2f&c=1853259514188972782&mkt=fr-fr",
           "source": "",
           "pubDate": "Thu, 23 Jul 2020 14:26:00 GMT"
-        },
-        {
-          "title": "Laval : résultats du 2nd tour des élections Municipales 2026",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa52491617547bdb7d71515d8ecfd09&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fpays-de-la-loire%2fmayenne%2flaval-53000%2f&c=1853259514188972782&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 23 Jul 2020 14:26:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:26.810762+00:00"
+      "last_checked": "2026-09-16T10:52:26.382510+00:00"
     },
     "Cannes": {
       "items": [
+        {
+          "title": "Cannes : résultats du 2nd tour des élections Municipales 2026",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74eb16ec465aab259221524d8623&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fprovence-alpes-cote-d-azur%2falpes-maritimes%2fcannes-06150%2f&c=4660242479180070523&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 10 Feb 2020 11:31:00 GMT"
+        },
+        {
+          "title": "Alpes-Maritimes",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74eb16ec465aab259221524d8623&url=https%3a%2f%2fwww.latribune.fr%2falpes-maritimes-401%2fpage-2%2f&c=7445517454178442862&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 30 Oct 2025 04:19:00 GMT"
+        },
+        {
+          "title": "À Cannes, des propriétaires réclament 3 millions d'euros à la mairie pour avoir retardé une vente immobilière",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74eb16ec465aab259221524d8623&url=https%3a%2f%2factu.fr%2fprovence-alpes-cote-d-azur%2fcannes_06029%2fa-cannes-des-proprietaires-reclament-3-millions-d-euros-a-la-mairie-pour-avoir-retarde-une-vente-immobiliere_64576663.html&c=14430573072575687074&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 25 Jul 2026 22:02:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Cannes (06150)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74eb16ec465aab259221524d8623&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f06150-cannes-06029&c=15075957862875346259&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Cannes : résultats du 2nd tour des élections Municipales 2026",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f0a4ad4de2a39589e19013735e&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fprovence-alpes-cote-d-azur%2falpes-maritimes%2fcannes-06150%2f&c=4660242479180070523&mkt=fr-fr",
@@ -132,36 +156,30 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfdff31b4ccc90dcc8193370cee0&url=https%3a%2f%2fwww.latribune.fr%2falpes-maritimes-401%2fpage-2%2f&c=7445517454178442862&mkt=fr-fr",
           "source": "",
           "pubDate": "Thu, 30 Oct 2025 04:19:00 GMT"
-        },
-        {
-          "title": "Cannes : résultats du 2nd tour des élections Municipales 2026",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa683f206184e2c9c41ed2b56217763&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fprovence-alpes-cote-d-azur%2falpes-maritimes%2fcannes-06150%2f&c=4660242479180070523&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 10 Feb 2020 11:31:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa683f206184e2c9c41ed2b56217763&url=https%3a%2f%2fwww.ladepeche.fr%2felections%2fresultats%2falpes-maritimes_06%2fcannes_06150&c=4034243718466633735&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Alpes-Maritimes",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa683f206184e2c9c41ed2b56217763&url=https%3a%2f%2fwww.latribune.fr%2falpes-maritimes-401%2fpage-2%2f&c=7445517454178442862&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 30 Oct 2025 04:19:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524923df642a2a02cd20ece91da13&url=https%3a%2f%2fwww.ladepeche.fr%2felections%2fresultats%2falpes-maritimes_06%2fcannes_06150&c=4034243718466633735&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:28.332140+00:00"
+      "last_checked": "2026-09-16T10:52:27.850629+00:00"
     },
     "Le Mans": {
       "items": [
+        {
+          "title": "Municipales 2026. Le Mans : Stéphane Le Foll, maire sortant et candidat dévoile les 54 membres de sa liste",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74edb4d94e1a8a89a7b417d5d4f8&url=https%3a%2f%2factu.fr%2fpays-de-la-loire%2fle-mans_72181%2fmunicipales-2026-le-mans-stephane-le-foll-maire-sortant-et-candidat-devoile-les-54-membres-de-sa-liste_63861410.html&c=7755596523536995710&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 18 Feb 2026 08:10:00 GMT"
+        },
+        {
+          "title": "VIDEO. Au Mans, la ville s'organise pour distribuer 500 repas par jour aux plus démunis",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74edb4d94e1a8a89a7b417d5d4f8&url=https%3a%2f%2factu.fr%2fpays-de-la-loire%2fle-mans_72181%2fvideo-au-mans-la-ville-s-organise-pour-distribuer-500-repas-par-jour-aux-plus-demunis_37403045.html&c=8994212905404151422&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 10 Nov 2020 11:59:00 GMT"
+        },
+        {
+          "title": "Le Mans",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74edb4d94e1a8a89a7b417d5d4f8&url=https%3a%2f%2fwww.ouest-france.fr%2fpays-de-la-loire%2fle-mans-72000%2f&c=2665168764972415539&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 15 Sep 2026 17:00:00 GMT"
+        },
         {
           "title": "Municipales 2026. Le Mans : Stéphane Le Foll, maire sortant et candidat dévoile les 54 membres de sa liste",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f1b22a49008bd4290ffef31a52&url=https%3a%2f%2factu.fr%2fpays-de-la-loire%2fle-mans_72181%2fmunicipales-2026-le-mans-stephane-le-foll-maire-sortant-et-candidat-devoile-les-54-membres-de-sa-liste_63861410.html&c=7755596523536995710&mkt=fr-fr",
@@ -191,34 +209,34 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe191574cb1863507c51aad2e7d&url=https%3a%2f%2fwww.ouest-france.fr%2fpays-de-la-loire%2fle-mans-72000%2f&c=2665168764972415539&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT"
-        },
-        {
-          "title": "\"Le Mans a un problème de visibilité mais est connu à l’international, ce n’est pas donné à toutes les villes\"",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe191574cb1863507c51aad2e7d&url=https%3a%2f%2fwww.lejournaldesentreprises.com%2farticle%2fle-mans-un-probleme-de-visibilite-mais-est-connu-linternational-ce-nest-pas-donne-toutes-les-villes-2099849&c=13184475751740520494&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 05 Jul 2024 08:23:00 GMT"
-        },
-        {
-          "title": "Résultats des municipales 2026 à Le Mans : les résultats définitifs du 1er tour des élections dans votre commune",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe191574cb1863507c51aad2e7d&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-au-mans-les-resultats-du-1er-tour-des-elections-dans-votre-commune_AN-202603150295.html&c=3240168082722530728&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 15 Mar 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Municipales 2026. Le Mans : Stéphane Le Foll, maire sortant et candidat dévoile les 54 membres de sa liste",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa683f460b640d19ee236b75bf46a7b&url=https%3a%2f%2factu.fr%2fpays-de-la-loire%2fle-mans_72181%2fmunicipales-2026-le-mans-stephane-le-foll-maire-sortant-et-candidat-devoile-les-54-membres-de-sa-liste_63861410.html&c=7755596523536995710&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 18 Feb 2026 08:10:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:29.855854+00:00"
+      "last_checked": "2026-09-16T10:52:29.308979+00:00"
     },
     "Les Pennes-Mirabeau": {
       "items": [],
-      "last_checked": "2026-09-15T11:07:31.333948+00:00"
+      "last_checked": "2026-09-16T10:52:30.738888+00:00"
     },
     "Nice": {
       "items": [
+        {
+          "title": "On croyait les transports gratuits à Nice réservés aux non-imposables : les 65 ans et plus y ont désormais droit et leur carte d'abonnement ne coûte que 17 euros",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74ef468e4721b8ee40db69c76b82&url=https%3a%2f%2fwww.senioractu.com%2fOn-croyait-les-transports-gratuits-a-Nice-reserves-aux-non-imposables-les-65-ans-et-plus-y-ont-desormais-droit-et-leur_a28012.html&c=5739927354199771274&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 07 Sep 2026 00:08:00 GMT"
+        },
+        {
+          "title": "Nice accueillera pour la dernière fois les championnats du monde d’Ironman 70.3 cette année",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74ef468e4721b8ee40db69c76b82&url=https%3a%2f%2fwww.lefigaro.fr%2fnice%2fnice-accueillera-pour-la-derniere-fois-les-championnats-du-monde-d-ironman-70-3-cette-annee-20260625&c=17974962996220462796&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 25 Jun 2026 06:30:00 GMT"
+        },
+        {
+          "title": "« Nice continuera-t-elle de fermer les yeux sur cette forme d’exploitation ? » : la gauche-écologiste demande l’interdiction des lâchers de colombes",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74ef468e4721b8ee40db69c76b82&url=https%3a%2f%2fwww.nicematin.com%2fsociete%2fanimaux%2fnice-continuera-t-elle-de-fermer-les-yeux-sur-cette-forme-d-exploitation-la-gauche-ecologiste-demande-l-interdiction-des-lachers-de-colombes-10717793&c=10092252817434912124&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 05 Sep 2026 23:01:00 GMT"
+        },
         {
           "title": "On croyait les transports gratuits à Nice réservés aux non-imposables : les 65 ans et plus y ont désormais droit et leur carte d'abonnement ne coûte que 17 euros",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f48cae458facba4e770a925b6e&url=https%3a%2f%2fwww.senioractu.com%2fOn-croyait-les-transports-gratuits-a-Nice-reserves-aux-non-imposables-les-65-ans-et-plus-y-ont-desormais-droit-et-leur_a28012.html&c=5739927354199771274&mkt=fr-fr",
@@ -248,30 +266,48 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe400244604bc0e20f9accf942d&url=https%3a%2f%2fwww.senioractu.com%2fOn-croyait-les-transports-gratuits-a-Nice-reserves-aux-non-imposables-les-65-ans-et-plus-y-ont-desormais-droit-et-leur_a28012.html&c=5739927354199771274&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 07 Sep 2026 00:08:00 GMT"
-        },
-        {
-          "title": "Logement étudiant à Nice : face à une pénurie de 1.500 lits, quelles solutions d’urgence pour loger les jeunes ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe400244604bc0e20f9accf942d&url=https%3a%2f%2fwww.nicematin.com%2fsociete%2fjeunesse%2flogement-etudiant-a-nice-face-a-une-penurie-de-1-500-lits-quelles-solutions-d-urgence-pour-loger-les-jeunes-10715771&c=8523671785998369419&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 01 Sep 2026 14:38:00 GMT"
-        },
-        {
-          "title": "À partir de ce mardi, on peut stationner gratuitement deux heures sur l’ensemble des places payantes de Nice",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe400244604bc0e20f9accf942d&url=https%3a%2f%2fwww.nicematin.com%2feconomie%2fcommerce%2fa-partir-de-ce-mardi-on-peut-stationner-gratuitement-deux-heures-sur-l-ensemble-des-places-payantes-de-nice-10714950&c=1025729399444519355&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 31 Aug 2026 12:44:00 GMT"
-        },
-        {
-          "title": "Éric Ciotti, maire de Nice",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe400244604bc0e20f9accf942d&url=https%3a%2f%2fwww.ouest-france.fr%2fpolitique%2feric-ciotti%2f&c=9849861269055165796&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 04 Sep 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:32.906380+00:00"
+      "last_checked": "2026-09-16T10:52:32.255044+00:00"
     },
     "Avignon": {
       "items": [
+        {
+          "title": "Avignon Nicolas Varenne est le nouveau directeur de la communication de la Ville d’Avignon",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74f1bbd248e3bf9646021d21e4c7&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f09%2fnicolas-varenne-est-le-nouveau-directeur-de-la-communication-de-la-ville-d-avignon&c=1189716278651193238&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 09 Sep 2026 09:33:00 GMT"
+        },
+        {
+          "title": "Avignon : le nouveau maire découvre que les panneaux solaires installés depuis six ans ne sont pas branchés",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74f1bbd248e3bf9646021d21e4c7&url=https%3a%2f%2fwww.21news.be%2favignon-le-nouveau-maire-decouvre-que-les-panneaux-solaires-installes-depuis-six-ans-ne-sont-pas-branches%2f&c=14129719311524649441&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 03 Sep 2026 08:51:00 GMT"
+        },
+        {
+          "title": "Villeneuve-lez-Avignon",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74f1bbd248e3bf9646021d21e4c7&url=https%3a%2f%2fwww.laprovence.com%2fgard%2fvilleneuve-lez-avignon-30351&c=15466152456183773110&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 12 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Touristique et mondialement connue, cette ville du sud de la France est aujourd’hui \"en faillite\" selon le nouveau maire",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74f1bbd248e3bf9646021d21e4c7&url=https%3a%2f%2factu.fr%2fprovence-alpes-cote-d-azur%2favignon_84007%2ftouristique-et-mondialement-connue-cette-ville-du-sud-de-la-france-est-aujourd-hui-en-faillite-selon-le-nouveau-maire_64470727.html&c=1017651872237145183&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 29 Jun 2026 06:01:00 GMT"
+        },
+        {
+          "title": "Avignon Municipales : les neuf recours dans les mains de la Justice",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74f1bbd248e3bf9646021d21e4c7&url=https%3a%2f%2fwww.ledauphine.com%2felections%2f2026%2f09%2f14%2fmunicipales-les-neuf-recours-dans-les-mains-de-la-justice&c=13260048483540112881&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 14 Sep 2026 12:35:00 GMT"
+        },
+        {
+          "title": "Les règles des élections municipales",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74f1bbd248e3bf9646021d21e4c7&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fprovence-alpes-cote-d-azur%2fvaucluse%2favignon-84000%2f&c=12134559339640400177&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 30 Mar 2014 01:27:00 GMT"
+        },
         {
           "title": "Avignon Nicolas Varenne est le nouveau directeur de la communication de la Ville d’Avignon",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f61c9342939cb9c36ca03966a2&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f09%2fnicolas-varenne-est-le-nouveau-directeur-de-la-communication-de-la-ville-d-avignon&c=1189716278651193238&mkt=fr-fr",
@@ -283,45 +319,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f61c9342939cb9c36ca03966a2&url=https%3a%2f%2fwww.ledauphine.com%2felections%2f2026%2f09%2f14%2fmunicipales-les-neuf-recours-dans-les-mains-de-la-justice&c=13260048483540112881&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 14 Sep 2026 12:35:00 GMT"
-        },
-        {
-          "title": "Avignon : le nouveau maire découvre que les panneaux solaires installés depuis six ans ne sont pas branchés",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f61c9342939cb9c36ca03966a2&url=https%3a%2f%2fwww.21news.be%2favignon-le-nouveau-maire-decouvre-que-les-panneaux-solaires-installes-depuis-six-ans-ne-sont-pas-branches%2f&c=14129719311524649441&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 03 Sep 2026 08:51:00 GMT"
-        },
-        {
-          "title": "Touristique et mondialement connue, cette ville du sud de la France est aujourd’hui \"en faillite\" selon le nouveau maire",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f61c9342939cb9c36ca03966a2&url=https%3a%2f%2factu.fr%2fprovence-alpes-cote-d-azur%2favignon_84007%2ftouristique-et-mondialement-connue-cette-ville-du-sud-de-la-france-est-aujourd-hui-en-faillite-selon-le-nouveau-maire_64470727.html&c=1017651872237145183&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 29 Jun 2026 06:01:00 GMT"
-        },
-        {
-          "title": "Les règles des élections municipales",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f61c9342939cb9c36ca03966a2&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fprovence-alpes-cote-d-azur%2fvaucluse%2favignon-84000%2f&c=12134559339640400177&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 30 Mar 2014 01:27:00 GMT"
-        },
-        {
-          "title": "Villeneuve-lez-Avignon",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f61c9342939cb9c36ca03966a2&url=https%3a%2f%2fwww.laprovence.com%2fgard%2fvilleneuve-lez-avignon-30351&c=15466152456183773110&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 12 Sep 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Morières-lès-Avignon",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f61c9342939cb9c36ca03966a2&url=https%3a%2f%2fwww.laprovence.com%2fvaucluse%2fmorieres-les-avignon-84081&c=15200151549968642424&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Avignon Nicolas Varenne est le nouveau directeur de la communication de la Ville d’Avignon",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe516944d88962651846e784999&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f09%2fnicolas-varenne-est-le-nouveau-directeur-de-la-communication-de-la-ville-d-avignon&c=1189716278651193238&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 09 Sep 2026 09:33:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:34.449294+00:00"
+      "last_checked": "2026-09-16T10:52:33.760459+00:00"
     },
     "Gannat": {
       "items": [
@@ -338,10 +338,22 @@
           "pubDate": "Mon, 16 Mar 2026 09:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:35.940374+00:00"
+      "last_checked": "2026-09-16T10:52:35.188207+00:00"
     },
     "Toulouse": {
       "items": [
+        {
+          "title": "DÉCIDEURS - La Tribune Toulouse",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74f481e9408aafc6271cdeb8d629&url=https%3a%2f%2fwww.latribune.fr%2foccitanie-1161%2fdecideurs-237%2f&c=14256921191788880543&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 13 Sep 2024 08:20:00 GMT"
+        },
+        {
+          "title": "IMMOBILIER - La Tribune Toulouse",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74f481e9408aafc6271cdeb8d629&url=https%3a%2f%2fwww.latribune.fr%2foccitanie-1161%2fimmobilier-235%2f&c=6523966002721642910&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 24 Mar 2025 08:20:00 GMT"
+        },
         {
           "title": "DÉCIDEURS - La Tribune Toulouse",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa926f959bf4bf989708a46997266d0&url=https%3a%2f%2fwww.latribune.fr%2foccitanie-1161%2fdecideurs-237%2f&c=14256921191788880543&mkt=fr-fr",
@@ -377,21 +389,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe8af9b4ff48b27b2041e98bfae&url=https%3a%2f%2fwww.latribune.fr%2foccitanie-1161%2fdecideurs-237%2f&c=14256921191788880543&mkt=fr-fr",
           "source": "",
           "pubDate": "Fri, 13 Sep 2024 08:20:00 GMT"
-        },
-        {
-          "title": "IMMOBILIER - La Tribune Toulouse",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfe8af9b4ff48b27b2041e98bfae&url=https%3a%2f%2fwww.latribune.fr%2foccitanie-1161%2fimmobilier-235%2f&c=6523966002721642910&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 24 Mar 2025 08:20:00 GMT"
-        },
-        {
-          "title": "Soutien et Financement - La Tribune Toulouse",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa683fbf93445f98b50bab04559bf51&url=https%3a%2f%2fwww.latribune.fr%2fsante-242%2f&c=5251607796302077927&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 17 Jan 2024 09:30:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:37.457759+00:00"
+      "last_checked": "2026-09-16T10:52:36.663528+00:00"
     },
     "Montataire": {
       "items": [
@@ -444,11 +444,11 @@
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:38.960314+00:00"
+      "last_checked": "2026-09-16T10:52:38.092734+00:00"
     },
     "Port-Saint-Louis-du-Rhône": {
       "items": [],
-      "last_checked": "2026-09-15T11:07:40.402994+00:00"
+      "last_checked": "2026-09-16T10:52:39.604785+00:00"
     },
     "Muret": {
       "items": [
@@ -501,14 +501,26 @@
           "pubDate": "Sun, 15 Mar 2026 15:30:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:41.889950+00:00"
+      "last_checked": "2026-09-16T10:52:41.018839+00:00"
     },
     "Saint-Vulbas": {
       "items": [],
-      "last_checked": "2026-09-15T11:07:43.329626+00:00"
+      "last_checked": "2026-09-16T10:52:42.433644+00:00"
     },
     "Le Havre": {
       "items": [
+        {
+          "title": "Actualités Le Havre",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fbd80042188caf0dff9a020785&url=https%3a%2f%2factu.fr%2fnormandie%2fle-havre_76351&c=526632815927681605&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Le Havre",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fbd80042188caf0dff9a020785&url=https%3a%2f%2flemarin.ouest-france.fr%2ffrance%2fnormandie%2fle-havre%2f%3fpage%3d3&c=4032083317872086652&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 03 Feb 2026 23:24:00 GMT"
+        },
         {
           "title": "Le Havre",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa927007f6e4bd0b4f99cc318c8a045&url=https%3a%2f%2flemarin.ouest-france.fr%2ffrance%2fnormandie%2fle-havre%2f%3fpage%3d3&c=4032083317872086652&mkt=fr-fr",
@@ -544,78 +556,66 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa684028968406fb835776a13c2ef31&url=https%3a%2f%2flemarin.ouest-france.fr%2ffrance%2fnormandie%2fle-havre%2f%3fpage%3d3&c=4032083317872086652&mkt=fr-fr",
           "source": "",
           "pubDate": "Tue, 03 Feb 2026 23:24:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Le Havre - 76620",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524a304ce49c79470b37fbb8daf2d&url=https%3a%2f%2fwww.lemonde.fr%2fresultats-municipales-2026%2fle-havre-76351%2f&c=10007575990134069098&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 03 Feb 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Le Havre",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524a304ce49c79470b37fbb8daf2d&url=https%3a%2f%2flemarin.ouest-france.fr%2ffrance%2fnormandie%2fle-havre%2f%3fpage%3d3&c=4032083317872086652&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 03 Feb 2026 23:24:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:44.856267+00:00"
+      "last_checked": "2026-09-16T10:52:43.973214+00:00"
     },
     "Saint-Priest": {
       "items": [],
-      "last_checked": "2026-09-15T11:07:46.329913+00:00"
+      "last_checked": "2026-09-16T10:52:45.444139+00:00"
     },
     "Grenoble": {
       "items": [
+        {
+          "title": "Isère « Méthode Trump » contre « propagande municipale » : à Grenoble, la bataille du récit politique fait rage",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fe4db84c57a42dd9ca443d872d&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f13%2fmethode-trump-contre-propagande-municipale-a-grenoble-la-bataille-du-recit-politique-fait-rage&c=4676268553368592038&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 13 Sep 2026 03:20:00 GMT"
+        },
+        {
+          "title": "Grenoble Jumelage avec la ville israélienne de Rehovot : pourquoi la préfecture a retoqué la délibération du groupe LFI",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fe4db84c57a42dd9ca443d872d&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f15%2fjumelage-avec-la-ville-israelienne-de-rehovot-pourquoi-la-prefecture-a-retoque-la-deliberation-du-groupe-lfi&c=14887459916775943008&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 15 Sep 2026 02:56:00 GMT"
+        },
+        {
+          "title": "Interruption du concert de Barbara Butch à Grenoble : la maire écologiste, Laurence Ruffin, dénonce la « stratégie d’intimidation » des « insoumis »",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fe4db84c57a42dd9ca443d872d&url=https%3a%2f%2fwww.lemonde.fr%2fpolitique%2farticle%2f2026%2f07%2f21%2fa-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html&c=5740021414525668794&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 20 Jul 2026 23:35:00 GMT"
+        },
+        {
+          "title": "Les élu-es",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fe4db84c57a42dd9ca443d872d&url=https%3a%2f%2fwww.grenoble.fr%2f147-les-elue-s.htm&c=17627575280002638273&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 13 Mar 2020 10:27:00 GMT"
+        },
+        {
+          "title": "Alain Carignon, celui qu’on n’attendait pas en tête des municipales à Grenoble",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fe4db84c57a42dd9ca443d872d&url=https%3a%2f%2fwww.lemonde.fr%2fm-le-mag%2farticle%2f2026%2f03%2f18%2falain-carignon-celui-qu-on-attendait-pas-en-tete-des-municipales-a-grenoble_6672104_4500055.html&c=9395994182113751619&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 18 Mar 2026 09:01:00 GMT"
+        },
+        {
+          "title": "Commission d'appel d'offres - CAO",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fe4db84c57a42dd9ca443d872d&url=https%3a%2f%2fwww.grenoble.fr%2f1222-commission-d-appel-d-offres-cao.htm&c=6917238955538475715&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 13 Mar 2020 12:12:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Grenoble (38000)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa74fe4db84c57a42dd9ca443d872d&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2fisere-38%2fgrenoble-38185&c=5170604452792874517&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
+        },
         {
           "title": "Grenoble Jumelage avec la ville israélienne de Rehovot : pourquoi la préfecture a retoqué la délibération du groupe LFI",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92703449d481492421f08c3742cec&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f15%2fjumelage-avec-la-ville-israelienne-de-rehovot-pourquoi-la-prefecture-a-retoque-la-deliberation-du-groupe-lfi&c=14887459916775943008&mkt=fr-fr",
           "source": "",
           "pubDate": "Tue, 15 Sep 2026 02:56:00 GMT"
-        },
-        {
-          "title": "Grenoble « Une tartuferie gigantesque » : Allan Brunon cible à nouveau Laurence Ruffin",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92703449d481492421f08c3742cec&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f14%2fisere-grenoble-une-tartuferie-gigantesque-allan-brunon-cible-a-nouveau-laurence-ruffin&c=8352949670180274426&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 14 Sep 2026 11:59:00 GMT"
-        },
-        {
-          "title": "Résultats des municipales 2026 à Grenoble: Alain Carignon en tête au premier tour des élections",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92703449d481492421f08c3742cec&url=https%3a%2f%2fwww.bfmtv.com%2fgrenoble%2fresultats-des-municipales-2026-a-grenoble-alain-carrignon-en-tete-au-premier-tour-des-elections_AN-202603160348.html&c=3718376988731000501&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 16 Mar 2026 02:13:00 GMT"
-        },
-        {
-          "title": "Interruption du concert de Barbara Butch à Grenoble : la maire écologiste, Laurence Ruffin, dénonce la « stratégie d’intimidation » des « insoumis »",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92703449d481492421f08c3742cec&url=https%3a%2f%2fwww.lemonde.fr%2fpolitique%2farticle%2f2026%2f07%2f21%2fa-grenoble-la-gauche-se-divise-apres-l-interruption-du-concert-de-barbara-butch-boycottee-par-des-militants-locaux-lfi_6728356_823448.html&c=5740021414525668794&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 20 Jul 2026 23:35:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Grenoble (38000)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92703449d481492421f08c3742cec&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2fisere-38%2fgrenoble-38185&c=5170604452792874517&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
-        },
-        {
-          "title": "Isère « Méthode Trump » contre « propagande municipale » : à Grenoble, la bataille du récit politique fait rage",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dff22ba642ddb09ac35cb359d6f0&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f13%2fmethode-trump-contre-propagande-municipale-a-grenoble-la-bataille-du-recit-politique-fait-rage&c=4676268553368592038&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 13 Sep 2026 03:20:00 GMT"
-        },
-        {
-          "title": "Grenoble Pourquoi il y aura deux nouveaux élus au conseil municipal",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dff22ba642ddb09ac35cb359d6f0&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f07%2fisere-grenoble-pourquoi-il-y-aura-deux-nouveaux-elus-au-conseil-municipal&c=10256350469819969070&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 07 Sep 2026 06:42:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Grenoble : quels candidats se présentent au premier tour ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dff22ba642ddb09ac35cb359d6f0&url=https%3a%2f%2fwww.ouest-france.fr%2felections%2fmunicipales%2fmunicipales-2026-a-grenoble-quels-candidats-se-presentent-au-premier-tour-3a063db2-dbf2-11f0-8d76-cbe9a6da9c82&c=14577525538890740023&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 30 Jan 2026 06:05:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:47.866646+00:00"
+      "last_checked": "2026-09-16T10:52:46.953103+00:00"
     },
     "Lezoux": {
       "items": [
@@ -650,10 +650,16 @@
           "pubDate": "Sun, 22 Mar 2026 12:40:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:49.351527+00:00"
+      "last_checked": "2026-09-16T10:52:48.383624+00:00"
     },
     "Dunkerque": {
       "items": [
+        {
+          "title": "Dunkerque: sans surprise, Dunkerque Congrès devrait continuer de gérer le Kursaal",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75013e0f4f57a728492e53deae55&url=https%3a%2f%2fwww.lavoixdunord.fr%2fart%2fregion%2fdunkerque-sans-surprise-dunkerque-congres-devrait-ia17b47588n1779330&c=12208439603897910682&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 15 Dec 2013 07:11:00 GMT"
+        },
         {
           "title": "Dunkerque: sans surprise, Dunkerque Congrès devrait continuer de gérer le Kursaal",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa927061d85476fa3caf7b28d6fb3fc&url=https%3a%2f%2fwww.lavoixdunord.fr%2fart%2fregion%2fdunkerque-sans-surprise-dunkerque-congres-devrait-ia17b47588n1779330&c=12208439603897910682&mkt=fr-fr",
@@ -695,22 +701,22 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa68408693f46f094824292e338d2c8&url=https%3a%2f%2ffrance3-regions.franceinfo.fr%2fhauts-de-france%2fnord-0%2fdunkerque%2femploi-securite-democratie-locale-que-proposent-les-principaux-candidats-aux-elections-municipales-de-2026-a-dunkerque-3307872.html&c=63615098476331537&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 02 Mar 2026 21:05:00 GMT"
-        },
-        {
-          "title": "Dunkerque: sans surprise, Dunkerque Congrès devrait continuer de gérer le Kursaal",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524a9ca864c5f9e6825ccaee39523&url=https%3a%2f%2fwww.lavoixdunord.fr%2fart%2fregion%2fdunkerque-sans-surprise-dunkerque-congres-devrait-ia17b47588n1779330&c=12208439603897910682&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 15 Dec 2013 07:11:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:50.839967+00:00"
+      "last_checked": "2026-09-16T10:52:49.841832+00:00"
     },
     "Fos-sur-Mer": {
       "items": [],
-      "last_checked": "2026-09-15T11:07:52.304305+00:00"
+      "last_checked": "2026-09-16T10:52:51.250748+00:00"
     },
     "Valenciennes": {
       "items": [
+        {
+          "title": "Le maire de Valenciennes, condamné, va devoir quitter ses mandats",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750461a3468ab6b2b7e788fa86ee&url=https%3a%2f%2fwww.france24.com%2ffr%2finfo-en-continu%2f20260430-le-maire-de-valenciennes-condamn%25C3%25A9-va-devoir-quitter-ses-mandats&c=14228734792083572193&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 30 Apr 2026 09:43:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 : Aulnoy-lez-Valenciennes (59300)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dff8fd8e484a9d6f55ab6efa9ff9&url=https%3a%2f%2fwww.ici.fr%2fhauts-de-france%2fnord-59%2faulnoy-lez-valenciennes%2felections&c=10031971984063921671&mkt=fr-fr",
@@ -752,18 +758,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa1395fb7d84901852546f6f9f6f0ff&url=https%3a%2f%2fwww.ici.fr%2fhauts-de-france%2fnord-59%2faulnoy-lez-valenciennes%2felections&c=10031971984063921671&mkt=fr-fr",
           "source": "",
           "pubDate": "Fri, 03 Jul 2026 06:41:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 : Aulnoy-lez-Valenciennes (59300)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe5747a184f47b85c33f9b9db8f2b&url=https%3a%2f%2fwww.ici.fr%2fhauts-de-france%2fnord-59%2faulnoy-lez-valenciennes%2felections&c=10031971984063921671&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 03 Jul 2026 06:41:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:53.790970+00:00"
+      "last_checked": "2026-09-16T10:52:52.745798+00:00"
     },
     "Metz": {
       "items": [
+        {
+          "title": "Léon XIV à Metz : la laïcité interdit-elle à la ville de financer la visite du Pape ?",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7505295d4409a7ccec1b5deed3f0&url=https%3a%2f%2fwww.village-justice.com%2farticles%2fleon-xiv-metz-laicite-interdit-elle-ville-financer-visite-pape%2c58791.html&c=14485949642264161443&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 28 Aug 2026 02:08:00 GMT"
+        },
         {
           "title": "Le tribunal administratif rejette le recours de l’Ufal sur la venue du pape en Moselle",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9270b2a1b4c0e9baad501e37e4480&url=https%3a%2f%2fmoselle.tv%2fle-tribunal-administratif-rejette-le-recours-de-lufal-sur-la-venue-du-pape-en-moselle%2f&c=14014047274118605305&mkt=fr-fr",
@@ -805,18 +811,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dff974e74bcba052257b962f302c&url=https%3a%2f%2fwww.village-justice.com%2farticles%2fleon-xiv-metz-laicite-interdit-elle-ville-financer-visite-pape%2c58791.html&c=14485949642264161443&mkt=fr-fr",
           "source": "",
           "pubDate": "Fri, 28 Aug 2026 02:08:00 GMT"
-        },
-        {
-          "title": "Visite de Léon XIV à Metz : le tribunal administratif autorise la mairie à financer des écrans géants",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dff974e74bcba052257b962f302c&url=https%3a%2f%2fwww.franceinfo.fr%2fmonde%2fvatican%2fpape-leon-xiv%2fvisite-de-leon-xiv-a-metz-le-tribunal-administratif-autorise-la-mairie-a-financer-des-ecrans-geants_8188418.html&c=1946701803902657474&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 11 Sep 2026 09:17:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:55.320309+00:00"
+      "last_checked": "2026-09-16T10:52:54.194688+00:00"
     },
     "Mulhouse": {
       "items": [
+        {
+          "title": "Mulhouse Rentrée culturelle : et si on s’appuyait sur la jeunesse ?",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7507bd5d46eca8b790f77091c62e&url=https%3a%2f%2fwww.lalsace.fr%2fculture-loisirs%2f2026%2f09%2f11%2frentree-culturelle-et-si-on-s-appuyait-sur-la-jeunesse&c=7170821295489636488&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT"
+        },
         {
           "title": "Mulhouse Rentrée culturelle : et si on s’appuyait sur la jeunesse ?",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9270cfb4840a49d48c8677ffe64f4&url=https%3a%2f%2fwww.lalsace.fr%2fculture-loisirs%2f2026%2f09%2f11%2frentree-culturelle-et-si-on-s-appuyait-sur-la-jeunesse&c=7170821295489636488&mkt=fr-fr",
@@ -858,18 +864,24 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6840d165f4f00b9be3a00d1914b59&url=https%3a%2f%2ffrance3-regions.franceinfo.fr%2fgrand-est%2fhaut-rhin%2fmulhouse%2fmulhouse-ancien-magasin-globe-deviendra-hotel-1296129.html&c=13223550026464717118&mkt=fr-fr",
           "source": "",
           "pubDate": "Tue, 11 Jul 2017 09:36:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Mulhouse (68100)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6840d165f4f00b9be3a00d1914b59&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2fhaut-rhin-68%2fmulhouse-68224&c=15134005546725498750&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:56.851753+00:00"
+      "last_checked": "2026-09-16T10:52:55.660418+00:00"
     },
     "Strasbourg": {
       "items": [
+        {
+          "title": "Strasbourg Catherine Trautmann redevient maire : revivez l'installation du nouveau conseil municipal et l'élection des adjoints",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75080334485f8862220426c50d9e&url=https%3a%2f%2fwww.dna.fr%2felections%2f2026%2f03%2f28%2fcatherine-trautmann-maire-de-strasbourg-suivez-l-installation-du-nouveau-conseil-municipal-et-l-election-des-vingt-adjoints&c=16743936297744214708&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 28 Mar 2026 07:30:00 GMT"
+        },
+        {
+          "title": "Au conseil municipal : réforme sur le stationnement et débats sur l’état des finances",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75080334485f8862220426c50d9e&url=https%3a%2f%2fwww.rue89strasbourg.com%2fconseil-municipal-juin-strasbourg-2026-391168&c=8808738718370147358&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 21 Jun 2026 21:00:00 GMT"
+        },
         {
           "title": "Strasbourg Catherine Trautmann redevient maire : revivez l'installation du nouveau conseil municipal et l'élection des adjoints",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9270edd394deeaab51a3432c2007e&url=https%3a%2f%2fwww.dna.fr%2felections%2f2026%2f03%2f28%2fcatherine-trautmann-maire-de-strasbourg-suivez-l-installation-du-nouveau-conseil-municipal-et-l-election-des-vingt-adjoints&c=16743936297744214708&mkt=fr-fr",
@@ -905,77 +917,95 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6840f2596433b897fbec0f6c71761&url=https%3a%2f%2fwww.dna.fr%2felections%2f2026%2f03%2f28%2fcatherine-trautmann-maire-de-strasbourg-suivez-l-installation-du-nouveau-conseil-municipal-et-l-election-des-vingt-adjoints&c=16743936297744214708&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 28 Mar 2026 07:30:00 GMT"
-        },
-        {
-          "title": "Strasbourg, Grande-Île et Neustadt",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6840f2596433b897fbec0f6c71761&url=https%3a%2f%2fwhc.unesco.org%2ffr%2flist%2f495&c=14098128409319269855&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 08 Jul 2017 17:00:00 GMT"
-        },
-        {
-          "title": "Au conseil municipal : réforme sur le stationnement et débats sur l’état des finances",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6840f2596433b897fbec0f6c71761&url=https%3a%2f%2fwww.rue89strasbourg.com%2fconseil-municipal-juin-strasbourg-2026-391168&c=8808738718370147358&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 21 Jun 2026 21:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:58.352321+00:00"
+      "last_checked": "2026-09-16T10:52:57.154724+00:00"
     },
     "Bordeaux": {
       "items": [
+        {
+          "title": "Bordeaux : les Girondins dénoncent un \"scandale\"",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750a2d76415685c252f2cef067fe&url=https%3a%2f%2fnews.maxifoot.fr%2fbordeaux%2fles-girondins-denoncent-un-scandale-foot-463270.htm&c=18406691999663474475&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 02 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Bordeaux : les Girondins définitivement fixés ce jeudi soir ?",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750a2d76415685c252f2cef067fe&url=https%3a%2f%2fwww.msn.com%2ffr-fr%2fsport%2ffootball%2fbordeaux-les-girondins-d%25C3%25A9finitivement-fix%25C3%25A9s-ce-jeudi-soir%2far-AA2ch3IO&c=10071959568371003605&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 15 Sep 2026 12:59:00 GMT"
+        },
+        {
+          "title": "Municipales 2026 à Bordeaux : résultats en direct du second tour",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750a2d76415685c252f2cef067fe&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fmunicipales%2fdossier%2fmunicipales-a-bordeaux-resultats-et-suivi-du-scrutin&c=5899961839408832825&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 18 Mar 2026 08:23:00 GMT"
+        },
+        {
+          "title": "Bordeaux inaugure la première unité de méthanisation dans une zone industrialo-portuaire de France",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750a2d76415685c252f2cef067fe&url=https%3a%2f%2flemarin.ouest-france.fr%2fshipping%2fbordeaux-inaugure-la-premiere-unite-de-methanisation-dans-une-zone-industrialo-portuaire-de-france-b12ef4ac-ac34-11f1-8346-c9d5c99462af&c=4159174816885751723&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 09 Sep 2026 06:38:00 GMT"
+        },
+        {
+          "title": "À dix kilomètres de Bordeaux, 25 000 tonnes de biodéchets deviennent gaz de réseau et engrais agricole",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750a2d76415685c252f2cef067fe&url=https%3a%2f%2fwww.aquitaineonline.com%2factualites-en-aquitaine%2fbordeaux-metropole%2f13399-methanisation-cve-port-bordeaux-bassens-biomethane.html&c=9311989085228002425&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 07 Sep 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Business - La Tribune Bordeaux",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750a2d76415685c252f2cef067fe&url=https%3a%2f%2fwww.latribune.fr%2fnouvelle-aquitaine-74%2fbusiness-210%2f&c=1214414250217195158&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 16 Sep 2025 02:00:00 GMT"
+        },
+        {
+          "title": "Girondins de Bordeaux : il y a trente-trois ans, « l’affaire des Girondins », la liquidation du club et la chute de Claude Bez",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750a2d76415685c252f2cef067fe&url=https%3a%2f%2fwww.sudouest.fr%2fsport%2ffootball%2fgirondins-de-bordeaux%2fgirondins-de-bordeaux-il-y-a-33-ans-l-affaire-des-girondins-la-liquidation-du-club-et-la-chute-de-claude-bez-20755052.php&c=10382618075380322349&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 29 Jul 2024 22:00:00 GMT"
+        },
         {
           "title": "Bordeaux inaugure la première unité de méthanisation dans une zone industrialo-portuaire de France",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9270f1727498caec7ea56bc04e16e&url=https%3a%2f%2flemarin.ouest-france.fr%2fshipping%2fbordeaux-inaugure-la-premiere-unite-de-methanisation-dans-une-zone-industrialo-portuaire-de-france-b12ef4ac-ac34-11f1-8346-c9d5c99462af&c=4159174816885751723&mkt=fr-fr",
           "source": "",
           "pubDate": "Wed, 09 Sep 2026 06:38:00 GMT"
-        },
-        {
-          "title": "Business - La Tribune Bordeaux",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9270f1727498caec7ea56bc04e16e&url=https%3a%2f%2fwww.latribune.fr%2fnouvelle-aquitaine-74%2fbusiness-210%2f&c=1214414250217195158&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 16 Sep 2025 02:00:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Bordeaux : résultats en direct du second tour",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9270f1727498caec7ea56bc04e16e&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fmunicipales%2fdossier%2fmunicipales-a-bordeaux-resultats-et-suivi-du-scrutin&c=5899961839408832825&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 18 Mar 2026 08:23:00 GMT"
-        },
-        {
-          "title": "2 250 m² pour ce nouveau bâtiment à Bordeaux qui verra le jour en 2028 et qui complètera la métamorphose des Bassins à Flots entamée il y a 15 ans",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9270f1727498caec7ea56bc04e16e&url=https%3a%2f%2fwww.aquitaineonline.com%2factualites-en-aquitaine%2fbordeaux-metropole%2f13380-port-center-bassins-a-flots-bordeaux.html&c=8005844463338475018&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 06 Sep 2026 01:03:00 GMT"
-        },
-        {
-          "title": "Bordeaux inaugure la première unité de méthanisation dans une zone industrialo-portuaire de France",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dffe8e1d48ba94556f7fb529cbe9&url=https%3a%2f%2flemarin.ouest-france.fr%2fshipping%2fbordeaux-inaugure-la-premiere-unite-de-methanisation-dans-une-zone-industrialo-portuaire-de-france-b12ef4ac-ac34-11f1-8346-c9d5c99462af&c=4159174816885751723&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 09 Sep 2026 06:38:00 GMT"
-        },
-        {
-          "title": "Business - La Tribune Bordeaux",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dffe8e1d48ba94556f7fb529cbe9&url=https%3a%2f%2fwww.latribune.fr%2fnouvelle-aquitaine-74%2fbusiness-210%2f&c=1214414250217195158&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 16 Sep 2025 02:00:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Bordeaux : résultats en direct du second tour",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dffe8e1d48ba94556f7fb529cbe9&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fmunicipales%2fdossier%2fmunicipales-a-bordeaux-resultats-et-suivi-du-scrutin&c=5899961839408832825&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 18 Mar 2026 08:23:00 GMT"
-        },
-        {
-          "title": "2 250 m² pour ce nouveau bâtiment à Bordeaux qui verra le jour en 2028 et qui complètera la métamorphose des Bassins à Flots entamée il y a 15 ans",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dffe8e1d48ba94556f7fb529cbe9&url=https%3a%2f%2fwww.aquitaineonline.com%2factualites-en-aquitaine%2fbordeaux-metropole%2f13380-port-center-bassins-a-flots-bordeaux.html&c=8005844463338475018&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 06 Sep 2026 01:03:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:07:59.864031+00:00"
+      "last_checked": "2026-09-16T10:52:58.782026+00:00"
     },
     "Nantes": {
       "items": [
+        {
+          "title": "Nantes : l’évacuation chaotique de deux bidonvilles roms pollue la rentrée politique de la maire Johanna Rolland",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750cebd0488da423a06dc0d0f61b&url=https%3a%2f%2fwww.lefigaro.fr%2fnantes%2fnantes-l-evacuation-chaotique-de-deux-bidonvilles-roms-pollue-la-rentree-politique-de-la-maire-johanna-rolland-20260825&c=5182182485319094179&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 25 Aug 2026 00:25:00 GMT"
+        },
+        {
+          "title": "« Ils nous ont déjà fait le coup »… La colère monte à Notre-Dame-des-Landes menacée par un nouveau projet de l’Etat",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750cebd0488da423a06dc0d0f61b&url=https%3a%2f%2fwww.20minutes.fr%2fnantes%2f4242823-20260912-deja-fait-coup-colere-monte-dame-landes-menacee-nouveau-projet-etat&c=4550374642008730965&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 11 Sep 2026 22:02:00 GMT"
+        },
+        {
+          "title": "Nantes : le permis de construire du prochain centre de rétention est signé",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750cebd0488da423a06dc0d0f61b&url=https%3a%2f%2fvideo.lefigaro.fr%2ffigaro%2fnantes%2fnantes-le-permis-de-construire-du-prochain-centre-de-retention-est-signe-20260902&c=9055974751996643809&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 02 Sep 2026 05:59:00 GMT"
+        },
+        {
+          "title": "Un nouveau contrat de ville pour les quartiers populaires",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750cebd0488da423a06dc0d0f61b&url=https%3a%2f%2fmetropole.nantes.fr%2factualites%2fun-nouveau-contrat-de-ville-pour-les-quartiers-populaires&c=12414052125421341582&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 06 Dec 2023 06:49:00 GMT"
+        },
+        {
+          "title": "Johanna Rolland, maire de Nantes",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa750cebd0488da423a06dc0d0f61b&url=https%3a%2f%2fwww.ouest-france.fr%2fpolitique%2fjohanna-rolland%2f&c=2539414114110491874&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 15 Sep 2026 17:00:00 GMT"
+        },
         {
           "title": "Nantes : le permis de construire du prochain centre de rétention est signé",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9271138af48d2b46e6efb822a8427&url=https%3a%2f%2fvideo.lefigaro.fr%2ffigaro%2fnantes%2fnantes-le-permis-de-construire-du-prochain-centre-de-retention-est-signe-20260902&c=9055974751996643809&mkt=fr-fr",
@@ -993,39 +1023,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9271138af48d2b46e6efb822a8427&url=https%3a%2f%2fmetropole.nantes.fr%2factualites%2fl-essentiel-du-conseil-municipal-du-19-juin-2026&c=11169130284015623366&mkt=fr-fr",
           "source": "",
           "pubDate": "Tue, 16 Jun 2026 01:19:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Nantes : résultats en direct du second tour",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9271138af48d2b46e6efb822a8427&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fmunicipales%2fdossier%2fmunicipales-a-nantes-resultats-et-suivi-du-scrutin&c=13421895437045153981&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 18 Mar 2026 08:23:00 GMT"
-        },
-        {
-          "title": "La liste menée par Johanna Rolland a remporté les élections : et maintenant ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9271138af48d2b46e6efb822a8427&url=https%3a%2f%2fmetropole.nantes.fr%2factualites%2fla-liste-menee-par-johanna-rolland-a-remporte-les-elections-et-maintenant&c=1646673885488470803&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 23 Mar 2026 14:01:00 GMT"
-        },
-        {
-          "title": "« Ils nous ont déjà fait le coup »… La colère monte à Notre-Dame-des-Landes menacée par un nouveau projet de l’Etat",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfff07d04b858c343769be98e341&url=https%3a%2f%2fwww.20minutes.fr%2fnantes%2f4242823-20260912-deja-fait-coup-colere-monte-dame-landes-menacee-nouveau-projet-etat&c=4550374642008730965&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 11 Sep 2026 22:02:00 GMT"
-        },
-        {
-          "title": "Nantes : le permis de construire du prochain centre de rétention est signé",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfff07d04b858c343769be98e341&url=https%3a%2f%2fvideo.lefigaro.fr%2ffigaro%2fnantes%2fnantes-le-permis-de-construire-du-prochain-centre-de-retention-est-signe-20260902&c=9055974751996643809&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 02 Sep 2026 05:59:00 GMT"
-        },
-        {
-          "title": "Johanna Rolland, maire de Nantes",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7dfff07d04b858c343769be98e341&url=https%3a%2f%2fwww.ouest-france.fr%2fpolitique%2fjohanna-rolland%2f&c=2539414114110491874&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:01.366905+00:00"
+      "last_checked": "2026-09-16T10:53:00.351241+00:00"
     },
     "Thionville": {
       "items": [
@@ -1078,7 +1078,7 @@
           "pubDate": "Sun, 22 Mar 2026 13:15:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:02.825523+00:00"
+      "last_checked": "2026-09-16T10:53:01.830691+00:00"
     },
     "Reims": {
       "items": [
@@ -1131,10 +1131,22 @@
           "pubDate": "Tue, 21 Mar 2023 04:01:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:04.311890+00:00"
+      "last_checked": "2026-09-16T10:53:03.278264+00:00"
     },
     "Orléans": {
       "items": [
+        {
+          "title": "Trottoir trop bas : accord en vue entre la mairie d’Orléans et un habitant après une vidéo aux 20 millions de vues",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75100dfe4157b5c1ae328d7d5864&url=https%3a%2f%2fwww.leparisien.fr%2floiret-45%2ftrottoir-trop-bas-accord-en-vue-entre-la-mairie-dorleans-et-un-habitant-apres-une-video-aux-20-milli-ns-de-vues-05-09-2026-HS4BNHLLEBDFRG2G3XUCS4H7KM.php&c=10674586301313681160&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 03 Sep 2026 23:00:00 GMT"
+        },
+        {
+          "title": "Orléans : Une marche devant son garage l'empêche de l'utiliser depuis les travaux sur le trottoir de la mairie",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75100dfe4157b5c1ae328d7d5864&url=https%3a%2f%2fwww.autoplus.fr%2factualite%2finsolite%2forleans-une-marche-devant-son-garage-lempeche-de-lutiliser-depuis-les-travaux-sur-le-trottoir-de-la-mairie-1464167.html&c=10480332101723194598&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 01 Sep 2026 12:45:00 GMT"
+        },
         {
           "title": "Trottoir trop bas : accord en vue entre la mairie d’Orléans et un habitant après une vidéo aux 20 millions de vues",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92715a6e0490f9aed5baf74052d51&url=https%3a%2f%2fwww.leparisien.fr%2floiret-45%2ftrottoir-trop-bas-accord-en-vue-entre-la-mairie-dorleans-et-un-habitant-apres-une-video-aux-20-milli-ns-de-vues-05-09-2026-HS4BNHLLEBDFRG2G3XUCS4H7KM.php&c=10674586301313681160&mkt=fr-fr",
@@ -1170,21 +1182,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e003fb88464b99d55f1c10cd7a0a&url=https%3a%2f%2fimmobilier.lefigaro.fr%2farticle%2fen-conflit-avec-son-maire-il-ne-peut-pas-rentrer-sa-voiture-dans-son-garage-a-cause-d-une-marche-a-l-entree-20260901&c=9889737514863987913&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 31 Aug 2026 21:31:00 GMT"
-        },
-        {
-          "title": "Accueil Insolite « Une marche de garage à 10 000 euros »: l'interminable conflit entre un habitant et ...",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa68416d22e40b6ad3f34b4625bc4f6&url=https%3a%2f%2fwww.ledauphine.com%2finsolite%2f2026%2f09%2f01%2fune-marche-de-garage-a-10-000-euros-l-interminable-conflit-fou-entre-un-habitant-et-son-maire-fait-plus-de-20-millions-de-vues&c=8285020363664040623&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 01 Sep 2026 03:29:00 GMT"
-        },
-        {
-          "title": "En conflit avec son maire, il ne peut pas rentrer sa voiture dans son garage à cause d’une marche à l’entrée",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa68416d22e40b6ad3f34b4625bc4f6&url=https%3a%2f%2fimmobilier.lefigaro.fr%2farticle%2fen-conflit-avec-son-maire-il-ne-peut-pas-rentrer-sa-voiture-dans-son-garage-a-cause-d-une-marche-a-l-entree-20260901&c=9889737514863987913&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 31 Aug 2026 21:31:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:05.806497+00:00"
+      "last_checked": "2026-09-16T10:53:04.755930+00:00"
     },
     "Angers": {
       "items": [
@@ -1237,14 +1237,32 @@
           "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:07.342790+00:00"
+      "last_checked": "2026-09-16T10:53:06.301794+00:00"
     },
     "Saint-Dizier": {
       "items": [],
-      "last_checked": "2026-09-15T11:08:08.814762+00:00"
+      "last_checked": "2026-09-16T10:53:07.716140+00:00"
     },
     "Pontoise": {
       "items": [
+        {
+          "title": "Journées du Patrimoine 2026 à Pontoise (95) : votre programme de visites ce week-end",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7514d7c14e36a0d55a23b4a20d36&url=https%3a%2f%2fwww.sortiraparis.com%2factualites%2fjournees-du-patrimoine%2farticles%2f296889-journees-du-patrimoine-2026-a-pontoise-95-votre-programme-de-visites-ce-week-end&c=13722982631560897656&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 01 Aug 2023 08:28:00 GMT"
+        },
+        {
+          "title": "Pontoise : résultats du 2nd tour des élections Municipales 2026",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7514d7c14e36a0d55a23b4a20d36&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2file-de-france%2fval-d-oise%2fpontoise-95000%2f&c=13735461413102412594&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 10 Feb 2020 14:30:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Pontoise (95000)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7514d7c14e36a0d55a23b4a20d36&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f95000-pontoise-95500&c=6520406090671506912&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Pontoise : résultats du 2nd tour des élections Municipales 2026",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9271af7734cccbf4b44c4d3b64cd1&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2file-de-france%2fval-d-oise%2fpontoise-95000%2f&c=13735461413102412594&mkt=fr-fr",
@@ -1274,30 +1292,24 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3da65554a4579ae6478fe300917e4&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2file-de-france%2fval-d-oise%2fpontoise-95000%2f&c=13735461413102412594&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 10 Feb 2020 14:30:00 GMT"
-        },
-        {
-          "title": "« Du jamais vu depuis Disneyland Paris » : Emmanuel Macron annonce la création de trois parcs à thème saoudiens en France",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe584231c46378b69e2a4f7c0d6f9&url=https%3a%2f%2fwww.lopinion.fr%2feconomie%2fdu-jamais-vu-depuis-disneyland-paris-emmanuel-macron-annonce-la-creation-de-trois-parcs-a-theme-saoudiens-en-france&c=6880531157033424400&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 25 Aug 2026 02:07:00 GMT"
-        },
-        {
-          "title": "« Du jamais vu depuis Disneyland Paris » : Emmanuel Macron annonce la création de trois parcs à thème saoudiens en France",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ea245dc62420c8973f70993dde786&url=https%3a%2f%2fwww.lopinion.fr%2feconomie%2fdu-jamais-vu-depuis-disneyland-paris-emmanuel-macron-annonce-la-creation-de-trois-parcs-a-theme-saoudiens-en-france&c=6880531157033424400&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 25 Aug 2026 02:07:00 GMT"
-        },
-        {
-          "title": "Municipales à Pontoise : la droite unie tente de conserver son siège en faisant campagne sur la sécurité",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ea245dc62420c8973f70993dde786&url=https%3a%2f%2fwww.lemonde.fr%2fpolitique%2farticle%2f2026%2f02%2f25%2fmunicipales-a-pontoise-la-droite-unie-tente-de-conserver-son-siege-en-faisant-campagne-sur-la-securite_6668233_823448.html&c=6582720870795203938&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 25 Feb 2026 06:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:10.310157+00:00"
+      "last_checked": "2026-09-16T10:53:09.201283+00:00"
     },
     "Le Raincy": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Le Raincy - 93340",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75166bff43eca69ca95034d2b51e&url=https%3a%2f%2fwww.lemonde.fr%2fresultats-municipales-2026%2fle-raincy-93062%2f&c=10070344053686292401&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 03 Feb 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Filature du maire, photos volées, accusations de malversation : ce mystérieux corbeau qui ébranle Le Raincy",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75166bff43eca69ca95034d2b51e&url=https%3a%2f%2fwww.leparisien.fr%2fseine-saint-denis-93%2ffilature-du-maire-photos-volees-accusations-de-malversation-ce-mysterieux-corbeau-qui-ebranle-le-raincy-21-11-2024-A2Q3PZYFB5GUVMZMZ7J4PLE5UQ.php&c=10132220673544233798&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 20 Nov 2024 22:04:00 GMT"
+        },
         {
           "title": "Filature du maire, photos volées, accusations de malversation : ce mystérieux corbeau qui ébranle Le Raincy",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9271b82044ef8a772fd2b0889ed97&url=https%3a%2f%2fwww.leparisien.fr%2fseine-saint-denis-93%2ffilature-du-maire-photos-volees-accusations-de-malversation-ce-mysterieux-corbeau-qui-ebranle-le-raincy-21-11-2024-A2Q3PZYFB5GUVMZMZ7J4PLE5UQ.php&c=10132220673544233798&mkt=fr-fr",
@@ -1333,21 +1345,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ea246c405433cbdd4b394cc42ea12&url=https%3a%2f%2fwww.lemonde.fr%2fresultats-municipales-2026%2fle-raincy-93062%2f&c=10070344053686292401&mkt=fr-fr",
           "source": "",
           "pubDate": "Tue, 03 Feb 2026 16:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Le Raincy (93340)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9be81810bb403bbc7c26bb6de6accb&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2fseine-saint-denis-93%2fle-raincy-93062&c=13434722696968825827&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Le Raincy (93340)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a9fa440e24fe3badf615243d98a28&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2fseine-saint-denis-93%2fle-raincy-93062&c=13434722696968825827&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:11.815152+00:00"
+      "last_checked": "2026-09-16T10:53:10.663482+00:00"
     },
     "Lampertheim": {
       "items": [
@@ -1400,10 +1400,16 @@
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:13.299690+00:00"
+      "last_checked": "2026-09-16T10:53:12.351119+00:00"
     },
     "Grasse": {
       "items": [
+        {
+          "title": "C’est une première : l’agglomération de Grasse va reverser 1,7 million d’euros à toutes ses communes (et on vous explique pourquoi)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7519cf504d8b89d9f8bf7c7f8c1c&url=https%3a%2f%2fwww.nicematin.com%2fsociete%2fpolitique%2fc-est-une-premiere-l-agglomeration-de-grasse-va-reverser-1-7-million-d-euros-a-toutes-ses-communes-et-on-vous-explique-pourquoi-10687767&c=7293301505985855010&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 02 Jul 2026 16:59:00 GMT"
+        },
         {
           "title": "C’est une première : l’agglomération de Grasse va reverser 1,7 million d’euros à toutes ses communes (et on vous explique pourquoi)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9271eda91493bb98d8de71e8e1568&url=https%3a%2f%2fwww.nicematin.com%2fsociete%2fpolitique%2fc-est-une-premiere-l-agglomeration-de-grasse-va-reverser-1-7-million-d-euros-a-toutes-ses-communes-et-on-vous-explique-pourquoi-10687767&c=7293301505985855010&mkt=fr-fr",
@@ -1445,15 +1451,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e00c05d341899dd65993662270e0&url=https%3a%2f%2fwww.leprogres.fr%2felections%2fresultats%3fcommune%3d06069%26canton%3d0612&c=1291034606623187399&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 13 Sep 2026 17:00:00 GMT"
-        },
-        {
-          "title": "C’est une première : l’agglomération de Grasse va reverser 1,7 million d’euros à toutes ses communes (et on vous explique pourquoi)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6841ee45143c98e39e920b1fd2f93&url=https%3a%2f%2fwww.nicematin.com%2fsociete%2fpolitique%2fc-est-une-premiere-l-agglomeration-de-grasse-va-reverser-1-7-million-d-euros-a-toutes-ses-communes-et-on-vous-explique-pourquoi-10687767&c=7293301505985855010&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 02 Jul 2026 16:59:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:14.802878+00:00"
+      "last_checked": "2026-09-16T10:53:13.801908+00:00"
     },
     "Courbevoie": {
       "items": [
@@ -1506,10 +1506,28 @@
           "pubDate": "Wed, 17 Sep 2025 08:45:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:16.298634+00:00"
+      "last_checked": "2026-09-16T10:53:15.301892+00:00"
     },
     "Argenteuil": {
       "items": [
+        {
+          "title": "La plus grande ville du Val-d'Oise rêve de reconquérir la Seine",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa751c59fa4ac897cc22d90b6b61d1&url=https%3a%2f%2factu.fr%2file-de-france%2fargenteuil_95018%2fval-doise-la-plus-grande-ville-du-val-doise-reve-de-reconquerir-la-seine_62172385.html&c=1522489363582246732&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 27 Jan 2025 23:32:00 GMT"
+        },
+        {
+          "title": "Municipales 2026. À Argenteuil, 1re ville du Val-d'Oise, un fauteuil très convoité",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa751c59fa4ac897cc22d90b6b61d1&url=https%3a%2f%2factu.fr%2fpolitique%2fmunicipales-2026-a-argenteuil-1re-ville-du-val-doise-un-fauteuil-tres-convoite_63958807.html&c=16269984516334043611&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 11 Mar 2026 07:04:00 GMT"
+        },
+        {
+          "title": "Les règles des élections municipales",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa751c59fa4ac897cc22d90b6b61d1&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2file-de-france%2fval-d-oise%2fargenteuil-95100%2f&c=8539040914815374586&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 23 Mar 2014 03:19:00 GMT"
+        },
         {
           "title": "Municipales 2026. À Argenteuil, 1re ville du Val-d'Oise, un fauteuil très convoité",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa927214487457ba11b9ad7dcc94fdb&url=https%3a%2f%2factu.fr%2fpolitique%2fmunicipales-2026-a-argenteuil-1re-ville-du-val-doise-un-fauteuil-tres-convoite_63958807.html&c=16269984516334043611&mkt=fr-fr",
@@ -1539,34 +1557,22 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e00ffcfb4f489e21b16e32347bec&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2file-de-france%2fval-d-oise%2fargenteuil-95100%2f&c=8539040914815374586&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 23 Mar 2014 03:19:00 GMT"
-        },
-        {
-          "title": "Résultats des municipales 2026 à Argenteuil : les résultats du second tour des élections dans votre commune",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e00ffcfb4f489e21b16e32347bec&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-a-argenteuil-les-resultats-du-second-tour-des-elections-dans-votre-commune_AN-202603220363.html&c=13906693052965501421&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Argenteuil (95100)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e00ffcfb4f489e21b16e32347bec&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f95100-argenteuil-95018&c=17956044667469805876&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultat de l'élection municipale 2026 à Argenteuil : Georges Mothron conserve son fauteuil, tous les résultats",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e00ffcfb4f489e21b16e32347bec&url=https%3a%2f%2fwww.linternaute.com%2factualite%2fpolitique%2f10066863-resultat-de-l-election-municipale-2026-a-argenteuil-la-publication-des-resultats-decouvrez-les-gagnants-du-scrutin%2f&c=4881208442808082218&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 11:58:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:17.799545+00:00"
+      "last_checked": "2026-09-16T10:53:16.778648+00:00"
     },
     "Saint-Étienne": {
       "items": [],
-      "last_checked": "2026-09-15T11:08:19.246132+00:00"
+      "last_checked": "2026-09-16T10:53:18.200922+00:00"
     },
     "Alès": {
       "items": [
+        {
+          "title": "\"Nous n’avons pas lâché le collectif...\" : Alès Commun veut continuer à faire vivre le débat local",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa751f5c19430cb24391d65f7ed34a&url=https%3a%2f%2fwww.midilibre.fr%2f2026%2f09%2f10%2fnous-navons-pas-lache-le-collectif-ales-commun-veut-continuer-a-faire-vivre-le-debat-local-13544627.php&c=4160474988813299610&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 10 Sep 2026 07:29:00 GMT"
+        },
         {
           "title": "\"Nous n’avons pas lâché le collectif...\" : Alès Commun veut continuer à faire vivre le débat local",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92724920b4ec393ca595b18858387&url=https%3a%2f%2fwww.midilibre.fr%2f2026%2f09%2f10%2fnous-navons-pas-lache-le-collectif-ales-commun-veut-continuer-a-faire-vivre-le-debat-local-13544627.php&c=4160474988813299610&mkt=fr-fr",
@@ -1608,23 +1614,17 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa13979b4ae4ff4b4a503f3eaa7efab&url=https%3a%2f%2fwww.lemonde.fr%2fpolitique%2farticle%2f2025%2f08%2f04%2fmunicipales-2026-a-ales-la-gauche-aimerait-prendre-sa-revanche-et-faire-barrage-a-l-extreme-droite_6626573_823448.html&c=4751464578139679595&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 04 Aug 2025 02:00:00 GMT"
-        },
-        {
-          "title": "Résultats des municipales 2026 à Alès : les résultats du second tour des élections dans votre commune",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9be820b21047a685291e9c484f8e1d&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-a-ales-les-resultats-du-second-tour-des-elections-dans-votre-commune_AN-202603220345.html&c=10041500628481156184&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 12:02:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:20.751530+00:00"
+      "last_checked": "2026-09-16T10:53:19.653396+00:00"
     },
     "Meung-sur-Loire": {
       "items": [],
-      "last_checked": "2026-09-15T11:08:22.233256+00:00"
+      "last_checked": "2026-09-16T10:53:21.088313+00:00"
     },
     "Tremblay-en-France": {
       "items": [],
-      "last_checked": "2026-09-15T11:08:23.693166+00:00"
+      "last_checked": "2026-09-16T10:53:22.524022+00:00"
     },
     "Mauguio": {
       "items": [
@@ -1677,14 +1677,20 @@
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:25.189295+00:00"
+      "last_checked": "2026-09-16T10:53:23.999185+00:00"
     },
     "Livron-sur-Drôme": {
       "items": [],
-      "last_checked": "2026-09-15T11:08:26.695022+00:00"
+      "last_checked": "2026-09-16T10:53:25.464117+00:00"
     },
     "Onnaing": {
       "items": [
+        {
+          "title": "Résultats aux élections municipales 1er tour : Onnaing (59264)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75268aca4b76beda7dd184ff23b8&url=https%3a%2f%2fwww.franceinfo.fr%2felections%2fmunicipales%2fresultats%2f2020%2fnord_59%2fonnaing_59264&c=6623826297149870232&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 01 Oct 2025 17:00:00 GMT"
+        },
         {
           "title": "Résultats aux élections municipales 1er tour : Onnaing (59264)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9272b22ce4a0088f136e07499baf6&url=https%3a%2f%2fwww.franceinfo.fr%2felections%2fmunicipales%2fresultats%2f2020%2fnord_59%2fonnaing_59264&c=6623826297149870232&mkt=fr-fr",
@@ -1726,22 +1732,22 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa1398082c84b1da375f993ce8e59c5&url=https%3a%2f%2fwww.franceinfo.fr%2felections%2fmunicipales%2fresultats%2f2020%2fnord_59%2fonnaing_59264&c=6623826297149870232&mkt=fr-fr",
           "source": "",
           "pubDate": "Wed, 01 Oct 2025 17:00:00 GMT"
-        },
-        {
-          "title": "Action voit grand dans le Nord, son nouvel entrepôt XXL va s’accompagner de 1 000 embauches d’ici 2028",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8d39b6e074462781a3ae29b054359d&url=https%3a%2f%2fwww.msn.com%2ffr-be%2factualite%2fother%2faction-voit-grand-dans-le-nord-son-nouvel-entrep%25C3%25B4t-xxl-va-s-accompagner-de-1-000-embauches-d-ici-2028%2far-AA29IJ3E&c=1276263920343933145&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 09 Aug 2026 09:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:28.215970+00:00"
+      "last_checked": "2026-09-16T10:53:27.047024+00:00"
     },
     "Billy-Berclau": {
       "items": [],
-      "last_checked": "2026-09-15T11:08:29.675332+00:00"
+      "last_checked": "2026-09-16T10:53:28.495431+00:00"
     },
     "Ottmarsheim": {
       "items": [
+        {
+          "title": "Ottmarsheim Un conseiller municipal d’opposition condamné pour diffamation publique",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75293772487080cd0c68ee65c1e3&url=https%3a%2f%2fwww.lalsace.fr%2ffaits-divers-justice%2f2026%2f02%2f17%2fun-conseiller-municipal-d-opposition-de-la-commune-d-ottmarsheim-condamne-pour-diffamation&c=8797356300519167956&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 16 Feb 2026 23:13:00 GMT"
+        },
         {
           "title": "Ottmarsheim Un conseiller municipal d’opposition condamné pour diffamation publique",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e01c75324098acbbf0dfeff6c23e&url=https%3a%2f%2fwww.lalsace.fr%2ffaits-divers-justice%2f2026%2f02%2f17%2fun-conseiller-municipal-d-opposition-de-la-commune-d-ottmarsheim-condamne-pour-diffamation&c=8797356300519167956&mkt=fr-fr",
@@ -1783,18 +1789,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9be82a0b0844a18653079f790355ce&url=https%3a%2f%2fwww.lalsace.fr%2ffaits-divers-justice%2f2026%2f02%2f17%2fun-conseiller-municipal-d-opposition-de-la-commune-d-ottmarsheim-condamne-pour-diffamation&c=8797356300519167956&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 16 Feb 2026 23:13:00 GMT"
-        },
-        {
-          "title": "Ottmarsheim Un conseiller municipal d’opposition condamné pour diffamation publique",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a9fb8486f4a02a688a96e1fc871e2&url=https%3a%2f%2fwww.lalsace.fr%2ffaits-divers-justice%2f2026%2f02%2f17%2fun-conseiller-municipal-d-opposition-de-la-commune-d-ottmarsheim-condamne-pour-diffamation&c=8797356300519167956&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 16 Feb 2026 23:13:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:31.179290+00:00"
+      "last_checked": "2026-09-16T10:53:29.951964+00:00"
     },
     "Meyzieu": {
       "items": [
+        {
+          "title": "Location Locaux Professionnels à Meyzieu (69) : 179 annonces",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa752bd6394a69b6768cd53773099c&url=https%3a%2f%2fimmobilier.lefigaro.fr%2fannonces%2fimmobilier-location-divers-meyzieu%2b69330.html&c=3767949750177483507&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 23 Jul 2018 23:23:00 GMT"
+        },
         {
           "title": "Location Locaux Professionnels à Meyzieu (69) : 179 annonces",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92730872f464f8c70efd206900f60&url=https%3a%2f%2fimmobilier.lefigaro.fr%2fannonces%2fimmobilier-location-divers-meyzieu%2b69330.html&c=3767949750177483507&mkt=fr-fr",
@@ -1836,19 +1842,13 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a994f5becf843b7b6ef251c2e30f969&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2021%2f01%2f25%2fa-meyzieu-le-debat-contradictoire-n-existe-pas&c=14172195575028866867&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 25 Jan 2021 03:25:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 Meyzieu",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a994f5becf843b7b6ef251c2e30f969&url=https%3a%2f%2fwww.leprogres.fr%2felections%2fresultats%3fcommune%3d69282&c=16858619097007057892&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:32.686921+00:00"
+      "last_checked": "2026-09-16T10:53:31.464239+00:00"
     },
     "Andrézieux-Bouthéon": {
       "items": [],
-      "last_checked": "2026-09-15T11:08:34.173468+00:00"
+      "last_checked": "2026-09-16T10:53:32.908492+00:00"
     },
     "Blagnac": {
       "items": [
@@ -1901,7 +1901,7 @@
           "pubDate": "Thu, 05 Mar 2026 10:07:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:35.672075+00:00"
+      "last_checked": "2026-09-16T10:53:34.424867+00:00"
     },
     "Nîmes": {
       "items": [
@@ -1954,10 +1954,22 @@
           "pubDate": "Tue, 07 Jul 2020 08:48:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:37.219123+00:00"
+      "last_checked": "2026-09-16T10:53:35.928539+00:00"
     },
     "Beauvais": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Beauvais (60000)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7531374d4382afde6f8a58b5e199&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f60000-beauvais-60057&c=9868359597724787780&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Beauvais. O. Leroux, patron de la Fnac, explique sa fermeture",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7531374d4382afde6f8a58b5e199&url=https%3a%2f%2fwww.oisehebdo.fr%2f2025%2f04%2f05%2fbeauvais-patron-fnac-leroux-fermeture%2f&c=2958555405696726743&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 05 Apr 2025 04:51:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Beauvais (60000)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92736763e4beeac808199fe55b427&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f60000-beauvais-60057&c=9868359597724787780&mkt=fr-fr",
@@ -1993,28 +2005,22 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a9fc0af9f4b879a9f7a7b724f08e3&url=https%3a%2f%2fwww.20minutes.fr%2felections-municipales%2fhauts-france-32%2f4214108-20260322-beauvais-60155-resultats-elections-municipales-2026-second-tour&c=8177613101121177865&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 22 Mar 2026 13:23:00 GMT"
-        },
-        {
-          "title": "Résultats des municipales 2026 à Beauvais : les résultats du second tour des élections dans votre commune",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a9fc0af9f4b879a9f7a7b724f08e3&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-a-beauvais-les-resultats-du-second-tour-des-elections-dans-votre-commune_AN-202603220295.html&c=13528952300600330956&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Beauvais. O. Leroux, patron de la Fnac, explique sa fermeture",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a9fc0af9f4b879a9f7a7b724f08e3&url=https%3a%2f%2fwww.oisehebdo.fr%2f2025%2f04%2f05%2fbeauvais-patron-fnac-leroux-fermeture%2f&c=2958555405696726743&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 05 Apr 2025 04:51:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:38.740474+00:00"
+      "last_checked": "2026-09-16T10:53:37.440658+00:00"
     },
     "La Grande-Motte": {
       "items": [],
-      "last_checked": "2026-09-15T11:08:40.199444+00:00"
+      "last_checked": "2026-09-16T10:53:38.866865+00:00"
     },
     "Amiens": {
       "items": [
+        {
+          "title": "L'horloge Dewailly",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75345f8d45aeb1dbe91d5bed9350&url=https%3a%2f%2fwww.amiens.fr%2fVivre-a-Amiens%2fCulture-Patrimoine%2fLes-Archives-municipales-et-communautaires%2fTresors-d-Archives%2fTresors-d-archives%2fL-horloge-Dewailly&c=18105591888432585044&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 27 Apr 2023 16:59:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Amiens (80000)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e02642ea4de689743118a4ae2eb3&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f80000-amiens-80021&c=12198207947273086812&mkt=fr-fr",
@@ -2056,18 +2062,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa684378e284a9caf7618c2e613e6df&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f80000-amiens-80021&c=12198207947273086812&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Amiens : Paul-Eric Dècle (Les Centristes) entre en campagne",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa684378e284a9caf7618c2e613e6df&url=https%3a%2f%2fwww.ici.fr%2fhauts-de-france%2fsomme-80%2famiens%2fmunicipales-2026-a-amiens-paul-eric-decle-les-centristes-entre-en-campagne-5436570&c=9985633762674038860&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 17 Nov 2025 02:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:41.717599+00:00"
+      "last_checked": "2026-09-16T10:53:40.355703+00:00"
     },
     "Yzeure": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Yzeure (03400)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7535de934486b9d44b3a8a62efb0&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f03400-yzeure-03321&c=17954586404747252420&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Yzeure (03400)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524de4f5f4fea89b98c43379c4e7f&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f03400-yzeure-03321&c=17954586404747252420&mkt=fr-fr",
@@ -2109,18 +2115,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a9fc46b5642f2b9502d351332e424&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f03400-yzeure-03321&c=17954586404747252420&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Yzeure (03400)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a994f650554436eac2c6e09d28ddc71&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f03400-yzeure-03321&c=17954586404747252420&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:43.243562+00:00"
+      "last_checked": "2026-09-16T10:53:41.889491+00:00"
     },
     "Vémars": {
       "items": [
+        {
+          "title": "Vémars (95470) : Résultats des élections municipales 2026 au second tour",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753762004f109331cf212833b215&url=https%3a%2f%2fwww.20minutes.fr%2felections-municipales%2file-france-11%2f4214286-20260322-vemars-95470-resultats-elections-municipales-2026-second-tour&c=5068609751883990261&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 22 Mar 2026 14:25:00 GMT"
+        },
         {
           "title": "Vémars (95470) : Résultats des élections municipales 2026 au second tour",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9273cda51488b9bc6cfbacb8234ea&url=https%3a%2f%2fwww.20minutes.fr%2felections-municipales%2file-france-11%2f4214286-20260322-vemars-95470-resultats-elections-municipales-2026-second-tour&c=5068609751883990261&mkt=fr-fr",
@@ -2162,18 +2168,24 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa1398f98db4a75a76a5a3dd3cc49c5&url=https%3a%2f%2fwww.20minutes.fr%2felections-municipales%2file-france-11%2f4214286-20260322-vemars-95470-resultats-elections-municipales-2026-second-tour&c=5068609751883990261&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 22 Mar 2026 14:25:00 GMT"
-        },
-        {
-          "title": "Vémars (95470) : Résultats des élections municipales 2026 au second tour",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe5a522d749038242bc6e4870cebc&url=https%3a%2f%2fwww.20minutes.fr%2felections-municipales%2file-france-11%2f4214286-20260322-vemars-95470-resultats-elections-municipales-2026-second-tour&c=5068609751883990261&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 14:25:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:44.732807+00:00"
+      "last_checked": "2026-09-16T10:53:43.387977+00:00"
     },
     "Arsac": {
       "items": [
+        {
+          "title": "Arsac-en-Velay - Résultats des municipales : la liste des élus au conseil municipal",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753836b54eecb3327d4c948e628f&url=https%3a%2f%2fwww.leveil.fr%2farsac-en-velay-43700%2factualites%2fmunicipales-2026-la-liste-complete-des-candidats-a-arsac-en-velay_14839397%2f&c=10344846915354672622&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 15 Mar 2026 15:12:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Arsac (33460)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753836b54eecb3327d4c948e628f&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f33460-arsac-33012&c=9537789073618211516&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Arsac (33460)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9273e9b6e448b8808a6966c8f6161&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f33460-arsac-33012&c=9537789073618211516&mkt=fr-fr",
@@ -2209,24 +2221,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3da88e6bc4181808447a33f48ba63&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f33460-arsac-33012&c=9537789073618211516&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Arsac (33460)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2893fc81f468197270261bb60e400&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f33460-arsac-33012&c=9537789073618211516&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Arsac (33460)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa13991c00941098b610b8327b3c267&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f33460-arsac-33012&c=9537789073618211516&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:46.237003+00:00"
+      "last_checked": "2026-09-16T10:53:44.904961+00:00"
     },
     "Chessy": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Chessy (77700)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753a6dd344378196b3bdb6a80275&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f77700-chessy-77111&c=2167322150275453197&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats aux élections municipales 1er tour : Chessy (77700)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa13992461a401792132417f721c156&url=https%3a%2f%2fwww.franceinfo.fr%2felections%2fmunicipales%2fresultats%2f2020%2fseine-et-marne_77%2fchessy_77700&c=15546583850866311618&mkt=fr-fr",
@@ -2268,18 +2274,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a8943da36d246d694c6c578f324a055&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f69380-chessy-69056&c=8067857562769999104&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Chessy (69380)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a87f3a5f59a4fdda164e842d2ad2b67&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f69380-chessy-69056&c=8067857562769999104&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:47.692105+00:00"
+      "last_checked": "2026-09-16T10:53:46.368111+00:00"
     },
     "Uchaud": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Uchaud (30620)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753bf05b41cdb3042dc55d668095&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f30620-uchaud-30333&c=2195755070642715026&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Uchaud (30620)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92740faac469e95802d3c6de78cdb&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f30620-uchaud-30333&c=2195755070642715026&mkt=fr-fr",
@@ -2321,18 +2327,24 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa139937ed241008cfb6e0e4f8aec8f&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f30620-uchaud-30333&c=2195755070642715026&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Uchaud (30620)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe5aa904645f390567c2878a86e0a&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f30620-uchaud-30333&c=2195755070642715026&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:49.161926+00:00"
+      "last_checked": "2026-09-16T10:53:47.927504+00:00"
     },
     "Genas": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Genas (69740)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753df21643f6a6136c9b027fe0f3&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f69740-genas-69277&c=17198635502612230295&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Genas : les résultats du premier tour des municipales 2026 sont disponibles",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753df21643f6a6136c9b027fe0f3&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2fgenas-les-resultats-du-premier-tour-des-municipales-2026-sont-disponibles-15-03-2026-O6WCPMNQRJC5NGOW5OT5LDY2FY.php&c=4712132007365567677&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 15 Mar 2026 15:27:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Genas (69740)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92742a84645c583cfa94de6773da4&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f69740-genas-69277&c=17198635502612230295&mkt=fr-fr",
@@ -2368,24 +2380,24 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa28943e2624fe492b5a38d1712fc0e&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2fgenas-les-resultats-du-premier-tour-des-municipales-2026-sont-disponibles-15-03-2026-O6WCPMNQRJC5NGOW5OT5LDY2FY.php&c=4712132007365567677&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 15 Mar 2026 15:27:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Genas (69740)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa13995b7dd46fe8372665ab053ed4e&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f69740-genas-69277&c=17198635502612230295&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Genas : les résultats du premier tour des municipales 2026 sont disponibles",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa13995b7dd46fe8372665ab053ed4e&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2fgenas-les-resultats-du-premier-tour-des-municipales-2026-sont-disponibles-15-03-2026-O6WCPMNQRJC5NGOW5OT5LDY2FY.php&c=4712132007365567677&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 15 Mar 2026 15:27:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:50.630346+00:00"
+      "last_checked": "2026-09-16T10:53:49.508772+00:00"
     },
     "Vénissieux": {
       "items": [
+        {
+          "title": "Municipales : deux victoires de LFI pourraient être annulées dans la banlieue de Lyon",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753e61e54ca9979f64142504c7bb&url=https%3a%2f%2fwww.lejdd.fr%2fpolitique%2fmunicipales-deux-victoires-de-lfi-pourraient-etre-annulees-dans-la-banlieue-de-lyon-183474&c=18340957747601077036&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 14 Sep 2026 10:20:00 GMT"
+        },
+        {
+          "title": "Vénissieux : une querelle de clocher menace la mosquée",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa753e61e54ca9979f64142504c7bb&url=https%3a%2f%2fwww.saphirnews.com%2fVenissieux-une-querelle-de-clocher-menace-la-mosquee_a10812.html&c=18087986513457655429&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 23 Nov 2009 16:00:00 GMT"
+        },
         {
           "title": "Deux conquêtes importantes de LFI aux municipales menacées en justice, Mélenchon dénonce des « manipulations politiques »… Ce que l’on sait",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa927437c574501bcbae43b49442c6d&url=https%3a%2f%2fwww.nouvelobs.com%2fpolitique%2f20260914.OBS118230%2fdeux-conquetes-importantes-de-lfi-aux-municipales-menacees-en-justice-melenchon-denonce-des-manipulations-politiques-ce-que-l-on-sait.html&c=2990846646451541178&mkt=fr-fr",
@@ -2421,21 +2433,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3da8e5a7540b19e6db3fd6495983f&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2026%2f05%2f03%2fvenissieux-la-nouvelle-piscine-des-minguettes-ouvrira-en-juin-quels-seront-les-tarifs&c=1784939049475178926&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 03 May 2026 02:39:00 GMT"
-        },
-        {
-          "title": "Métropole de Lyon Vénissieux : la nouvelle piscine des Minguettes ouvrira en juin, quels seront les tarifs ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2894559a44884a7658abacdbccbce&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2026%2f05%2f03%2fvenissieux-la-nouvelle-piscine-des-minguettes-ouvrira-en-juin-quels-seront-les-tarifs&c=1784939049475178926&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 03 May 2026 02:39:00 GMT"
-        },
-        {
-          "title": "Vénissieux Le Conseil Municipal d’Enfant a tenu séance en mairie",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa13996cb8e44568c8741b30622128b&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2022%2f11%2f21%2fle-conseil-municipal-d-enfant-a-tenu-seance-en-mairie&c=463704391783807237&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 21 Nov 2022 11:21:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:52.126191+00:00"
+      "last_checked": "2026-09-16T10:53:51.055217+00:00"
     },
     "Sorgues": {
       "items": [
@@ -2488,60 +2488,60 @@
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:53.642535+00:00"
+      "last_checked": "2026-09-16T10:53:52.655465+00:00"
     },
     "Orange": {
       "items": [
         {
-          "title": "Orange Retour espéré en 2028 pour Pop the Opera et une volonté de « relancer les Chorégies »",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92746ce144439910c042e17fb121f&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f07%2fretour-espere-en-2028-pour-pop-the-opera-et-une-volonte-de-relancer-les-choregies&c=4930431754430879145&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 07 Sep 2026 12:06:00 GMT"
-        },
-        {
-          "title": "Orange. Queen for ever : 5 400 spectateurs dans le théâtre antique",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92746ce144439910c042e17fb121f&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f09%2fqueen-for-ever-5-400-spectateurs-dans-le-theatre-antique&c=11907893656137620766&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 09 Sep 2026 09:44:00 GMT"
-        },
-        {
-          "title": "Maison individuelle Orange : les démarches de raccordement pour une maison neuve",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92746ce144439910c042e17fb121f&url=https%3a%2f%2fwww.echosdunet.net%2forange%2fmaison-individuelle&c=2527393293266897869&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 24 Jun 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Orange Retour espéré en 2028 pour Pop the Opera et une volonté de « relancer les Chorégies »",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e0337a894082b2c315e90da3e756&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f07%2fretour-espere-en-2028-pour-pop-the-opera-et-une-volonte-de-relancer-les-choregies&c=4930431754430879145&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 07 Sep 2026 12:06:00 GMT"
-        },
-        {
-          "title": "Orange Lidl veut agrandir son magasin : la Ville sécurise la vente de terrain pour « ne pas pénaliser les riverains »",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e0337a894082b2c315e90da3e756&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f08%2flidl-veut-agrandir-son-magasin-la-ville-securise-la-vente-de-terrain-pour-ne-pas-penaliser-les-riverains&c=5400232051841967618&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 08 Sep 2026 10:09:00 GMT"
-        },
-        {
-          "title": "Le concert Queen Forever aura finalement bien lieu à Orange, la mairie et le producteur ont trouvé un accord",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e0337a894082b2c315e90da3e756&url=https%3a%2f%2fwww.ici.fr%2fprovence-alpes-cote-d-azur%2fvaucluse-84%2forange%2fle-concert-queen-forever-aura-finalement-bien-lieu-a-orange-la-mairie-et-le-producteur-ont-trouve-un-accord-2819397&c=13614572223871142546&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 30 Jul 2026 09:42:00 GMT"
-        },
-        {
           "title": "Orange construit à Val-de-Reuil un nouveau data center pour répondre aux enjeux numériques de demain",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa68444afc845bdac3982d33a8149fc&url=https%3a%2f%2fwww.orange-business.com%2ffr%2fpresse%2forange-construit-val-reuil-nouveau-data-center-pour-repondre-enjeux-numeriques-demain&c=14276393937278115072&mkt=fr-fr",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7541c73342b0b78d5647275333f7&url=https%3a%2f%2fwww.orange-business.com%2ffr%2fpresse%2forange-construit-val-reuil-nouveau-data-center-pour-repondre-enjeux-numeriques-demain&c=14276393937278115072&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 13 May 2019 17:00:00 GMT"
         },
         {
           "title": "Orange Retour espéré en 2028 pour Pop the Opera et une volonté de « relancer les Chorégies »",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa68444afc845bdac3982d33a8149fc&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f07%2fretour-espere-en-2028-pour-pop-the-opera-et-une-volonte-de-relancer-les-choregies&c=4930431754430879145&mkt=fr-fr",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7541c73342b0b78d5647275333f7&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f07%2fretour-espere-en-2028-pour-pop-the-opera-et-une-volonte-de-relancer-les-choregies&c=4930431754430879145&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 07 Sep 2026 12:06:00 GMT"
+        },
+        {
+          "title": "Le conseil municipal d'Orange valide la création d'un Conseil des sages",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7541c73342b0b78d5647275333f7&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fpolitique%2f1388126595495615%2fle-conseil-municipal-dorange-valide-la-creation-dun-conseil-des-sages&c=11691535015784667629&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 21 Jul 2026 22:07:00 GMT"
+        },
+        {
+          "title": "Orange. Queen for ever : 5 400 spectateurs dans le théâtre antique",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7541c73342b0b78d5647275333f7&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f09%2fqueen-for-ever-5-400-spectateurs-dans-le-theatre-antique&c=11907893656137620766&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 09 Sep 2026 09:44:00 GMT"
+        },
+        {
+          "title": "Orange : d'anciens amis du clan Bompard rejoignent le Rassemblement national",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7541c73342b0b78d5647275333f7&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fregion%2f1594931491567516%2forange-danciens-amis-du-clan-bompard-rejoignent-le-rassemblement-national&c=12624347353414897065&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 31 Jan 2024 21:12:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Orange (84100)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7541c73342b0b78d5647275333f7&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f84100-orange-84087&c=7064610882532450484&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Orange : les résultats du second tour des municipales 2026 sont publiés",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7541c73342b0b78d5647275333f7&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2forange-les-resultats-du-second-tour-des-municipales-2026-sont-publies-22-03-2026-UWZTL7RXPZCRFNO4323TTC4USA.php&c=4670389028543938235&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 22 Mar 2026 12:40:00 GMT"
+        },
+        {
+          "title": "Orange Retour espéré en 2028 pour Pop the Opera et une volonté de « relancer les Chorégies »",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92746ce144439910c042e17fb121f&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f07%2fretour-espere-en-2028-pour-pop-the-opera-et-une-volonte-de-relancer-les-choregies&c=4930431754430879145&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 07 Sep 2026 12:06:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:55.174379+00:00"
+      "last_checked": "2026-09-16T10:53:54.160181+00:00"
     },
     "Sandouville": {
       "items": [
@@ -2576,10 +2576,34 @@
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:56.623146+00:00"
+      "last_checked": "2026-09-16T10:53:55.650178+00:00"
     },
     "Lens": {
       "items": [
+        {
+          "title": "La bonne affaire du RC Lens qui rachète le stade Bollaert à la ville pour moins de la moitié de sa valeur",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa754432f642018184f8273d5d38e4&url=https%3a%2f%2frmcsport.bfmtv.com%2ffootball%2fclubs%2frc-lens%2fla-bonne-affaire-du-rc-lens-qui-rachete-le-stade-bollaert-a-la-ville-pour-moins-de-la-moitie-de-sa-valeur_AV-202505210495.html&c=1518384066863198938&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 21 May 2025 06:23:00 GMT"
+        },
+        {
+          "title": "Louvre-Lens : la ville espère un miracle",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa754432f642018184f8273d5d38e4&url=https%3a%2f%2fwww.radiofrance.fr%2ffranceculture%2fpodcasts%2fpixel-13-14%2flouvre-lens-la-ville-espere-un-miracle-3819401&c=13468293595709068348&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 29 Nov 2012 22:12:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Lens (62300)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa754432f642018184f8273d5d38e4&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f62300-lens-62498&c=999625362077915680&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Municipales 2026 : qui sont les candidats déclarés à Lens ?",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa754432f642018184f8273d5d38e4&url=https%3a%2f%2fwww.ici.fr%2fhauts-de-france%2fpas-de-calais-62%2flens%2fmunicipales-2026-qui-sont-les-candidats-declares-a-lens-8968300&c=4265796511218628339&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 04 Feb 2026 21:00:00 GMT"
+        },
         {
           "title": "Lens : une heure de stationnement gratuit en centre-ville depuis ce mardi 1er septembre",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9274944e54ceab1816b8180c6996c&url=https%3a%2f%2fwww.ici.fr%2fhauts-de-france%2fpas-de-calais-62%2flens%2flens-une-heure-de-stationnement-gratuit-en-centre-ville-depuis-ce-mardi-1er-septembre-9909926&c=3913292842805256230&mkt=fr-fr",
@@ -2603,36 +2627,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524edd767476aa809e56bac8e315c&url=https%3a%2f%2fwww.footmercato.net%2fa5994721146739900310-rc-lens-florian-thauvin-a-brille-sous-les-yeux-de-zinedine-zidane&c=15675687821197376897&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 16 Aug 2026 15:59:00 GMT"
-        },
-        {
-          "title": "Lens : une heure de stationnement gratuit en centre-ville depuis ce mardi 1er septembre",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524edd767476aa809e56bac8e315c&url=https%3a%2f%2fwww.ici.fr%2fhauts-de-france%2fpas-de-calais-62%2flens%2flens-une-heure-de-stationnement-gratuit-en-centre-ville-depuis-ce-mardi-1er-septembre-9909926&c=3913292842805256230&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 01 Sep 2026 09:47:00 GMT"
-        },
-        {
-          "title": "Louvre-Lens : la ville espère un miracle",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524edd767476aa809e56bac8e315c&url=https%3a%2f%2fwww.radiofrance.fr%2ffranceculture%2fpodcasts%2fpixel-13-14%2flouvre-lens-la-ville-espere-un-miracle-3819401&c=13468293595709068348&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 29 Nov 2012 22:12:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Lens (62300)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524edd767476aa809e56bac8e315c&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f62300-lens-62498&c=999625362077915680&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Lens : une heure de stationnement gratuit en centre-ville depuis ce mardi 1er septembre",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3da9422a7466e938266518d00efdf&url=https%3a%2f%2fwww.ici.fr%2fhauts-de-france%2fpas-de-calais-62%2flens%2flens-une-heure-de-stationnement-gratuit-en-centre-ville-depuis-ce-mardi-1er-septembre-9909926&c=3913292842805256230&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 01 Sep 2026 09:47:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:58.131794+00:00"
+      "last_checked": "2026-09-16T10:53:57.171963+00:00"
     },
     "Douvrin": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Douvrin (62138)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7546b4d0484dbe4434e263468689&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f62138-douvrin-62276&c=6656479567368366186&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Douvrin (62138)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9274b80374da8b28840256fff4e65&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f62138-douvrin-62276&c=6656479567368366186&mkt=fr-fr",
@@ -2674,19 +2680,13 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa684484f284750a49780536d1589a5&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f62138-douvrin-62276&c=6656479567368366186&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Douvrin (62138)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa524ef90464b668b5ee9c898ac38b7&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f62138-douvrin-62276&c=6656479567368366186&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:08:59.638307+00:00"
+      "last_checked": "2026-09-16T10:53:58.636376+00:00"
     },
     "Saint-Omer": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:01.131689+00:00"
+      "last_checked": "2026-09-16T10:54:00.162790+00:00"
     },
     "Arras": {
       "items": [
@@ -2739,10 +2739,16 @@
           "pubDate": "Tue, 24 Mar 2026 22:15:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:02.630817+00:00"
+      "last_checked": "2026-09-16T10:54:01.601996+00:00"
     },
     "Compiègne": {
       "items": [
+        {
+          "title": "Les règles des élections municipales",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa754a66a443cbbaa4b0e35e9e3ab6&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fhauts-de-france%2foise%2fcompiegne-60200%2f&c=12305368065171008403&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 17 Mar 2020 03:23:00 GMT"
+        },
         {
           "title": "Les règles des élections municipales",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9274ff2e647b192ea6d772494b947&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fhauts-de-france%2foise%2fcompiegne-60200%2f&c=12305368065171008403&mkt=fr-fr",
@@ -2784,15 +2790,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ea27a517e44f78102bc25134cd8cc&url=https%3a%2f%2fwww.oisehebdo.fr%2f2025%2f06%2f25%2fcompiegne-maire-gratuite-stationnement-aout%2f&c=12319982679632347234&mkt=fr-fr",
           "source": "",
           "pubDate": "Wed, 25 Jun 2025 04:15:00 GMT"
-        },
-        {
-          "title": "Après Rantigny, PKM Logistique envisage un datacenter sur la ZAC de Lachelle dans le Compiégnois",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d3e20a41e4078ba59c7efc53f9297&url=https%3a%2f%2fwww.oisehebdo.fr%2f2026%2f08%2f18%2fpkm-logistique-envisage-datacenter-zac-lachelle-compiegnois%2f&c=3157874918262351909&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 18 Aug 2026 08:51:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:04.120801+00:00"
+      "last_checked": "2026-09-16T10:54:03.063838+00:00"
     },
     "Laon": {
       "items": [
@@ -2845,7 +2845,7 @@
           "pubDate": "Sun, 15 Mar 2026 13:36:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:05.588280+00:00"
+      "last_checked": "2026-09-16T10:54:04.495424+00:00"
     },
     "Soissons": {
       "items": [
@@ -2898,15 +2898,15 @@
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:07.117383+00:00"
+      "last_checked": "2026-09-16T10:54:05.954172+00:00"
     },
     "Saint-Quentin": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:08.591268+00:00"
+      "last_checked": "2026-09-16T10:54:07.442936+00:00"
     },
     "Saint-Avold": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:10.061989+00:00"
+      "last_checked": "2026-09-16T10:54:08.877878+00:00"
     },
     "Forbach": {
       "items": [
@@ -2959,10 +2959,16 @@
           "pubDate": "Wed, 27 May 2026 22:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:11.582298+00:00"
+      "last_checked": "2026-09-16T10:54:10.295152+00:00"
     },
     "Woippy": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Woippy (57140)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75537f684938b88c528bb5f21121&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f57140-woippy-57751&c=5940746156805935769&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Woippy (57140)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9275816614f93bee9207d2eadb4a4&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f57140-woippy-57751&c=5940746156805935769&mkt=fr-fr",
@@ -3004,15 +3010,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa139aafc2a4352ba9cc1987877b594&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f57140-woippy-57751&c=5940746156805935769&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Woippy (57140)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe5c22545469798cbaad941acbadc&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f57140-woippy-57751&c=5940746156805935769&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:13.061853+00:00"
+      "last_checked": "2026-09-16T10:54:11.828460+00:00"
     },
     "Sarreguemines": {
       "items": [
@@ -3065,10 +3065,28 @@
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:14.543155+00:00"
+      "last_checked": "2026-09-16T10:54:13.272650+00:00"
     },
     "Huningue": {
       "items": [
+        {
+          "title": "Huningue Le conseil municipal décide de vendre un immeuble rue de l’Abattoir",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755676ff41c9aa0a345ded1c9341&url=https%3a%2f%2fwww.lalsace.fr%2fpolitique%2f2026%2f09%2f12%2fle-conseil-municipal-decide-de-vendre-un-immeuble-rue-de-l-abattoir&c=11492294707031866507&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 11 Sep 2026 22:02:00 GMT"
+        },
+        {
+          "title": "Huningue La pénurie de généralistes est un « un problème grave » pour le maire honoraire René Moebel, 90 ans",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755676ff41c9aa0a345ded1c9341&url=https%3a%2f%2fwww.lalsace.fr%2fpolitique%2f2026%2f09%2f12%2fla-penurie-de-generalistes-est-un-un-probleme-grave-pour-le-maire-honoraire-rene-moebel-90-ans&c=5631210566105016988&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 12 Sep 2026 09:15:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Huningue (68330)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755676ff41c9aa0a345ded1c9341&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f68330-huningue-68149&c=14676506841451385683&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Huningue La pénurie de généralistes est un « un problème grave » pour le maire honoraire René Moebel, 90 ans",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9275b7fd146b38110733286f26396&url=https%3a%2f%2fwww.lalsace.fr%2fpolitique%2f2026%2f09%2f12%2fla-penurie-de-generalistes-est-un-un-probleme-grave-pour-le-maire-honoraire-rene-moebel-90-ans&c=5631210566105016988&mkt=fr-fr",
@@ -3098,27 +3116,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e047fc8d4160835694b857912558&url=https%3a%2f%2fwww.lalsace.fr%2fpolitique%2f2026%2f09%2f12%2fla-penurie-de-generalistes-est-un-un-probleme-grave-pour-le-maire-honoraire-rene-moebel-90-ans&c=5631210566105016988&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 12 Sep 2026 09:15:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Huningue (68330)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e047fc8d4160835694b857912558&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f68330-huningue-68149&c=14676506841451385683&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Huningue La pénurie de généralistes est un « un problème grave » pour le maire honoraire René Moebel, 90 ans",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa684579fa94b5685ea4a999ef8292c&url=https%3a%2f%2fwww.lalsace.fr%2fpolitique%2f2026%2f09%2f12%2fla-penurie-de-generalistes-est-un-un-probleme-grave-pour-le-maire-honoraire-rene-moebel-90-ans&c=5631210566105016988&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 12 Sep 2026 09:15:00 GMT"
-        },
-        {
-          "title": "Huningue Le conseil municipal décide de vendre un immeuble rue de l’Abattoir",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa684579fa94b5685ea4a999ef8292c&url=https%3a%2f%2fwww.lalsace.fr%2fpolitique%2f2026%2f09%2f12%2fle-conseil-municipal-decide-de-vendre-un-immeuble-rue-de-l-abattoir&c=11492294707031866507&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 11 Sep 2026 16:59:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:16.076358+00:00"
+      "last_checked": "2026-09-16T10:54:14.732470+00:00"
     },
     "Troyes": {
       "items": [
@@ -3171,14 +3171,44 @@
           "pubDate": "Sun, 26 Jul 2020 22:20:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:17.595083+00:00"
+      "last_checked": "2026-09-16T10:54:16.151238+00:00"
     },
     "Épinal": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:19.173628+00:00"
+      "last_checked": "2026-09-16T10:54:17.608809+00:00"
     },
     "Annecy": {
       "items": [
+        {
+          "title": "Annecy De 32 à 56,5 millions d'euros : la « dérive budgétaire » du haras pointée du doigt en conseil municipal",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755a111f4739adbd18daf9280b4a&url=https%3a%2f%2fwww.ledauphine.com%2feconomie%2f2026%2f09%2f15%2fde-32-a-56-5-millions-d-euros-la-derive-budgetaire-du-haras-pointee-du-doigt-en-conseil-municipal&c=8231427871638663342&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 15 Sep 2026 07:02:00 GMT"
+        },
+        {
+          "title": "Accueil Politique Conseil municipal « Pendant plusieurs mois, j’ai fait l’objet d’une calomnie » : après sa mise en ...",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755a111f4739adbd18daf9280b4a&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f14%2fapres-sa-mise-en-retrait-anthony-granger-de-retour-en-conseil-municipal-pendant-plusieurs-mois-j-ai-fait-l-objet-d-une-calomnie&c=5608344021037406223&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 14 Sep 2026 10:26:00 GMT"
+        },
+        {
+          "title": "Trois mois après sa mise en retrait, Anthony Granger fait son retour politique à Annecy",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755a111f4739adbd18daf9280b4a&url=https%3a%2f%2fwww.lemessager.fr%2f649357648%2farticle%2f2026-09-14%2ftrois-mois-apres-sa-mise-en-retrait-anthony-granger-fait-son-retour-politique&c=2175779743086609582&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 14 Sep 2026 10:37:00 GMT"
+        },
+        {
+          "title": "Résultats des municipales 2026 à Annecy: l'ex-ministre de l'Économie Antoine Armand largement élu maire",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755a111f4739adbd18daf9280b4a&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-a-annecy-l-ex-ministre-de-l-economie-antoine-armand-largement-elu-maire_AN-202603220588.html&c=4229828235022676395&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 22 Mar 2026 14:12:00 GMT"
+        },
+        {
+          "title": "Municipales 2026 : à Annecy, les équilibres bougent avec l'arrivée d'un ancien ministre",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755a111f4739adbd18daf9280b4a&url=https%3a%2f%2fwww.lesechos.fr%2felections%2fmunicipales%2fmunicipales-2026-a-annecy-les-equilibres-bougent-avec-larrivee-dun-ancien-ministre-2182339&c=8141697018347547373&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 22 Aug 2025 06:46:00 GMT"
+        },
         {
           "title": "Accueil Politique Conseil municipal « Pendant plusieurs mois, j’ai fait l’objet d’une calomnie » : après sa mise en ...",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92760080848a4a555f1c395392dc0&url=https%3a%2f%2fwww.ledauphine.com%2fpolitique%2f2026%2f09%2f14%2fapres-sa-mise-en-retrait-anthony-granger-de-retour-en-conseil-municipal-pendant-plusieurs-mois-j-ai-fait-l-objet-d-une-calomnie&c=5608344021037406223&mkt=fr-fr",
@@ -3196,42 +3226,36 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92760080848a4a555f1c395392dc0&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-a-annecy-l-ex-ministre-de-l-economie-antoine-armand-largement-elu-maire_AN-202603220588.html&c=4229828235022676395&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 22 Mar 2026 14:12:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Annecy (74000)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92760080848a4a555f1c395392dc0&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f74000-annecy-74010&c=5147681081763285987&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Accusation de viol contre un élu d’Annecy : deux mois après nos révélations, où en est l’affaire ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92760080848a4a555f1c395392dc0&url=https%3a%2f%2fwww.lemessager.fr%2f649355997%2farticle%2f2026-07-31%2faccusation-de-viol-contre-un-elu-d-annecy-deux-mois-apres-nos-revelations-ou-en&c=1224746811804358438&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 31 Jul 2026 01:54:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 : à Annecy, les équilibres bougent avec l'arrivée d'un ancien ministre",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92760080848a4a555f1c395392dc0&url=https%3a%2f%2fwww.lesechos.fr%2felections%2fmunicipales%2fmunicipales-2026-a-annecy-les-equilibres-bougent-avec-larrivee-dun-ancien-ministre-2182339&c=8141697018347547373&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 22 Aug 2025 06:46:00 GMT"
-        },
-        {
-          "title": "Résultat de l'élection municipale 2026 à Annecy : Antoine Armand élu maire, tous les résultats",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92760080848a4a555f1c395392dc0&url=https%3a%2f%2fwww.linternaute.com%2factualite%2fpolitique%2f10066857-resultat-de-l-election-municipale-2026-annecy-les-resultats-complets-a-annecy%2f&c=16791157868894539943&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 23 Mar 2026 00:10:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Annecy (74000)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92760080848a4a555f1c395392dc0&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2fhaute-savoie-74%2fannecy-74010&c=12986622181906793270&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:20.702285+00:00"
+      "last_checked": "2026-09-16T10:54:19.075093+00:00"
     },
     "Chambéry": {
       "items": [
+        {
+          "title": "Chambéry Un premier pas de l'ancien maire, Michel Dantin, vers une candidature aux municipales en 2026 ?",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755cbd384a12aa8ded4aaa5d7d65&url=https%3a%2f%2fwww.ledauphine.com%2felections%2f2025%2f01%2f24%2fun-premier-pas-de-l-ancien-maire-michel-dantin-vers-une-candidature-aux-municipales-en-2026&c=356532506386016688&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 24 Jan 2025 03:03:00 GMT"
+        },
+        {
+          "title": "Municipales 2026 à Chambéry : les résultats du second tour de l'élection sont disponibles",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755cbd384a12aa8ded4aaa5d7d65&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2fmunicipales-2026-a-chambery-les-resultats-du-second-tour-de-lelection-sont-disponibles-22-03-2026-BQ32MPT4BVBBVOVNGZIS53OSGM.php&c=16552452683308541608&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 22 Mar 2026 13:00:00 GMT"
+        },
+        {
+          "title": "Résultats des municipales 2026 à Chambéry : les résultats du second tour des élections dans votre commune",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755cbd384a12aa8ded4aaa5d7d65&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-a-chambery-les-resultats-du-second-tour-des-elections-dans-votre-commune_AN-202603220301.html&c=1591452178407004495&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 22 Mar 2026 12:00:00 GMT"
+        },
+        {
+          "title": "Municipales 2026 Chambéry : le candidat Thierry Repentin dévoile sa liste",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa755cbd384a12aa8ded4aaa5d7d65&url=https%3a%2f%2fwww.ledauphine.com%2felections%2f2026%2f02%2f27%2fchambery-le-candidat-thierry-repentin-devoile-sa-liste&c=14422915795024851941&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 27 Feb 2026 07:19:00 GMT"
+        },
         {
           "title": "Municipales 2026 à Chambéry : les résultats du second tour de l'élection sont disponibles",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa927616d684d518ef43141963ee264&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2fmunicipales-2026-a-chambery-les-resultats-du-second-tour-de-lelection-sont-disponibles-22-03-2026-BQ32MPT4BVBBVOVNGZIS53OSGM.php&c=16552452683308541608&mkt=fr-fr",
@@ -3255,37 +3279,13 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e04d008849669bb5e75206e132ed&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2fmunicipales-2026-a-chambery-les-resultats-du-second-tour-de-lelection-sont-disponibles-22-03-2026-BQ32MPT4BVBBVOVNGZIS53OSGM.php&c=16552452683308541608&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 22 Mar 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Résultats des municipales 2026 à Chambéry : les résultats du second tour des élections dans votre commune",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e04d008849669bb5e75206e132ed&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-a-chambery-les-resultats-du-second-tour-des-elections-dans-votre-commune_AN-202603220301.html&c=1591452178407004495&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 12:00:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 Chambéry : le candidat Thierry Repentin dévoile sa liste",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e04d008849669bb5e75206e132ed&url=https%3a%2f%2fwww.ledauphine.com%2felections%2f2026%2f02%2f27%2fchambery-le-candidat-thierry-repentin-devoile-sa-liste&c=14422915795024851941&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 27 Feb 2026 07:19:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Chambéry : les résultats du second tour de l'élection sont disponibles",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6845ded88410782ebd62002c5105c&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2fmunicipales-2026-a-chambery-les-resultats-du-second-tour-de-lelection-sont-disponibles-22-03-2026-BQ32MPT4BVBBVOVNGZIS53OSGM.php&c=16552452683308541608&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 13:00:00 GMT"
-        },
-        {
-          "title": "Résultats des municipales 2026 à Chambéry : les résultats du second tour des élections dans votre commune",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa6845ded88410782ebd62002c5105c&url=https%3a%2f%2fwww.bfmtv.com%2fpolitique%2felections%2fmunicipales%2fresultats-des-municipales-2026-a-chambery-les-resultats-du-second-tour-des-elections-dans-votre-commune_AN-202603220301.html&c=1591452178407004495&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 12:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:22.193421+00:00"
+      "last_checked": "2026-09-16T10:54:20.516517+00:00"
     },
     "Clermont-Ferrand": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:23.642687+00:00"
+      "last_checked": "2026-09-16T10:54:22.015125+00:00"
     },
     "Montluçon": {
       "items": [
@@ -3338,18 +3338,24 @@
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:25.205272+00:00"
+      "last_checked": "2026-09-16T10:54:23.610928+00:00"
     },
     "Bourg-en-Bresse": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:26.659307+00:00"
+      "last_checked": "2026-09-16T10:54:25.211662+00:00"
     },
     "Romans-sur-Isère": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:28.172525+00:00"
+      "last_checked": "2026-09-16T10:54:26.622155+00:00"
     },
     "Miramas": {
       "items": [
+        {
+          "title": "\"Il a marqué la vie publique locale\" : ancien conseiller municipal de Miramas, Jean-Marie Pascal est mort",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa756305f94b7d8f3b547274bcb799&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fsociete%2f25777698587607%2fil-a-marque-la-vie-publique-locale-ancien-conseiller-municipal-de-miramas-jean-marie-pascal-est-mort&c=16537318090528311162&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 28 Jun 2026 04:06:00 GMT"
+        },
         {
           "title": "\"Il a marqué la vie publique locale\" : ancien conseiller municipal de Miramas, Jean-Marie Pascal est mort",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92769a4774b8193034128199075c8&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fsociete%2f25777698587607%2fil-a-marque-la-vie-publique-locale-ancien-conseiller-municipal-de-miramas-jean-marie-pascal-est-mort&c=16537318090528311162&mkt=fr-fr",
@@ -3391,18 +3397,24 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5250d7938423baf3dc7f4c000aa05&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fsociete%2f25777698587607%2fil-a-marque-la-vie-publique-locale-ancien-conseiller-municipal-de-miramas-jean-marie-pascal-est-mort&c=16537318090528311162&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 28 Jun 2026 04:06:00 GMT"
-        },
-        {
-          "title": "\"Il a marqué la vie publique locale\" : ancien conseiller municipal de Miramas, Jean-Marie Pascal est mort",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3dab3e956401d845476c63273d050&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fsociete%2f25777698587607%2fil-a-marque-la-vie-publique-locale-ancien-conseiller-municipal-de-miramas-jean-marie-pascal-est-mort&c=16537318090528311162&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 28 Jun 2026 04:06:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:29.673207+00:00"
+      "last_checked": "2026-09-16T10:54:28.084125+00:00"
     },
     "Istres": {
       "items": [
+        {
+          "title": "Conseil municipal d'Istres : Emmanuelle Taupin-Mayor quitte le groupe d'opposition \"Nous sommes Istres\" de François Bernardini",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75652414478683d90d3e45711dde&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fpolitique%2f5504255322225414%2fconseil-municipal-distres-emmanuelle-taupin-mayor-quitte-le-groupe-dopposition-nous-sommes-istres-de-francois-bernardini&c=17384134263528624924&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 08 Jun 2026 03:30:00 GMT"
+        },
+        {
+          "title": "Istres : Robin Prétot écarte quatre directeurs généraux adjoints dans le cadre de sa réforme de l’administration",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75652414478683d90d3e45711dde&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fpolitique%2f9460570297352714%2fistres-robin-pretot-ecarte-quatre-directeurs-generaux-adjoints-dans-le-cadre-de-sa-reforme-de-l-administration&c=13261715716753336299&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 18 Jul 2026 21:06:00 GMT"
+        },
         {
           "title": "Conseil municipal d'Istres : Emmanuelle Taupin-Mayor quitte le groupe d'opposition \"Nous sommes Istres\" de François Bernardini",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9276adfac44a3bc071e789c5516c3&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fpolitique%2f5504255322225414%2fconseil-municipal-distres-emmanuelle-taupin-mayor-quitte-le-groupe-dopposition-nous-sommes-istres-de-francois-bernardini&c=17384134263528624924&mkt=fr-fr",
@@ -3438,24 +3450,30 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa68465c2314ece8f4be91ce413219e&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fpolitique%2f9460570297352714%2fistres-robin-pretot-ecarte-quatre-directeurs-generaux-adjoints-dans-le-cadre-de-sa-reforme-de-l-administration&c=13261715716753336299&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 18 Jul 2026 21:06:00 GMT"
-        },
-        {
-          "title": "Conseil municipal d'Istres : Emmanuelle Taupin-Mayor quitte le groupe d'opposition \"Nous sommes Istres\" de François Bernardini",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5250f76034444a180c592a445b9fd&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fpolitique%2f5504255322225414%2fconseil-municipal-distres-emmanuelle-taupin-mayor-quitte-le-groupe-dopposition-nous-sommes-istres-de-francois-bernardini&c=17384134263528624924&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 08 Jun 2026 03:30:00 GMT"
-        },
-        {
-          "title": "Istres : Robin Prétot écarte quatre directeurs généraux adjoints dans le cadre de sa réforme de l’administration",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5250f76034444a180c592a445b9fd&url=https%3a%2f%2fwww.laprovence.com%2farticle%2fpolitique%2f9460570297352714%2fistres-robin-pretot-ecarte-quatre-directeurs-generaux-adjoints-dans-le-cadre-de-sa-reforme-de-l-administration&c=13261715716753336299&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 18 Jul 2026 21:06:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:31.235324+00:00"
+      "last_checked": "2026-09-16T10:54:29.541712+00:00"
     },
     "Vitrolles": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Vitrolles (05110)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7566fd1d4c4c81991dd8b465d75d&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f05110-vitrolles-05184&c=6603097356537295581&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
+        {
+          "title": "Municipales 2026 : qui sont les candidats aux élections à Vitrolles ?",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7566fd1d4c4c81991dd8b465d75d&url=https%3a%2f%2fmadeinmarseille.net%2factualite%2fetang-berre%2f197164-municipales-2026-qui-sont-les-candidats-aux-elections-a-vitrolles%2f&c=6779913196492923183&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sun, 15 Feb 2026 09:35:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Vitrolles (13127)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7566fd1d4c4c81991dd8b465d75d&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f13127-vitrolles-13117&c=18025214340293992364&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Vitrolles : quand la ville nouvelle se renouvelle",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9276c3a2c44d9b65de16a7e88e624&url=https%3a%2f%2fmesinfos.fr%2f13127-vitrolles%2fvitrolles-quand-la-ville-nouvelle-se-renouvelle-233988.html&c=2492756619800515453&mkt=fr-fr",
@@ -3485,30 +3503,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa525104a2b4795b10aae8dbfd19698&url=https%3a%2f%2fmadeinmarseille.net%2factualite%2fetang-berre%2f197164-municipales-2026-qui-sont-les-candidats-aux-elections-a-vitrolles%2f&c=6779913196492923183&mkt=fr-fr",
           "source": "",
           "pubDate": "Sun, 15 Feb 2026 09:35:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Vitrolles (13127)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa525104a2b4795b10aae8dbfd19698&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f13127-vitrolles-13117&c=18025214340293992364&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Vitrolles (05110)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3dab658b143199af86f78d23d2625&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f05110-vitrolles-05184&c=6603097356537295581&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 : qui sont les candidats aux élections à Vitrolles ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3dab658b143199af86f78d23d2625&url=https%3a%2f%2fmadeinmarseille.net%2factualite%2fetang-berre%2f197164-municipales-2026-qui-sont-les-candidats-aux-elections-a-vitrolles%2f&c=6779913196492923183&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 15 Feb 2026 09:35:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:32.711465+00:00"
+      "last_checked": "2026-09-16T10:54:30.986851+00:00"
     },
     "Marignane": {
       "items": [
+        {
+          "title": "Marignane : résultats du 2nd tour des élections Municipales 2026",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7568ad8f449fa6e98b5bd7f6ef29&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fprovence-alpes-cote-d-azur%2fbouches-du-rhone%2fmarignane-13700%2f&c=9784409707985848259&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 02 Nov 2021 17:03:00 GMT"
+        },
         {
           "title": "Marignane : résultats du 2nd tour des élections Municipales 2026",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9276db4ee4d25b510e8fa84c007f4&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fprovence-alpes-cote-d-azur%2fbouches-du-rhone%2fmarignane-13700%2f&c=9784409707985848259&mkt=fr-fr",
@@ -3550,22 +3556,28 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ea298a8374b87aa90c7ce86ce48db&url=https%3a%2f%2fwww.ici.fr%2fprovence-alpes-cote-d-azur%2fbouches-du-rhone-13%2fmarignane%2felections&c=2226183810361485158&mkt=fr-fr",
           "source": "",
           "pubDate": "Tue, 02 Jun 2026 05:30:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 : Marignane (13700)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d3e3d0b1d468eaa9d34b108f14e6f&url=https%3a%2f%2fwww.ici.fr%2fprovence-alpes-cote-d-azur%2fbouches-du-rhone-13%2fmarignane%2felections&c=2226183810361485158&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 02 Jun 2026 05:30:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:34.212615+00:00"
+      "last_checked": "2026-09-16T10:54:32.449603+00:00"
     },
     "Aix-en-Provence": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:35.720559+00:00"
+      "last_checked": "2026-09-16T10:54:33.900131+00:00"
     },
     "Castres": {
       "items": [
+        {
+          "title": "Municipales 2026 : qui est Florian Azéma, le nouveau maire RN de Castres ?",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa756b4dd64345b085b62694cda9aa&url=https%3a%2f%2fwww.ici.fr%2foccitanie%2ftarn-81%2fcastres%2fqui-est-florian-azema-le-nouveau-maire-rn-de-castres-2194930&c=8412686047012540253&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 23 Mar 2026 07:23:00 GMT"
+        },
+        {
+          "title": "Résultats des élections municipales 2026 à Castres (81100)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa756b4dd64345b085b62694cda9aa&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2ftarn-81%2fcastres-81065&c=8175649424642969529&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Castres (81100)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9277162014831aba5a0b87d698459&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2ftarn-81%2fcastres-81065&c=8175649424642969529&mkt=fr-fr",
@@ -3601,21 +3613,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3dabad2df4e398f3476169d6c61e0&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2ftarn-81%2fcastres-81065&c=8175649424642969529&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Castres : découvrez les résultats du second tour",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3dabad2df4e398f3476169d6c61e0&url=https%3a%2f%2fwww.leparisien.fr%2felections%2fmunicipales%2fmunicipales-2026-a-castres-decouvrez-les-resultats-du-second-tour-22-03-2026-I6MFZGX6F5H2BO2UPJZG4LO3RE.php&c=12790512832246267184&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 12:40:00 GMT"
-        },
-        {
-          "title": "Castres. On connaît les dates des événements 2026",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3dabad2df4e398f3476169d6c61e0&url=https%3a%2f%2fwww.ladepeche.fr%2f2026%2f02%2f20%2fon-connait-les-dates-des-evenements-2026-13235318.php&c=5871045110716780651&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 19 Feb 2026 21:12:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:37.214428+00:00"
+      "last_checked": "2026-09-16T10:54:35.393239+00:00"
     },
     "Albi": {
       "items": [
@@ -3668,10 +3668,22 @@
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:38.722577+00:00"
+      "last_checked": "2026-09-16T10:54:36.835771+00:00"
     },
     "Tarbes": {
       "items": [
+        {
+          "title": "Construction de l’hôpital commun Tarbes-Lourdes : \"Ce n’est plus un choix, c’est une urgence\"",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa756e188742c48017eab543588bb9&url=https%3a%2f%2fwww.ladepeche.fr%2f2026%2f03%2f19%2fconstruction-de-lhopital-commun-tarbes-lourdes-ce-nest-plus-un-choix-cest-une-urgence-13281272.php&c=10713448115493937236&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 19 Mar 2026 09:00:00 GMT"
+        },
+        {
+          "title": "Condamné dans une affaire de marchés publics, le maire de Tarbes bientôt destitué",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa756e188742c48017eab543588bb9&url=https%3a%2f%2fwww.france24.com%2ffr%2finfo-en-continu%2f20251208-condamn%25C3%25A9-dans-une-affaire-de-march%25C3%25A9s-publics-le-maire-de-tarbes-bient%25C3%25B4t-destitu%25C3%25A9&c=1830239759269934814&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 08 Dec 2025 12:15:00 GMT"
+        },
         {
           "title": "Condamné dans une affaire de marchés publics, le maire de Tarbes bientôt destitué",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa927746b5344d09f81cf18d2a5abce&url=https%3a%2f%2fwww.france24.com%2ffr%2finfo-en-continu%2f20251208-condamn%25C3%25A9-dans-une-affaire-de-march%25C3%25A9s-publics-le-maire-de-tarbes-bient%25C3%25B4t-destitu%25C3%25A9&c=1830239759269934814&mkt=fr-fr",
@@ -3707,24 +3719,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa289746a6c4101a23b98be9385bce5&url=https%3a%2f%2fwww.france24.com%2ffr%2finfo-en-continu%2f20251208-condamn%25C3%25A9-dans-une-affaire-de-march%25C3%25A9s-publics-le-maire-de-tarbes-bient%25C3%25B4t-destitu%25C3%25A9&c=1830239759269934814&mkt=fr-fr",
           "source": "",
           "pubDate": "Mon, 08 Dec 2025 12:15:00 GMT"
-        },
-        {
-          "title": "Tarbes rend hommage aux héros du 8-Mai devant une jeunesse mobilisée",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe5dcc02b443bb7d3da17eeae17f0&url=https%3a%2f%2fwww.ladepeche.fr%2f2026%2f05%2f08%2ftarbes-rend-hommage-aux-heros-du-8-mai-devant-une-jeunesse-mobilisee-13361832.php&c=2968819377679028052&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 08 May 2026 04:38:00 GMT"
-        },
-        {
-          "title": "Condamné dans une affaire de marchés publics, le maire de Tarbes bientôt destitué",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe5dcc02b443bb7d3da17eeae17f0&url=https%3a%2f%2fwww.france24.com%2ffr%2finfo-en-continu%2f20251208-condamn%25C3%25A9-dans-une-affaire-de-march%25C3%25A9s-publics-le-maire-de-tarbes-bient%25C3%25B4t-destitu%25C3%25A9&c=1830239759269934814&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 08 Dec 2025 12:15:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:40.220141+00:00"
+      "last_checked": "2026-09-16T10:54:38.327731+00:00"
     },
     "Béziers": {
       "items": [
+        {
+          "title": "Échanges tendus entre Robert Ménard et des journalistes sur le plateau de BFMTV : Sonia Mabrouk et le \"pluralisme\" au cœur de la discussion",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa756f17d54b519f322bca4779c897&url=https%3a%2f%2fwww.midilibre.fr%2f2026%2f09%2f14%2fechanges-tendus-entre-robert-menard-et-des-journalistes-sur-le-plateau-de-bfmtv-sonia-mabrouk-et-le-pluralisme-au-coeur-de-la-discussion-13550901.php&c=10317612687318663859&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 14 Sep 2026 11:47:00 GMT"
+        },
         {
           "title": "Municipales 2026 à Béziers : \"Le RN, ça lui apprendra, j’espère que ça lui servira de leçon\", confie Robert Ménard, réélu pour un troisième mandat",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa927756c4e4964b0da4930e972316e&url=https%3a%2f%2fwww.midilibre.fr%2f2026%2f03%2f16%2fmunicipales-2026-a-beziers-le-rn-ca-lui-apprendra-jespere-que-ca-lui-servira-de-lecon-confie-robert-menard-reelu-pour-un-troisieme-mandat-13275704.php&c=14855159851852759323&mkt=fr-fr",
@@ -3766,15 +3772,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa28976c87d4540910395197b4c80fc&url=https%3a%2f%2fwww.linternaute.com%2fville%2fbeziers%2fville-34032&c=16606115011871383631&mkt=fr-fr",
           "source": "",
           "pubDate": "Thu, 03 Oct 2024 17:00:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Béziers : \"Le RN, ça lui apprendra, j’espère que ça lui servira de leçon\", confie Robert Ménard, réélu pour un troisième mandat",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa139c58bff4c1c9d6b75ac39b34faa&url=https%3a%2f%2fwww.midilibre.fr%2f2026%2f03%2f16%2fmunicipales-2026-a-beziers-le-rn-ca-lui-apprendra-jespere-que-ca-lui-servira-de-lecon-confie-robert-menard-reelu-pour-un-troisieme-mandat-13275704.php&c=14855159851852759323&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 16 Mar 2026 01:05:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:41.733583+00:00"
+      "last_checked": "2026-09-16T10:54:39.804107+00:00"
     },
     "Narbonne": {
       "items": [
@@ -3827,10 +3827,28 @@
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:43.238413+00:00"
+      "last_checked": "2026-09-16T10:54:41.245469+00:00"
     },
     "Carcassonne": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Carcassonne (11000)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7572bad34d12adbdac8a88af0a72&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2faude-11%2fcarcassonne-11069&c=9093051051840867451&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 23 Mar 2026 10:18:00 GMT"
+        },
+        {
+          "title": "Achat Ferme à Carcassonne (11) : 11 annonces",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7572bad34d12adbdac8a88af0a72&url=https%3a%2f%2fimmobilier.lefigaro.fr%2fannonces%2fimmobilier-vente-ferme-carcassonne%2b11000.html&c=305237029336819773&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 28 Apr 2017 15:01:00 GMT"
+        },
+        {
+          "title": "Carcassonne : le maire RN arrose des manifestants",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa7572bad34d12adbdac8a88af0a72&url=https%3a%2f%2fwww.tf1info.fr%2fpolitique%2fvideos%2fvideo-carcassonne-le-maire-rn-arrose-des-manifestants-36627-2449718.html&c=5896488310076319195&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Fri, 26 Jun 2026 03:35:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Carcassonne (11000)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9277883834767b41a23ca7ba6150c&url=https%3a%2f%2fwww.lefigaro.fr%2felections%2fresultats%2fmunicipales%2f2026%2faude-11%2fcarcassonne-11069&c=9093051051840867451&mkt=fr-fr",
@@ -3860,34 +3878,34 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e062ae4049b498f1064927979d7b&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f11000-carcassonne-11069&c=13490872131464482378&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 21 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Achat Ferme à Carcassonne (11) : 11 annonces",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e062ae4049b498f1064927979d7b&url=https%3a%2f%2fimmobilier.lefigaro.fr%2fannonces%2fimmobilier-vente-ferme-carcassonne%2b11000.html&c=305237029336819773&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 28 Apr 2017 15:01:00 GMT"
-        },
-        {
-          "title": "À Carcassonne, les débuts tonitruants du nouveau maire RN",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e062ae4049b498f1064927979d7b&url=https%3a%2f%2fwww.ouest-france.fr%2felections%2fmunicipales%2fa-carcassonne-les-debuts-tonitruants-du-nouveau-maire-rn-228f3c3e-43ac-11f1-b649-032b4fb71ff8&c=17389099490895160310&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 30 Apr 2026 23:01:00 GMT"
-        },
-        {
-          "title": "«Les squatteurs, c'est terminé» : le maire RN de Carcassonne se filme en train de murer un bâtiment",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa7e062ae4049b498f1064927979d7b&url=https%3a%2f%2fwww.lejdd.fr%2fpolitique%2fles-squatteurs-cest-termine-le-maire-rn-de-carcassonne-se-filme-en-train-de-murer-un-batiment-176799&c=5436568160510295487&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Fri, 19 Jun 2026 03:04:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:44.757428+00:00"
+      "last_checked": "2026-09-16T10:54:42.792001+00:00"
     },
     "Cherbourg-en-Cotentin": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:46.256500+00:00"
+      "last_checked": "2026-09-16T10:54:44.233211+00:00"
     },
     "Caen": {
       "items": [
+        {
+          "title": "La préfecture, 16 collectivités et une société demandent l’annulation de cinq permis de construire à Moult-Chicheboville",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75757a9c42d6a1755d135880a225&url=https%3a%2f%2fwww.ouest-france.fr%2fsociete%2fjustice%2fla-prefecture-16-collectivites-et-une-societe-demandent-lannulation-de-cinq-permis-de-construire-a-moult-chicheboville-1cb2b26a-b0e3-11f1-bc32-13ddcee9efa7&c=12773727005283156498&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 15 Sep 2026 08:05:00 GMT"
+        },
+        {
+          "title": "Elections départementales : dans le Calvados, deux heures de débat pour six forces politiques",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75757a9c42d6a1755d135880a225&url=https%3a%2f%2factu.fr%2fpolitique%2felections-departementales%2felections-departementales-dans-le-calvados-deux-heures-de-debat-pour-six-forces-politiques_42556020.html&c=287681699008254770&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Thu, 10 Jun 2021 22:48:00 GMT"
+        },
+        {
+          "title": "Les règles des élections municipales",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa75757a9c42d6a1755d135880a225&url=https%3a%2f%2fwww.leparisien.fr%2fresultats-elections%2fnormandie%2fcalvados%2fcaen-14000%2f&c=15467509404070753816&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 17 Mar 2020 03:45:00 GMT"
+        },
         {
           "title": "Elections départementales : dans le Calvados, deux heures de débat pour six forces politiques",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9277b77e8481da526141c7ed3e3dd&url=https%3a%2f%2factu.fr%2fpolitique%2felections-departementales%2felections-departementales-dans-le-calvados-deux-heures-de-debat-pour-six-forces-politiques_42556020.html&c=287681699008254770&mkt=fr-fr",
@@ -3917,27 +3935,9 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5251ff4004033b5595f7a64c5627e&url=https%3a%2f%2factu.fr%2fnormandie%2fcaen_14118%2fce-raccourci-vers-la-gare-de-caen-bientot-ferme-a-la-circulation-le-chantier-des-cascades-demarre_64775711.html&c=4396032584936685308&mkt=fr-fr",
           "source": "",
           "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT"
-        },
-        {
-          "title": "A Caen, la montée des eaux oblige à inventer un quartier démontable dans cinquante ans",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5251ff4004033b5595f7a64c5627e&url=https%3a%2f%2fwww.lemonde.fr%2feconomie%2farticle%2f2026%2f05%2f31%2fa-caen-la-montee-des-eaux-oblige-a-inventer-un-quartier-demontable-dans-cinquante-ans_6695503_3234.html&c=16942026659847272911&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 30 May 2026 21:00:00 GMT"
-        },
-        {
-          "title": "Résultats des municipales 2026 à Caen: le maire sortant Aristide Olivier remporte l’élection",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5251ff4004033b5595f7a64c5627e&url=https%3a%2f%2fwww.bfmtv.com%2fnormandie%2fcalvados%2fcaen%2fresultats-des-municipales-2026-a-caen-le-maire-sortant-aristide-olivier-remporte-l-election_AN-202603220560.html&c=6898280156201515054&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 22 Mar 2026 13:49:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 à Caen. Qui sont les 55 membres de la liste « Lutte ouvrière – Le camp des travailleurs » ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5251ff4004033b5595f7a64c5627e&url=https%3a%2f%2fwww.ouest-france.fr%2felections%2fmunicipales%2fmunicipales-2026-a-caen-qui-sont-les-55-membres-de-la-liste-lutte-ouvriere-le-camp-des-travailleurs-5f1cd276-1259-11f1-b716-b464f6755d91&c=5003424524628120077&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Thu, 26 Feb 2026 10:39:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:47.739578+00:00"
+      "last_checked": "2026-09-16T10:54:45.781816+00:00"
     },
     "Honfleur": {
       "items": [
@@ -3990,7 +3990,7 @@
           "pubDate": "Fri, 27 Mar 2026 11:38:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:49.237561+00:00"
+      "last_checked": "2026-09-16T10:54:47.266967+00:00"
     },
     "Ormes": {
       "items": [
@@ -4043,10 +4043,22 @@
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:50.731144+00:00"
+      "last_checked": "2026-09-16T10:54:48.766650+00:00"
     },
     "Blois": {
       "items": [
+        {
+          "title": "Résultat de l'élection municipale 2026 à Blois : Marc Gricourt élu, tous les résultats",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa757a7eef4ea59fc7e14476324479&url=https%3a%2f%2fwww.linternaute.com%2factualite%2fpolitique%2f10066875-resultat-de-l-election-municipale-2026-blois-marc-gricourt-remporte-les-elections-a-blois%2f&c=3411473066587154542&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Mon, 23 Mar 2026 09:22:00 GMT"
+        },
+        {
+          "title": "Municipales 2026 : à Blois, droite et centre avancent désunis face à la gauche",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa757a7eef4ea59fc7e14476324479&url=https%3a%2f%2fwww.lemonde.fr%2fpolitique%2farticle%2f2025%2f11%2f11%2fmunicipales-2026-a-blois-droite-et-centre-avancent-desunis-face-a-la-gauche_6653007_823448.html&c=9207803833144698501&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Tue, 11 Nov 2025 05:00:00 GMT"
+        },
         {
           "title": "Résultat de l'élection municipale 2026 à Blois : Marc Gricourt élu, tous les résultats",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92780d5374137b9c46cd3ed8ba2db&url=https%3a%2f%2fwww.linternaute.com%2factualite%2fpolitique%2f10066875-resultat-de-l-election-municipale-2026-blois-marc-gricourt-remporte-les-elections-a-blois%2f&c=3411473066587154542&mkt=fr-fr",
@@ -4082,24 +4094,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ea2aaa8e84146b3d9080ca3616939&url=https%3a%2f%2fwww.lemonde.fr%2fpolitique%2farticle%2f2025%2f11%2f11%2fmunicipales-2026-a-blois-droite-et-centre-avancent-desunis-face-a-la-gauche_6653007_823448.html&c=9207803833144698501&mkt=fr-fr",
           "source": "",
           "pubDate": "Tue, 11 Nov 2025 05:00:00 GMT"
-        },
-        {
-          "title": "Résultat de l'élection municipale 2026 à Blois : Marc Gricourt élu, tous les résultats",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9be87b221f47c0811a56930e735a72&url=https%3a%2f%2fwww.linternaute.com%2factualite%2fpolitique%2f10066875-resultat-de-l-election-municipale-2026-blois-marc-gricourt-remporte-les-elections-a-blois%2f&c=3411473066587154542&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Mon, 23 Mar 2026 09:22:00 GMT"
-        },
-        {
-          "title": "Municipales 2026 : à Blois, droite et centre avancent désunis face à la gauche",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9be87b221f47c0811a56930e735a72&url=https%3a%2f%2fwww.lemonde.fr%2fpolitique%2farticle%2f2025%2f11%2f11%2fmunicipales-2026-a-blois-droite-et-centre-avancent-desunis-face-a-la-gauche_6653007_823448.html&c=9207803833144698501&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Tue, 11 Nov 2025 05:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:52.350132+00:00"
+      "last_checked": "2026-09-16T10:54:50.232668+00:00"
     },
     "Trémery": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Trémery (57300)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa757b4dd647be8a1c7be31bfffc0f&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f57300-tremery-57677&c=3183955752458164539&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Trémery (57300)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9278178b74ad1bcd2f494444d51e2&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f57300-tremery-57677&c=3183955752458164539&mkt=fr-fr",
@@ -4141,22 +4147,22 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa139d0504a4f40904eb3ee6f4bbe64&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f57300-tremery-57677&c=3183955752458164539&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Résultats des élections municipales 2026 à Trémery (57300)",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe5eae2f24e64a2a76665ec45ceaa&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f57300-tremery-57677&c=3183955752458164539&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:53.965751+00:00"
+      "last_checked": "2026-09-16T10:54:51.792617+00:00"
     },
     "Hénin-Beaumont": {
       "items": [],
-      "last_checked": "2026-09-15T11:09:55.469405+00:00"
+      "last_checked": "2026-09-16T10:54:53.216123+00:00"
     },
     "Lauterbourg": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Lauterbourg (67630)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa757e68ae40a89a803b459c09cde4&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f67630-lauterbourg-67261&c=11621029772918749231&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Lauterbourg (67630)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9278489ab411688c0dd81424aabd5&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f67630-lauterbourg-67261&c=11621029772918749231&mkt=fr-fr",
@@ -4198,18 +4204,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa5252968b24e17967257be9c2de0dd&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f67630-neewiller-pres-lauterbourg-67315&c=2756764856576759749&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Lauterbourg Fin de Viridian Lithium : quels impacts pour le territoire ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3dace9d76409ea419a656b613d588&url=https%3a%2f%2fwww.dna.fr%2feconomie%2f2026%2f04%2f08%2ffin-de-viridian-lithium-quels-impacts-pour-le-territoire&c=14150325583576719076&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 08 Apr 2026 10:59:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:56.975805+00:00"
+      "last_checked": "2026-09-16T10:54:54.680048+00:00"
     },
     "Chaponnay": {
       "items": [
+        {
+          "title": "Chaponnay Conseil municipal : la résidence seniors alimente les débats",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa757fecf34a3ca017ebbcdc66fc6b&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2025%2f06%2f25%2fconseil-municipal-la-residence-seniors-alimente-les-debats&c=13480140713725965126&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Wed, 25 Jun 2025 03:11:00 GMT"
+        },
         {
           "title": "Chaponnay Conseil municipal : la résidence seniors alimente les débats",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa92786e47e4435baad9757eb9e7209&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2025%2f06%2f25%2fconseil-municipal-la-residence-seniors-alimente-les-debats&c=13480140713725965126&mkt=fr-fr",
@@ -4251,18 +4257,18 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa139d5bd8a443a820d25dee5ae0386&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2025%2f06%2f25%2fconseil-municipal-la-residence-seniors-alimente-les-debats&c=13480140713725965126&mkt=fr-fr",
           "source": "",
           "pubDate": "Wed, 25 Jun 2025 03:11:00 GMT"
-        },
-        {
-          "title": "Chaponnay Conseil municipal : la résidence seniors alimente les débats",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe5ee10e24154aa2f98237c4e5a37&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2025%2f06%2f25%2fconseil-municipal-la-residence-seniors-alimente-les-debats&c=13480140713725965126&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Wed, 25 Jun 2025 03:11:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:09:58.495088+00:00"
+      "last_checked": "2026-09-16T10:54:56.158708+00:00"
     },
     "Communay": {
       "items": [
+        {
+          "title": "Résultats des élections municipales 2026 à Communay (69360)",
+          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa758194384fbd9a23fd3b9c3b1498&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f69360-communay-69272&c=2440599588278108633&mkt=fr-fr",
+          "source": "",
+          "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
+        },
         {
           "title": "Résultats des élections municipales 2026 à Communay (69360)",
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa927879191400b98ddd84ad33d0273&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f69360-communay-69272&c=2440599588278108633&mkt=fr-fr",
@@ -4304,19 +4310,13 @@
           "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa139d6c40f4dae93ca7509e66a7321&url=https%3a%2f%2fmesinfos.fr%2felections%2fmunicipales-2026%2f69360-communay-69272&c=2440599588278108633&mkt=fr-fr",
           "source": "",
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
-        },
-        {
-          "title": "Communay | Politique Qui est la nouvelle adjointe Enfance, Jeunesse et Culture ?",
-          "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa139d6c40f4dae93ca7509e66a7321&url=https%3a%2f%2fwww.leprogres.fr%2fpolitique%2f2020%2f08%2f09%2fqui-est-la-nouvelle-adjointe-enfance-jeunesse-et-culture&c=271401163440006202&mkt=fr-fr",
-          "source": "",
-          "pubDate": "Sun, 09 Aug 2020 12:30:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:10:00.010641+00:00"
+      "last_checked": "2026-09-16T10:54:57.611085+00:00"
     },
     "Montbonnot-Saint-Martin": {
       "items": [],
-      "last_checked": "2026-09-15T11:10:01.521461+00:00"
+      "last_checked": "2026-09-16T10:54:59.094628+00:00"
     },
     "Montbéliard": {
       "items": [
@@ -4369,7 +4369,7 @@
           "pubDate": "Sat, 14 Mar 2026 17:00:00 GMT"
         }
       ],
-      "last_checked": "2026-09-15T11:10:03.000078+00:00"
+      "last_checked": "2026-09-16T10:55:00.534950+00:00"
     }
   }
 }
